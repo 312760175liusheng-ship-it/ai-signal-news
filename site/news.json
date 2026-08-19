@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T06:52:20.629Z",
+  "updatedAt": "2026-08-19T07:53:40.103Z",
   "items": [
     {
       "id": "OpenAI-https://openai.com/index/chatgpt-ads-expands-across-europe",
@@ -12,12 +12,15 @@
       "kind": "official",
       "region": "global",
       "accent": "#101010",
-      "score": 3
+      "score": 3,
+      "titleZh": "ChatGPT 广告扩展至欧洲",
+      "summaryZh": "ChatGPT 广告将覆盖 31 个欧洲市场，让广告主能够在用户探索、比较和做决定的过程中触达他们。",
+      "translationMethod": "editorial"
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
       "title": "Mojo🔥 is now open source",
-      "summary": "Mojo🔥 is now open source Mojo🔥 is now open source The Mojo programming language has been promising an open source release since May 2023 . Last week they shipped their 1.0 and today they have followed through on that original promise, releasing the compiler and toolchain under ",
+      "summary": "Mojo🔥 is now open source The Mojo programming language has been promising an open source release since May 2023 . Last week they shipped their 1.0 and today they have followed through on that original promise, releasing the compiler and toolchain under an Apache 2 license. When ",
       "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
       "date": "2026-08-18T21:39:20.000Z",
       "source": "Simon Willison",
@@ -26,7 +29,10 @@
       "region": "global",
       "accent": "#8d5bd3",
       "score": 6,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。",
+      "titleZh": "Mojo🔥 现已开源",
+      "summaryZh": "Mojo 编程语言自 2023 年 5 月起就承诺开源。上周发布 1.0 后，团队现在兑现了承诺，正式开放编译器和工具链的源代码。",
+      "translationMethod": "editorial"
     },
     {
       "id": "OpenAI-https://openai.com/index/strengthening-democratic-oversight-in-national-security",
@@ -39,7 +45,10 @@
       "kind": "official",
       "region": "global",
       "accent": "#101010",
-      "score": 4
+      "score": 4,
+      "titleZh": "加强国家安全领域的民主监督",
+      "summaryZh": "OpenAI 启动一项计划，通过工具、培训和专业支持，加强政府机构对国家安全领域 AI 应用的民主监督。",
+      "translationMethod": "editorial"
     },
     {
       "id": "OpenAI-https://openai.com/index/partnering-with-codeai",
@@ -52,7 +61,10 @@
       "kind": "official",
       "region": "global",
       "accent": "#101010",
-      "score": 3
+      "score": 3,
+      "titleZh": "OpenAI 与 CodeAI 合作，帮助第一代 AI 原住民建立基本素养",
+      "summaryZh": "双方将帮助学生理解 AI、进行批判性思考，并培养负责任地使用和塑造 AI 的能力。",
+      "translationMethod": "editorial"
     },
     {
       "id": "OpenAI-https://openai.com/index/pacing-model-development-cyber-capabilities",
@@ -65,7 +77,10 @@
       "kind": "official",
       "region": "global",
       "accent": "#101010",
-      "score": 3
+      "score": 3,
+      "titleZh": "网络攻防能力逼近关键门槛后，如何控制模型开发节奏",
+      "summaryZh": "OpenAI 正加强前沿模型的监测、对齐与安全措施，并说明这些保障如何影响模型的开发和发布速度。",
+      "translationMethod": "editorial"
     },
     {
       "id": "OpenAI-https://openai.com/index/chatgpt-for-teens",
@@ -78,7 +93,12 @@
       "kind": "official",
       "region": "global",
       "accent": "#101010",
-      "score": 5
+      "score": 5,
+      "titleZh": "推出青少年版 ChatGPT：为学习而生，并配有更强保护",
+      "summaryZh": "青少年版 ChatGPT 帮助未成年人学习、进行批判性思考并更有把握地使用 AI，同时提供更强的内置保护、健康使用功能和家长控制。",
+      "translationMethod": "editorial",
+      "curated": true,
+      "takeaway": "可以忽略：除非你需要替未成年人设置 ChatGPT；对当前个人知识工作没有直接增量。"
     },
     {
       "id": "OpenAI-https://openai.com/index/asana",
@@ -91,7 +111,12 @@
       "kind": "official",
       "region": "global",
       "accent": "#101010",
-      "score": 4
+      "score": 4,
+      "titleZh": "Asana 用 Codex 在两周内完成原估五年的工程改造",
+      "summaryZh": "Asana 用 OpenAI Codex 在两周内替换一套过时的测试系统；公司口径称，这项工作原本预计需要五年，成本约 1.2 万美元。",
+      "translationMethod": "editorial",
+      "curated": true,
+      "takeaway": "继续观察：案例有明确任务、时间和成本，但关键结果仍来自 OpenAI 与客户的联合口径。"
     },
     {
       "id": "OpenAI-https://openai.com/index/nvidia/chatgpt-work",
@@ -104,12 +129,15 @@
       "kind": "official",
       "region": "global",
       "accent": "#101010",
-      "score": 4
+      "score": 4,
+      "titleZh": "NVIDIA 如何用 ChatGPT Work 扩大专业知识的复用",
+      "summaryZh": "NVIDIA 团队用 ChatGPT Work 减少手工任务、连接快速变化的信息，并把已验证的工作流程扩展到全球团队。",
+      "translationMethod": "editorial"
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
       "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
-      "summary": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.7T parameters , and Luna is size unknown but presumab",
+      "summary": "That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.7T parameters , and Luna is size unknown but presumably a whole lot bigger than 27B. Qwen 3.8 27B is a truly astonishing m",
       "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
       "date": "2026-08-17T23:58:14.000Z",
       "source": "Simon Willison",
@@ -118,12 +146,15 @@
       "region": "global",
       "accent": "#8d5bd3",
       "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。",
+      "titleZh": "Qwen 3.8 27B 在 Artificial Analysis 智能指数中获得 52 分",
+      "summaryZh": "它与 GPT-5.6 Luna（max）同分，只比 GLM-5.2（max）和 DeepSeek V4 Pro 0813（max）低 1 分；但后两者的参数规模明显更大。",
+      "translationMethod": "editorial"
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
       "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-      "summary": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility Excellent piece of reporting from 404 Media. For a while now there have been stories of book dealers receiving orders for large volumes of books from apparently price-insensitive anonymous customers, ",
+      "summary": "Excellent piece of reporting from 404 Media. For a while now there have been stories of book dealers receiving orders for large volumes of books from apparently price-insensitive anonymous customers, widely suspected to be companies looking to scan them for AI training (see my pr",
       "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
       "date": "2026-08-17T15:21:29.000Z",
       "source": "Simon Willison",
@@ -132,7 +163,10 @@
       "region": "global",
       "accent": "#8d5bd3",
       "score": 4,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。",
+      "titleZh": "一批稀有书籍最终被送往亚马逊 AI 训练设施",
+      "summaryZh": "404 Media 的调查追踪了书商接到的大批量订单：匿名买家似乎不在意价格，而这些书最终流向了亚马逊的 AI 训练设施。",
+      "translationMethod": "editorial"
     },
     {
       "id": "Nathan Lambert-https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
@@ -146,7 +180,10 @@
       "region": "global",
       "accent": "#1f7a6b",
       "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。",
+      "titleZh": "让每个人都学会自己“钓 Token”",
+      "summaryZh": "NVIDIA 希望开发者自己构建模型，而不是从 Anthropic 或 OpenAI 购买现成能力。",
+      "translationMethod": "editorial"
     },
     {
       "id": "Jack Clark-https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/",
@@ -160,7 +197,10 @@
       "region": "global",
       "accent": "#3c6393",
       "score": 3,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。",
+      "titleZh": "Import AI 469：科学 AI、RSI 模拟器与扎克伯格的技术悲观主义",
+      "summaryZh": "Jack Clark 本期梳理科学 AI、用于研究递归自我改进的模拟器，以及科技领袖对未来技术路线的悲观判断。",
+      "translationMethod": "editorial"
     },
     {
       "id": "Google AI-https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
@@ -173,7 +213,10 @@
       "kind": "official",
       "region": "global",
       "accent": "#4285f4",
-      "score": 3
+      "score": 3,
+      "titleZh": "Gemini 与 Pixel 联手五家足球俱乐部改善球迷比赛日体验",
+      "summaryZh": "Google 将 Gemini 和 Pixel 接入五家全球足球俱乐部的球迷体验，尝试把 AI 与智能手机能力用于比赛日互动。",
+      "translationMethod": "editorial"
     },
     {
       "id": "OpenAI-https://openai.com/index/the-defenders-window",
@@ -186,12 +229,15 @@
       "kind": "official",
       "region": "global",
       "accent": "#101010",
-      "score": 4
+      "score": 4,
+      "titleZh": "防守者的窗口期：AI 正同时改变网络攻击与防御",
+      "summaryZh": "OpenAI 说明 AI 如何重塑攻防两端、其自身正在加强哪些防御，以及安全团队现在可以采取什么行动。",
+      "translationMethod": "editorial"
     },
     {
       "id": "OpenAI-https://openai.com/index/openai-joins-ports-pike-project",
       "title": "OpenAI joins PORTS-Pike project",
-      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+      "summary": ", expanding community investment and supporting thousands of Southern Ohio jobs",
       "url": "https://openai.com/index/openai-joins-ports-pike-project",
       "date": "2026-08-17T05:00:00.000Z",
       "source": "OpenAI",
@@ -212,7 +258,10 @@
       "kind": "official",
       "region": "global",
       "accent": "#101010",
-      "score": 3
+      "score": 3,
+      "titleZh": "智能时代的新政策构想",
+      "summaryZh": "OpenAI 资助 14 个独立项目，探索扩大经济机会、增强社会韧性的 AI 政策方案。",
+      "translationMethod": "editorial"
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
@@ -226,7 +275,10 @@
       "region": "global",
       "accent": "#8d5bd3",
       "score": 4,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。",
+      "titleZh": "Markdown SVG 工具升级",
+      "summaryZh": "Simon Willison 为 markdown-svg-renderer 增加了多项功能，使它更适合分享包含 SVG 文档的 Markdown 对话和记录。",
+      "translationMethod": "editorial"
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
@@ -240,7 +292,10 @@
       "region": "global",
       "accent": "#8d5bd3",
       "score": 9,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。",
+      "titleZh": "Qwen 3.8 27B 很出色，但默认会严重过度思考",
+      "summaryZh": "Simon Willison 认为这款 Apache 2.0 许可、支持视觉的 27B 模型很适合在配置较好的笔记本上运行，但默认推理策略会消耗过多时间和算力。",
+      "translationMethod": "editorial"
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Aug/16/dario-amodei/",
@@ -254,7 +309,10 @@
       "region": "global",
       "accent": "#8d5bd3",
       "score": 3,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。",
+      "titleZh": "Dario Amodei：公众对 AI 的负面看法，本质上是一场信任危机",
+      "summaryZh": "Amodei 认为，公众对 AI 的担忧并非主要由行业领袖谈论风险造成，而是因为普通人不信任相关公司。",
+      "translationMethod": "editorial"
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Aug/15/cors-chat/",
@@ -268,12 +326,15 @@
       "region": "global",
       "accent": "#8d5bd3",
       "score": 4,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。",
+      "titleZh": "CORS Chat：测试兼容 OpenAI Responses 的本地模型接口",
+      "summaryZh": "Simon Willison 构建了一个网页工具，用于测试在 LM Studio 中运行的 Qwen 3.8 27B，并验证兼容 OpenAI Responses 的聊天接口。",
+      "translationMethod": "editorial"
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Aug/15/sighting-391300422/",
       "title": "Northern Gannet",
-      "summary": "Northern Gannet, in Pillar Point Harbor, CA, US This is Morris. Morris is a local celebrity: the only known Northern Gannet ( Morus bassanus ) in the entire Pacific Ocean. They showed up in the Farallon Islands off the coast of San Francisco 14 years ago . They have since made Pi",
+      "summary": ", in Pillar Point Harbor, CA, US This is Morris. Morris is a local celebrity: the only known Northern Gannet ( Morus bassanus ) in the entire Pacific Ocean. They showed up in the Farallon Islands off the coast of San Francisco 14 years ago . They have since made Pillar Point harb",
       "url": "https://simonwillison.net/2026/Aug/15/sighting-391300422/",
       "date": "2026-08-15T03:22:00.000Z",
       "source": "Simon Willison",
@@ -287,7 +348,7 @@
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
       "title": "Don't classify. Hallucinate!",
-      "summary": "Don&#x27;t classify. Hallucinate! I still have quite a bit of older content on my blog that I never got round to tagging. My blog has 1,856 tags - likely too many to feed to an LLM in one go and say \"which of these tags match the following content\". Doug Turnbull has a neat solut",
+      "summary": "I still have quite a bit of older content on my blog that I never got round to tagging. My blog has 1,856 tags - likely too many to feed to an LLM in one go and say \"which of these tags match the following content\". Doug Turnbull has a neat solution. Tell the model to output tags",
       "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
       "date": "2026-08-14T21:54:35.000Z",
       "source": "Simon Willison",
@@ -296,7 +357,10 @@
       "region": "global",
       "accent": "#8d5bd3",
       "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。",
+      "titleZh": "不要做分类，让模型先生成！",
+      "summaryZh": "面对多达 1856 个博客标签时，与其把全部标签塞给模型做分类，不如让模型先自由生成少量候选标签，再做匹配。",
+      "translationMethod": "editorial"
     },
     {
       "id": "Nathan Lambert-https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
@@ -310,7 +374,10 @@
       "region": "global",
       "accent": "#1f7a6b",
       "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。",
+      "titleZh": "GLM-5.3：中国实验室如何跟上前沿节奏",
+      "summaryZh": "Nathan Lambert 分析中国实验室追赶前沿模型的路径，并强调这并不只是一个模型蒸馏的故事。",
+      "translationMethod": "editorial"
     },
     {
       "id": "NVIDIA-https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
@@ -323,7 +390,10 @@
       "kind": "official",
       "region": "global",
       "accent": "#76b900",
-      "score": 4
+      "score": 4,
+      "titleZh": "印尼首个大学 AI 中心启用，重点培养本地 AI 人才",
+      "summaryZh": "日惹的加查马达大学、Indosat 与 NVIDIA 成立大学 AI 技术中心，目标是培养印尼本地人才并支持本国 AI 能力建设。",
+      "translationMethod": "editorial"
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Aug/13/sqlite-utils-2/",
@@ -378,7 +448,10 @@
       "kind": "official",
       "region": "global",
       "accent": "#6b63ff",
-      "score": 4
+      "score": 4,
+      "titleZh": "Google DeepMind 发布 Gemini 3.7 Flash",
+      "summaryZh": "官方发布 Gemini 3.7 Flash；具体能力、价格和开放范围仍需以原文及后续实测为准。",
+      "translationMethod": "editorial"
     },
     {
       "id": "Google AI-https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
@@ -391,7 +464,10 @@
       "kind": "official",
       "region": "global",
       "accent": "#4285f4",
-      "score": 3
+      "score": 3,
+      "titleZh": "Google Sheets Canvas：用一句提示把表格数据变成互动工具",
+      "summaryZh": "Sheets Canvas 可把数据转成互动看板、学习追踪器、座位表等工具，用户只需提供简单提示。",
+      "translationMethod": "editorial"
     },
     {
       "id": "OpenAI-https://openai.com/index/builders-guide-to-gpt-5-6",
@@ -404,7 +480,12 @@
       "kind": "official",
       "region": "global",
       "accent": "#101010",
-      "score": 5
+      "score": 5,
+      "titleZh": "GPT-5.6 构建者指南",
+      "summaryZh": "介绍初创企业如何通过更合理的模型选择和新的 Responses API 能力，构建速度更快、成本更低的 AI 智能体。",
+      "translationMethod": "editorial",
+      "curated": true,
+      "takeaway": "现在值得试：适合开发者核对模型选择和成本策略；非开发者不必专门阅读。"
     },
     {
       "id": "OpenAI-https://openai.com/index/previewing-ultrafast",
@@ -656,7 +737,10 @@
       "region": "global",
       "accent": "#1f7a6b",
       "score": 4,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。",
+      "titleZh": "Interconnects 推出开放模型成果中心与采用情况看板",
+      "summaryZh": "该项目把开放模型的发布、采用和生态数据集中到一个入口，帮助持续衡量开放生态的发展。",
+      "translationMethod": "editorial"
     },
     {
       "id": "Jack Clark-https://jack-clark.net/2026/08/03/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/",
@@ -776,7 +860,10 @@
       "region": "global",
       "accent": "#3c6393",
       "score": 4,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。",
+      "titleZh": "Import AI 466：机器人领域的苦涩教训、AI 完成长达一周的编程任务，以及意外出现的 AI 黑客",
+      "summaryZh": "本期讨论机器人学习、衡量 AI 长周期编程能力的基准，以及模型在网络安全任务中出现的意外能力。",
+      "translationMethod": "editorial"
     },
     {
       "id": "NVIDIA-https://blogs.nvidia.com/blog/open-secure-ai-alliance/",

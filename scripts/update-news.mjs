@@ -29,7 +29,7 @@ const directSources = [
 ];
 
 function decodeXml(value = "") {
-  return value.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1").replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'").replace(/&#(\d+);/g, (_, code) => String.fromCharCode(Number(code)));
+  return value.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1").replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&nbsp;/g, " ").replace(/&#39;|&apos;/g, "'").replace(/&#x([0-9a-f]+);/gi, (_, code) => String.fromCharCode(Number.parseInt(code, 16))).replace(/&#(\d+);/g, (_, code) => String.fromCharCode(Number(code)));
 }
 
 function stripHtml(value = "") {
@@ -66,7 +66,8 @@ function parseFeed(xml, source) {
   const blocks = isAtom ? xml.match(/<entry[\s\S]*?<\/entry>/gi) ?? [] : xml.match(/<item[\s\S]*?<\/item>/gi) ?? [];
   return blocks.slice(0, 12).flatMap((block, index) => {
     const title = stripHtml(field(block, ["title"]));
-    const summary = stripHtml(field(block, ["description", "summary", "content:encoded", "content"]));
+    const rawSummary = stripHtml(field(block, ["description", "summary", "content:encoded", "content"]));
+    const summary = rawSummary.startsWith(title) ? rawSummary.slice(title.length).trim() : rawSummary;
     const rawDate = field(block, ["pubDate", "published", "updated", "dc:date"]);
     const alternate = block.match(/<link[^>]+rel=["']alternate["'][^>]+href=["']([^"']+)["'][^>]*>/i)?.[1] ?? block.match(/<link[^>]+href=["']([^"']+)["'][^>]*>/i)?.[1] ?? "";
     const url = cleanUrl(alternate || stripHtml(field(block, ["link", "guid"])));

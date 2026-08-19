@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "items": {
+    "https://openai.com/index/chatgpt-ads-expands-across-europe": {
+      "titleZh": "ChatGPT 广告扩展至欧洲",
+      "summaryZh": "ChatGPT 广告将覆盖 31 个欧洲市场，让广告主能够在用户探索、比较和做决定的过程中触达他们。",
+      "method": "editorial"
+    },
+    "https://openai.com/index/strengthening-democratic-oversight-in-national-security": {
+      "titleZh": "加强国家安全领域的民主监督",
+      "summaryZh": "OpenAI 启动一项计划，通过工具、培训和专业支持，加强政府机构对国家安全领域 AI 应用的民主监督。",
+      "method": "editorial"
+    },
+    "https://openai.com/index/partnering-with-codeai": {
+      "titleZh": "OpenAI 与 CodeAI 合作，帮助第一代 AI 原住民建立基本素养",
+      "summaryZh": "双方将帮助学生理解 AI、进行批判性思考，并培养负责任地使用和塑造 AI 的能力。",
+      "method": "editorial"
+    },
+    "https://openai.com/index/pacing-model-development-cyber-capabilities": {
+      "titleZh": "网络攻防能力逼近关键门槛后，如何控制模型开发节奏",
+      "summaryZh": "OpenAI 正加强前沿模型的监测、对齐与安全措施，并说明这些保障如何影响模型的开发和发布速度。",
+      "method": "editorial"
+    },
+    "https://openai.com/index/chatgpt-for-teens": {
+      "titleZh": "推出青少年版 ChatGPT：为学习而生，并配有更强保护",
+      "summaryZh": "青少年版 ChatGPT 帮助未成年人学习、进行批判性思考并更有把握地使用 AI，同时提供更强的内置保护、健康使用功能和家长控制。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "可以忽略：除非你需要替未成年人设置 ChatGPT；对当前个人知识工作没有直接增量。"
+    },
+    "https://openai.com/index/asana": {
+      "titleZh": "Asana 用 Codex 在两周内完成原估五年的工程改造",
+      "summaryZh": "Asana 用 OpenAI Codex 在两周内替换一套过时的测试系统；公司口径称，这项工作原本预计需要五年，成本约 1.2 万美元。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "继续观察：案例有明确任务、时间和成本，但关键结果仍来自 OpenAI 与客户的联合口径。"
+    },
+    "https://openai.com/index/nvidia/chatgpt-work": {
+      "titleZh": "NVIDIA 如何用 ChatGPT Work 扩大专业知识的复用",
+      "summaryZh": "NVIDIA 团队用 ChatGPT Work 减少手工任务、连接快速变化的信息，并把已验证的工作流程扩展到全球团队。",
+      "method": "editorial"
+    },
+    "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships": {
+      "titleZh": "Gemini 与 Pixel 联手五家足球俱乐部改善球迷比赛日体验",
+      "summaryZh": "Google 将 Gemini 和 Pixel 接入五家全球足球俱乐部的球迷体验，尝试把 AI 与智能手机能力用于比赛日互动。",
+      "method": "editorial"
+    },
+    "https://openai.com/index/the-defenders-window": {
+      "titleZh": "防守者的窗口期：AI 正同时改变网络攻击与防御",
+      "summaryZh": "OpenAI 说明 AI 如何重塑攻防两端、其自身正在加强哪些防御，以及安全团队现在可以采取什么行动。",
+      "method": "editorial"
+    },
+    "https://openai.com/index/new-policy-ideas-for-the-intelligence-age": {
+      "titleZh": "智能时代的新政策构想",
+      "summaryZh": "OpenAI 资助 14 个独立项目，探索扩大经济机会、增强社会韧性的 AI 政策方案。",
+      "method": "editorial"
+    },
+    "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center": {
+      "titleZh": "印尼首个大学 AI 中心启用，重点培养本地 AI 人才",
+      "summaryZh": "日惹的加查马达大学、Indosat 与 NVIDIA 成立大学 AI 技术中心，目标是培养印尼本地人才并支持本国 AI 能力建设。",
+      "method": "editorial"
+    },
+    "https://deepmind.google/blog/introducing-gemini-3-7-flash": {
+      "titleZh": "Google DeepMind 发布 Gemini 3.7 Flash",
+      "summaryZh": "官方发布 Gemini 3.7 Flash；具体能力、价格和开放范围仍需以原文及后续实测为准。",
+      "method": "editorial"
+    },
+    "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets": {
+      "titleZh": "Google Sheets Canvas：用一句提示把表格数据变成互动工具",
+      "summaryZh": "Sheets Canvas 可把数据转成互动看板、学习追踪器、座位表等工具，用户只需提供简单提示。",
+      "method": "editorial"
+    },
+    "https://openai.com/index/builders-guide-to-gpt-5-6": {
+      "titleZh": "GPT-5.6 构建者指南",
+      "summaryZh": "介绍初创企业如何通过更合理的模型选择和新的 Responses API 能力，构建速度更快、成本更低的 AI 智能体。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "现在值得试：适合开发者核对模型选择和成本策略；非开发者不必专门阅读。"
+    },
+    "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source": {
+      "titleZh": "Mojo🔥 现已开源",
+      "summaryZh": "Mojo 编程语言自 2023 年 5 月起就承诺开源。上周发布 1.0 后，团队现在兑现了承诺，正式开放编译器和工具链的源代码。",
+      "method": "editorial"
+    },
+    "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52": {
+      "titleZh": "Qwen 3.8 27B 在 Artificial Analysis 智能指数中获得 52 分",
+      "summaryZh": "它与 GPT-5.6 Luna（max）同分，只比 GLM-5.2（max）和 DeepSeek V4 Pro 0813（max）低 1 分；但后两者的参数规模明显更大。",
+      "method": "editorial"
+    },
+    "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra": {
+      "titleZh": "一批稀有书籍最终被送往亚马逊 AI 训练设施",
+      "summaryZh": "404 Media 的调查追踪了书商接到的大批量订单：匿名买家似乎不在意价格，而这些书最终流向了亚马逊的 AI 训练设施。",
+      "method": "editorial"
+    },
+    "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens": {
+      "titleZh": "让每个人都学会自己“钓 Token”",
+      "summaryZh": "NVIDIA 希望开发者自己构建模型，而不是从 Anthropic 或 OpenAI 购买现成能力。",
+      "method": "editorial"
+    },
+    "https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism": {
+      "titleZh": "Import AI 469：科学 AI、RSI 模拟器与扎克伯格的技术悲观主义",
+      "summaryZh": "Jack Clark 本期梳理科学 AI、用于研究递归自我改进的模拟器，以及科技领袖对未来技术路线的悲观判断。",
+      "method": "editorial"
+    },
+    "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades": {
+      "titleZh": "Markdown SVG 工具升级",
+      "summaryZh": "Simon Willison 为 markdown-svg-renderer 增加了多项功能，使它更适合分享包含 SVG 文档的 Markdown 对话和记录。",
+      "method": "editorial"
+    },
+    "https://simonwillison.net/2026/Aug/16/qwen-38-27b": {
+      "titleZh": "Qwen 3.8 27B 很出色，但默认会严重过度思考",
+      "summaryZh": "Simon Willison 认为这款 Apache 2.0 许可、支持视觉的 27B 模型很适合在配置较好的笔记本上运行，但默认推理策略会消耗过多时间和算力。",
+      "method": "editorial"
+    },
+    "https://simonwillison.net/2026/Aug/16/dario-amodei": {
+      "titleZh": "Dario Amodei：公众对 AI 的负面看法，本质上是一场信任危机",
+      "summaryZh": "Amodei 认为，公众对 AI 的担忧并非主要由行业领袖谈论风险造成，而是因为普通人不信任相关公司。",
+      "method": "editorial"
+    },
+    "https://simonwillison.net/2026/Aug/15/cors-chat": {
+      "titleZh": "CORS Chat：测试兼容 OpenAI Responses 的本地模型接口",
+      "summaryZh": "Simon Willison 构建了一个网页工具，用于测试在 LM Studio 中运行的 Qwen 3.8 27B，并验证兼容 OpenAI Responses 的聊天接口。",
+      "method": "editorial"
+    },
+    "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate": {
+      "titleZh": "不要做分类，让模型先生成！",
+      "summaryZh": "面对多达 1856 个博客标签时，与其把全部标签塞给模型做分类，不如让模型先自由生成少量候选标签，再做匹配。",
+      "method": "editorial"
+    },
+    "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride": {
+      "titleZh": "GLM-5.3：中国实验室如何跟上前沿节奏",
+      "summaryZh": "Nathan Lambert 分析中国实验室追赶前沿模型的路径，并强调这并不只是一个模型蒸馏的故事。",
+      "method": "editorial"
+    },
+    "https://www.interconnects.ai/p/introducing-our-artifacts-hub-and": {
+      "titleZh": "Interconnects 推出开放模型成果中心与采用情况看板",
+      "summaryZh": "该项目把开放模型的发布、采用和生态数据集中到一个入口，帮助持续衡量开放生态的发展。",
+      "method": "editorial"
+    },
+    "https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker": {
+      "titleZh": "Import AI 466：机器人领域的苦涩教训、AI 完成长达一周的编程任务，以及意外出现的 AI 黑客",
+      "summaryZh": "本期讨论机器人学习、衡量 AI 长周期编程能力的基准，以及模型在网络安全任务中出现的意外能力。",
+      "method": "editorial"
+    }
+  }
+}

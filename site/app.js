@@ -50,14 +50,15 @@ function recency(date, now) {
 function filteredItems() {
   const query = state.query.trim().toLowerCase();
   const sevenDaysAgo = new Date(state.data.updatedAt).getTime() - 7 * 24 * 60 * 60 * 1000;
-  let items = state.data.items.filter((item) => {
+  const thirtyDaysAgo = new Date(state.data.updatedAt).getTime() - 30 * 24 * 60 * 60 * 1000;
+  let items = state.data.items.filter((item) => item.titleZh || /[\u3400-\u9fff]/.test(item.title)).filter((item) => {
     if (state.activeTab === "signal") return item.curated || (item.kind === "official" && item.score >= 5 && new Date(item.date).getTime() >= sevenDaysAgo);
-    if (state.activeTab === "official") return item.kind === "official";
-    if (state.activeTab === "expert") return item.kind === "expert";
-    if (state.activeTab === "china") return item.region === "china";
+    if (state.activeTab === "official") return item.kind === "official" && item.translationMethod === "editorial" && new Date(item.date).getTime() >= thirtyDaysAgo;
+    if (state.activeTab === "expert") return item.kind === "expert" && item.translationMethod === "editorial" && new Date(item.date).getTime() >= thirtyDaysAgo;
+    if (state.activeTab === "china") return item.region === "china" && item.translationMethod === "editorial" && new Date(item.date).getTime() >= thirtyDaysAgo;
     return state.saved.includes(item.id);
   });
-  if (query) items = items.filter((item) => `${item.title} ${item.summary} ${item.source}`.toLowerCase().includes(query));
+  if (query) items = items.filter((item) => `${item.titleZh || ""} ${item.summaryZh || ""} ${item.title} ${item.summary} ${item.source}`.toLowerCase().includes(query));
   items.sort((a, b) => {
     if (state.activeTab === "signal" && Boolean(a.curated) !== Boolean(b.curated)) return a.curated ? -1 : 1;
     if (state.activeTab === "signal" && a.score !== b.score) return b.score - a.score;
@@ -102,8 +103,8 @@ function renderArticles() {
     return `<article class="${index === 0 && state.activeTab === "signal" ? "article-card lead" : "article-card"}">
       <div class="article-accent" style="background-color:${escapeHtml(item.accent)}"></div>
       <div class="article-content">
-        <div class="article-meta"><a href="${escapeHtml(safeUrl(item.sourceHomepage))}" target="_blank" rel="noreferrer">${escapeHtml(item.source)}</a><span>·</span><time datetime="${escapeHtml(item.date)}">${escapeHtml(recency(item.date, state.data.updatedAt))}</time>${item.curated ? '<span class="curated-tag">中文精选</span>' : item.kind === "expert" ? '<span class="expert-tag">观点</span>' : ""}</div>
-        <a class="article-link" href="${escapeHtml(safeUrl(item.url))}" target="_blank" rel="noreferrer"><h3>${escapeHtml(item.title)}</h3>${item.summary ? `<p>${escapeHtml(item.summary)}</p>` : ""}</a>
+        <div class="article-meta"><a href="${escapeHtml(safeUrl(item.sourceHomepage))}" target="_blank" rel="noreferrer">${escapeHtml(item.source)}</a><span>·</span><time datetime="${escapeHtml(item.date)}">${escapeHtml(recency(item.date, state.data.updatedAt))}</time>${item.curated ? '<span class="curated-tag">中文精选</span>' : item.kind === "expert" ? '<span class="expert-tag">观点</span>' : ""}${item.titleZh ? '<span class="translated-tag">中文译文</span>' : ""}</div>
+        <a class="article-link" href="${escapeHtml(safeUrl(item.url))}" target="_blank" rel="noreferrer"><h3>${escapeHtml(item.titleZh || item.title)}</h3>${(item.summaryZh || item.summary) ? `<p>${escapeHtml(item.summaryZh || item.summary)}</p>` : ""}</a>
         ${item.takeaway ? `<div class="takeaway">${escapeHtml(item.takeaway)}</div>` : ""}
       </div>
       <div class="article-actions"><button class="bookmark ${isSaved ? "saved" : ""}" type="button" data-save="${escapeHtml(item.id)}" aria-label="${isSaved ? "取消收藏" : "收藏"}">${isSaved ? "★" : "☆"}</button><a href="${escapeHtml(safeUrl(item.url))}" target="_blank" rel="noreferrer" aria-label="打开原文">↗</a></div>
@@ -124,8 +125,8 @@ function render() {
   document.querySelector("#pulse-strip").hidden = state.activeTab !== "signal";
   document.querySelector("#date-line").textContent = `AI 重大应用 · ${formatDate(state.data.updatedAt)}`;
   document.querySelector("#last-updated").textContent = `最后更新：${formatDate(state.data.updatedAt)}`;
-  document.querySelector("#official-count").textContent = state.data.items.filter((item) => item.kind === "official").length;
-  document.querySelector("#expert-count").textContent = state.data.items.filter((item) => item.kind === "expert").length;
+  document.querySelector("#official-count").textContent = state.data.items.filter((item) => item.kind === "official" && item.translationMethod === "editorial").length;
+  document.querySelector("#expert-count").textContent = state.data.items.filter((item) => item.kind === "expert" && item.translationMethod === "editorial").length;
   document.querySelector("#source-count").textContent = `${state.data.sources.filter((source) => source.ok === true).length}/${state.data.sources.length}`;
   document.querySelector("#source-toggle").textContent = state.showSources ? "收起来源" : "查看白名单";
   renderArticles();

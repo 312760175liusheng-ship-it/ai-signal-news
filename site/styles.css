@@ -112,9 +112,10 @@ a { color: inherit; }
 .article-content { min-width: 0; }
 .article-meta { display: flex; align-items: center; gap: 6px; color: var(--muted); font-size: 9px; text-transform: uppercase; letter-spacing: .06em; }
 .article-meta a { text-decoration: none; color: var(--ink); font-weight: 800; }
-.curated-tag, .expert-tag { margin-left: 5px; border-radius: 999px; padding: 3px 6px; font-size: 8px; font-weight: 700; letter-spacing: .04em; }
+.curated-tag, .expert-tag, .translated-tag { margin-left: 5px; border-radius: 999px; padding: 3px 6px; font-size: 8px; font-weight: 700; letter-spacing: .04em; }
 .curated-tag { color: #a83c18; background: #f8d8c9; }
 .expert-tag { color: #285d50; background: #d8e8df; }
+.translated-tag { color: #375f8f; background: #dce8f5; }
 .article-link { text-decoration: none; }
 .article-link h3 { margin: 9px 0 7px; max-width: 760px; font: 700 20px/1.23 Georgia, "Songti SC", serif; letter-spacing: -.02em; }
 .article-card.lead .article-link h3 { font-size: clamp(27px, 3vw, 40px); line-height: 1.08; }
