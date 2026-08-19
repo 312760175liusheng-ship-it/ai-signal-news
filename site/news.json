@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-08-19T07:53:40.103Z",
+  "updatedAt": "2026-08-19T17:03:12.052Z",
   "items": [
+    {
+      "id": "OpenAI-https://openai.com/index/replit",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "url": "https://openai.com/index/replit",
+      "date": "2026-08-19T07:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 5
+    },
     {
       "id": "OpenAI-https://openai.com/index/chatgpt-ads-expands-across-europe",
       "title": "ChatGPT Ads expands across Europe",
@@ -20,7 +33,7 @@
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
       "title": "Mojo🔥 is now open source",
-      "summary": "Mojo🔥 is now open source The Mojo programming language has been promising an open source release since May 2023 . Last week they shipped their 1.0 and today they have followed through on that original promise, releasing the compiler and toolchain under an Apache 2 license. When ",
+      "summary": "The Mojo programming language has been promising an open source release since May 2023 . Last week they shipped their 1.0 and today they have followed through on that original promise, releasing the compiler and toolchain under an Apache 2 license. When Mojo first launched the st",
       "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
       "date": "2026-08-18T21:39:20.000Z",
       "source": "Simon Willison",
@@ -486,19 +499,6 @@
       "translationMethod": "editorial",
       "curated": true,
       "takeaway": "现在值得试：适合开发者核对模型选择和成本策略；非开发者不必专门阅读。"
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/previewing-ultrafast",
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "date": "2026-08-13T10:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 4
     },
     {
       "id": "DeepMind-https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",

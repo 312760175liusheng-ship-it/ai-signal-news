@@ -9,6 +9,7 @@
 }
 
 * { box-sizing: border-box; }
+[hidden] { display: none !important; }
 
 html { background: var(--paper); }
 
@@ -116,12 +117,15 @@ a { color: inherit; }
 .curated-tag { color: #a83c18; background: #f8d8c9; }
 .expert-tag { color: #285d50; background: #d8e8df; }
 .translated-tag { color: #375f8f; background: #dce8f5; }
+.zhihu-rank { color: #1772f6; font: 800 11px/1 Georgia, serif; }
+.zhihu-badge { margin-left: 5px; border-radius: 999px; padding: 3px 6px; color: #fff; background: #1772f6; font-size: 8px; font-weight: 700; }
 .article-link { text-decoration: none; }
 .article-link h3 { margin: 9px 0 7px; max-width: 760px; font: 700 20px/1.23 Georgia, "Songti SC", serif; letter-spacing: -.02em; }
 .article-card.lead .article-link h3 { font-size: clamp(27px, 3vw, 40px); line-height: 1.08; }
 .article-link p { margin: 0; color: #5f625a; font-size: 12px; line-height: 1.7; max-width: 760px; }
 .article-link:hover h3 { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 4px; }
 .takeaway { margin-top: 11px; display: inline-block; color: #39483f; background: rgba(45,90,70,.08); border-left: 2px solid var(--green); padding: 7px 9px; font-size: 10px; line-height: 1.5; }
+.zhihu-stats { margin-top: 10px; color: #7a7d75; font-size: 10px; }
 .article-actions { display: flex; align-items: flex-start; gap: 8px; }
 .article-actions button, .article-actions a { width: 29px; height: 29px; display: grid; place-items: center; border-radius: 50%; border: 1px solid var(--line); background: rgba(255,255,255,.4); color: var(--ink); text-decoration: none; cursor: pointer; }
 .article-actions .saved { background: var(--ink); color: #ffca4b; }

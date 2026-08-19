@@ -3,6 +3,7 @@ const tabs = [
   { id: "official", label: "官方", hint: "原始发布" },
   { id: "expert", label: "解读", hint: "一线作者观点" },
   { id: "china", label: "国内", hint: "官方更新" },
+  { id: "zhihu", label: "知乎热榜", hint: "每日热门讨论" },
   { id: "saved", label: "收藏", hint: "稍后阅读" },
 ];
 
@@ -12,6 +13,7 @@ const state = {
   saved: readSaved(),
   showSources: false,
   data: { items: [], sources: [], updatedAt: null },
+  zhihuData: { items: [], updatedAt: null, sourceHomepage: "https://www.zhihu.com/hot" },
 };
 
 function readSaved() {
@@ -51,7 +53,16 @@ function filteredItems() {
   const query = state.query.trim().toLowerCase();
   const sevenDaysAgo = new Date(state.data.updatedAt).getTime() - 7 * 24 * 60 * 60 * 1000;
   const thirtyDaysAgo = new Date(state.data.updatedAt).getTime() - 30 * 24 * 60 * 60 * 1000;
-  let items = state.data.items.filter((item) => item.titleZh || /[\u3400-\u9fff]/.test(item.title)).filter((item) => {
+  const aiItems = state.data.items.filter((item) => item.titleZh || /[\u3400-\u9fff]/.test(item.title));
+  const zhihuItems = state.zhihuData.items.map((item) => ({
+    ...item,
+    kind: "zhihu",
+    source: "知乎热榜",
+    sourceHomepage: state.zhihuData.sourceHomepage,
+    date: state.zhihuData.updatedAt,
+    accent: "#1772f6",
+  }));
+  let items = state.activeTab === "zhihu" ? zhihuItems : [...aiItems, ...(state.activeTab === "saved" ? zhihuItems : [])].filter((item) => {
     if (state.activeTab === "signal") return item.curated || (item.kind === "official" && item.score >= 5 && new Date(item.date).getTime() >= sevenDaysAgo);
     if (state.activeTab === "official") return item.kind === "official" && item.translationMethod === "editorial" && new Date(item.date).getTime() >= thirtyDaysAgo;
     if (state.activeTab === "expert") return item.kind === "expert" && item.translationMethod === "editorial" && new Date(item.date).getTime() >= thirtyDaysAgo;
@@ -60,6 +71,7 @@ function filteredItems() {
   });
   if (query) items = items.filter((item) => `${item.titleZh || ""} ${item.summaryZh || ""} ${item.title} ${item.summary} ${item.source}`.toLowerCase().includes(query));
   items.sort((a, b) => {
+    if (state.activeTab === "zhihu") return a.rank - b.rank;
     if (state.activeTab === "signal" && Boolean(a.curated) !== Boolean(b.curated)) return a.curated ? -1 : 1;
     if (state.activeTab === "signal" && a.score !== b.score) return b.score - a.score;
     return new Date(b.date) - new Date(a.date);
@@ -80,6 +92,10 @@ function renderNav() {
 
 function renderSources() {
   const drawer = document.querySelector("#source-drawer");
+  if (state.activeTab === "zhihu") {
+    drawer.hidden = true;
+    return;
+  }
   drawer.hidden = !state.showSources;
   drawer.innerHTML = state.data.sources.map((source) => `
     <a href="${escapeHtml(safeUrl(source.homepage))}" target="_blank" rel="noreferrer">
@@ -100,12 +116,16 @@ function renderArticles() {
   }
   list.innerHTML = items.map((item, index) => {
     const isSaved = state.saved.includes(item.id);
+    const isZhihu = item.kind === "zhihu";
+    const meta = isZhihu
+      ? `<span class="zhihu-rank">#${String(item.rank).padStart(2, "0")}</span><a href="${escapeHtml(safeUrl(item.sourceHomepage))}" target="_blank" rel="noreferrer">知乎热榜</a><span>·</span><span>${escapeHtml(item.heat)}</span>${item.badge ? `<span class="zhihu-badge">${escapeHtml(item.badge)}</span>` : ""}`
+      : `<a href="${escapeHtml(safeUrl(item.sourceHomepage))}" target="_blank" rel="noreferrer">${escapeHtml(item.source)}</a><span>·</span><time datetime="${escapeHtml(item.date)}">${escapeHtml(recency(item.date, state.data.updatedAt))}</time>${item.curated ? '<span class="curated-tag">中文精选</span>' : item.kind === "expert" ? '<span class="expert-tag">观点</span>' : ""}${item.titleZh ? '<span class="translated-tag">中文译文</span>' : ""}`;
     return `<article class="${index === 0 && state.activeTab === "signal" ? "article-card lead" : "article-card"}">
       <div class="article-accent" style="background-color:${escapeHtml(item.accent)}"></div>
       <div class="article-content">
-        <div class="article-meta"><a href="${escapeHtml(safeUrl(item.sourceHomepage))}" target="_blank" rel="noreferrer">${escapeHtml(item.source)}</a><span>·</span><time datetime="${escapeHtml(item.date)}">${escapeHtml(recency(item.date, state.data.updatedAt))}</time>${item.curated ? '<span class="curated-tag">中文精选</span>' : item.kind === "expert" ? '<span class="expert-tag">观点</span>' : ""}${item.titleZh ? '<span class="translated-tag">中文译文</span>' : ""}</div>
+        <div class="article-meta">${meta}</div>
         <a class="article-link" href="${escapeHtml(safeUrl(item.url))}" target="_blank" rel="noreferrer"><h3>${escapeHtml(item.titleZh || item.title)}</h3>${(item.summaryZh || item.summary) ? `<p>${escapeHtml(item.summaryZh || item.summary)}</p>` : ""}</a>
-        ${item.takeaway ? `<div class="takeaway">${escapeHtml(item.takeaway)}</div>` : ""}
+        ${isZhihu ? `<div class="zhihu-stats">${item.answerCount} 个回答 · ${item.followerCount} 人关注</div>` : item.takeaway ? `<div class="takeaway">${escapeHtml(item.takeaway)}</div>` : ""}
       </div>
       <div class="article-actions"><button class="bookmark ${isSaved ? "saved" : ""}" type="button" data-save="${escapeHtml(item.id)}" aria-label="${isSaved ? "取消收藏" : "收藏"}">${isSaved ? "★" : "☆"}</button><a href="${escapeHtml(safeUrl(item.url))}" target="_blank" rel="noreferrer" aria-label="打开原文">↗</a></div>
     </article>`;
@@ -118,16 +138,31 @@ function renderArticles() {
   }));
 }
 
+function renderRail() {
+  const isZhihu = state.activeTab === "zhihu";
+  document.querySelector("#rail-eyebrow").textContent = isZhihu ? "知乎热榜" : "阅读顺序";
+  document.querySelector("#rail-title").textContent = isZhihu ? "把热度当入口，不把热度当结论。" : "先看“重点”，再按需要查官方原文。";
+  document.querySelector("#rail-description").textContent = isZhihu ? "这里原样呈现知乎当前热门问题；点开后优先看有证据、能交叉验证的回答。" : "标题和摘要先翻译成中文；重要结论仍回到原始发布和真实应用证据。";
+  document.querySelector("#rule-eyebrow").textContent = isZhihu ? "阅读建议" : "进入重点的门槛";
+  document.querySelector("#rule-list").innerHTML = isZhihu
+    ? "<li><span>01</span>先看标题筛选话题</li><li><span>02</span>再找有证据的回答</li><li><span>03</span>事实回到原始来源</li>"
+    : "<li><span>01</span>已经开放，不是预告</li><li><span>02</span>有人真实部署</li><li><span>03</span>有结果或近期可测试</li>";
+  document.querySelector("#update-description").textContent = isZhihu ? "每天北京时间约 09:00 保存一次知乎热榜快照。你的电脑关机、不开梯子，都不会影响更新。" : "每天北京时间约 09:00 在云端更新 AI 情报和知乎热榜。你的电脑关机、不开梯子，都不会影响更新。";
+}
+
 function render() {
   renderNav();
   renderSources();
+  renderRail();
+  const isZhihu = state.activeTab === "zhihu";
   document.querySelector("#page-title").textContent = tabs.find((tab) => tab.id === state.activeTab)?.label || "重点";
   document.querySelector("#pulse-strip").hidden = state.activeTab !== "signal";
-  document.querySelector("#date-line").textContent = `AI 重大应用 · ${formatDate(state.data.updatedAt)}`;
-  document.querySelector("#last-updated").textContent = `最后更新：${formatDate(state.data.updatedAt)}`;
+  document.querySelector("#date-line").textContent = `${isZhihu ? "知乎当前热门讨论" : "AI 重大应用"} · ${formatDate(isZhihu ? state.zhihuData.updatedAt : state.data.updatedAt)}`;
+  document.querySelector("#last-updated").textContent = `最后更新：${formatDate(isZhihu ? state.zhihuData.updatedAt : state.data.updatedAt)}`;
   document.querySelector("#official-count").textContent = state.data.items.filter((item) => item.kind === "official" && item.translationMethod === "editorial").length;
   document.querySelector("#expert-count").textContent = state.data.items.filter((item) => item.kind === "expert" && item.translationMethod === "editorial").length;
   document.querySelector("#source-count").textContent = `${state.data.sources.filter((source) => source.ok === true).length}/${state.data.sources.length}`;
+  document.querySelector("#source-toggle").hidden = isZhihu;
   document.querySelector("#source-toggle").textContent = state.showSources ? "收起来源" : "查看白名单";
   renderArticles();
 }
@@ -137,9 +172,12 @@ async function loadNews() {
   button.disabled = true;
   button.textContent = "更新中";
   try {
-    const response = await fetch(`news.json?v=${Date.now()}`, { cache: "no-store" });
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    state.data = await response.json();
+    const [newsResponse, zhihuResponse] = await Promise.all([
+      fetch(`news.json?v=${Date.now()}`, { cache: "no-store" }),
+      fetch(`zhihu.json?v=${Date.now()}`, { cache: "no-store" }),
+    ]);
+    if (!newsResponse.ok || !zhihuResponse.ok) throw new Error(`HTTP ${newsResponse.status}/${zhihuResponse.status}`);
+    [state.data, state.zhihuData] = await Promise.all([newsResponse.json(), zhihuResponse.json()]);
     render();
   } catch {
     document.querySelector("#article-list").innerHTML = '<div class="empty-state"><span>!</span><h3>暂时无法读取</h3><p>稍后刷新即可，已有网页不会丢失。</p></div>';
