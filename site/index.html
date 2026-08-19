@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f3f0e8" />
+    <meta name="description" content="低噪音的 AI 重大应用、官方发布与专家解读看板。" />
+    <meta name="robots" content="noindex,nofollow,nocache,noimageindex" />
+    <meta property="og:title" content="Signal · 柳生的 AI 情报站" />
+    <meta property="og:description" content="只看会改变真实使用、成本与工作方式的 AI 动态。" />
+    <meta property="og:image" content="og.png" />
+    <title>Signal · 柳生的 AI 情报站</title>
+    <link rel="icon" href="favicon.svg" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div class="brand-block">
+          <div class="brand-mark" aria-hidden="true"><span></span></div>
+          <div><p class="eyebrow">柳生的 AI 情报站</p><h1>Signal</h1></div>
+        </div>
+        <nav class="nav-list" aria-label="新闻分类" id="nav-list"></nav>
+        <div class="sidebar-note">
+          <span class="live-dot"></span>
+          <p>自媒体只作线索。重点优先官方原文、真实应用和可核验数据。</p>
+        </div>
+      </aside>
+
+      <main class="main-feed">
+        <header class="topbar">
+          <div><p class="date-line" id="date-line">正在读取最新公开来源…</p><h2 id="page-title">重点</h2></div>
+          <div class="top-actions">
+            <label class="search-box"><span aria-hidden="true">⌕</span><input id="search-input" placeholder="搜索来源或主题" aria-label="搜索新闻" /></label>
+            <button class="refresh-button" id="refresh-button" type="button">刷新</button>
+          </div>
+        </header>
+
+        <section class="pulse-strip" id="pulse-strip" aria-label="今日情报概况">
+          <div><strong id="official-count">—</strong><span>官方原文</span></div>
+          <div><strong id="expert-count">—</strong><span>专家文章</span></div>
+          <div><strong id="source-count">—</strong><span>来源在线</span></div>
+          <p>重点页最多保留 5 条，不用数量制造焦虑。</p>
+        </section>
+
+        <section class="feed-section">
+          <div class="section-heading"><p id="result-count">正在加载</p><button id="source-toggle" type="button">查看白名单</button></div>
+          <div class="source-drawer" id="source-drawer" hidden></div>
+          <div class="article-list" id="article-list"><div class="loading-state">正在获取最新情报…</div></div>
+        </section>
+      </main>
+
+      <aside class="right-rail">
+        <section class="rail-card thesis-card">
+          <p class="eyebrow">阅读顺序</p>
+          <h3>先看“重点”，再按需要查官方原文。</h3>
+          <p>重点页是低噪音初筛；重要结论仍回到原始发布和真实应用证据。</p>
+        </section>
+        <section class="rail-card rule-card">
+          <p class="eyebrow">进入重点的门槛</p>
+          <ol><li><span>01</span>已经开放，不是预告</li><li><span>02</span>有人真实部署</li><li><span>03</span>有结果或近期可测试</li></ol>
+        </section>
+        <section class="rail-card update-card">
+          <p class="eyebrow">自动更新</p>
+          <p>每天北京时间约 08:45 在云端更新。你的电脑关机、不开梯子，都不会影响抓取。</p>
+          <small id="last-updated">等待首次更新</small>
+        </section>
+      </aside>
+    </div>
+    <script src="app.js" defer></script>
+  </body>
+</html>
