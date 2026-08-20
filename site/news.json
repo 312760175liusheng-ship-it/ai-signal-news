@@ -56,7 +56,7 @@
       "accent": "#101010",
       "score": 5,
       "titleZh": "OpenAI 将继续为前沿模型提供零数据保留，并测试私密安全处理",
-      "summaryZh": "OpenAI 表示，符合条件的 API 客户仍可使用 Zero Data Retention，并正在早期客户中测试 Private Safety Processing；系统效果仍需等待技术白皮书和外部验证。",
+      "summaryZh": "OpenAI 表示，符合条件的 API 客户仍可使用 Zero Data Retention，并正在早期客户中测试 Private Safety Processing；系统效果仍需等待公开技术材料和外部验证。",
       "translationMethod": "editorial",
       "curated": true,
       "takeaway": "继续观察：只有在你用 API 处理敏感资料时才直接相关，而且测试中的隐私机制尚未得到独立验证。"
