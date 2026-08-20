@@ -107,7 +107,8 @@ const now = new Date();
 const cutoff = now.getTime() - 90 * 24 * 60 * 60 * 1000;
 const liveItems = loaded.flatMap((result) => result.items);
 const failedNames = new Set(feeds.filter((_, index) => !loaded[index].ok).map((source) => source.name));
-const fallbackItems = (previous.items || []).filter((item) => failedNames.has(item.source));
+const directNames = new Set(directSources.map((source) => source.name));
+const fallbackItems = (previous.items || []).filter((item) => failedNames.has(item.source) || directNames.has(item.source));
 const items = Array.from(new Map([...liveItems, ...fallbackItems].map((item) => [item.url.replace(/\/$/, ""), item])).values())
   .filter((item) => new Date(item.date).getTime() >= cutoff)
   .sort((a, b) => new Date(b.date) - new Date(a.date));

@@ -141,6 +141,27 @@
       "titleZh": "Import AI 466：机器人领域的苦涩教训、AI 完成长达一周的编程任务，以及意外出现的 AI 黑客",
       "summaryZh": "本期讨论机器人学习、衡量 AI 长周期编程能力的基准，以及模型在网络安全任务中出现的意外能力。",
       "method": "editorial"
+    },
+    "https://openai.com/index/replit": {
+      "titleZh": "Replit 用 GPT-5.6 Luna 推出 Free Mode，降低软件创作门槛",
+      "summaryZh": "Replit 推出由 GPT-5.6 Luna 驱动的 Free Mode，让用户把想法做成可运行的软件时无需反复顾虑 token 成本；具体免费额度与限制仍需以 Replit 产品页为准。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "现在值得试：适合用一个不重要的小工具做低成本验证，但不要直接交给它生产数据或关键业务。"
+    },
+    "https://openai.com/index/offering-zero-data-retention-for-frontier-models": {
+      "titleZh": "OpenAI 将继续为前沿模型提供零数据保留，并测试私密安全处理",
+      "summaryZh": "OpenAI 表示，符合条件的 API 客户仍可使用 Zero Data Retention，并正在早期客户中测试 Private Safety Processing；系统效果仍需等待技术白皮书和外部验证。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "继续观察：只有在你用 API 处理敏感资料时才直接相关，而且测试中的隐私机制尚未得到独立验证。"
+    },
+    "https://x.ai/news/grok-4-6-amazon-bedrock": {
+      "titleZh": "Grok 4.6 已在 Amazon Bedrock 正式可用",
+      "summaryZh": "xAI 宣布 Grok 4.6 已在 Amazon Bedrock 全面可用，支持 50 万上下文和四档推理强度；官方定价为每百万输入 token 2 美元、输出 token 6 美元，具体可用区域以 AWS 文档为准。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "可以忽略：你目前不在 AWS 上开发或部署 AI，新增接入渠道不会直接改变你的使用。"
     }
   }
 }
