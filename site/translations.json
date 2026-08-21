@@ -162,6 +162,25 @@
       "method": "editorial",
       "curated": true,
       "takeaway": "可以忽略：你目前不在 AWS 上开发或部署 AI，新增接入渠道不会直接改变你的使用。"
+    },
+    "https://openai.com/index/stampli": {
+      "titleZh": "Stampli 用 ChatGPT Work 和 Codex 将发布制作工时减少 68%",
+      "summaryZh": "OpenAI 客户案例称，Stampli 把一次产品发布的预计制作工时从 243 小时压缩到约 77 小时，节省约 166 小时；所有面向客户的内容仍由人工审核和最终批准。数据为 Stampli 自行估算。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "现在值得试：把产品资料、会议记录和决策集中到一个工作上下文，先在一项固定交付物上实测节省的时间。"
+    },
+    "https://x.ai/news/grok-build-for-everyone": {
+      "titleZh": "Grok Build 向所有套餐开放，可在网页和手机里直接做应用",
+      "summaryZh": "xAI 宣布，所有套餐用户都可在网页、iOS 和 Android 中描述应用、游戏、网站或看板并生成可运行版本，还可发布链接、绑定自定义域名、导出到 GitHub 和连接数据；具体用量限制未公布。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "继续观察：它与现有网页构建工具高度重叠，而且中国大陆访问稳定性和各套餐额度仍不明确。"
+    },
+    "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale": {
+      "titleZh": "ChatGPT Search 正在更多使用 site: 限定搜索",
+      "summaryZh": "Simon Willison 引述 Promptwatch 的自动跟踪数据称，ChatGPT Search 扇出查询中使用 site: 限定符的比例曾从约 0.3%—0.5%升至 16%—17%；样本仅覆盖 Promptwatch 跟踪的提示，OpenAI 也未确认具体机制。",
+      "method": "editorial"
     }
   }
 }
