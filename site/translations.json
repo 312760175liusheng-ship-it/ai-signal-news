@@ -181,6 +181,20 @@
       "titleZh": "ChatGPT Search 正在更多使用 site: 限定搜索",
       "summaryZh": "Simon Willison 引述 Promptwatch 的自动跟踪数据称，ChatGPT Search 扇出查询中使用 site: 限定符的比例曾从约 0.3%—0.5%升至 16%—17%；样本仅覆盖 Promptwatch 跟踪的提示，OpenAI 也未确认具体机制。",
       "method": "editorial"
+    },
+    "https://developers.openai.com/api/docs/changelog": {
+      "titleZh": "OpenAI 下调 GPT-5.6 Sol API 价格，并支持逐请求选择处理区域",
+      "summaryZh": "OpenAI 8 月 21 日将 GPT-5.6 Sol 的 API 输入价格下调 20%至每百万 token 4 美元，输出价格下调 33%至 20 美元，促销价至少持续到 11 月 21 日；符合条件的 Global 项目还可按单次请求选择美国或欧洲区域处理，但仍受模型、端点和数据保留资格限制，区域端点另加价 10%。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "继续观察：这不会降低 ChatGPT 会员价格；只有以后自建需要大量调用 API 的工具时，才值得重新计算成本。"
+    },
+    "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games": {
+      "titleZh": "EVE Online 已将 Gemini 新手助手投入真实游戏，并与 DeepMind 扩大研究合作",
+      "summaryZh": "Google DeepMind 8 月 21 日披露，其与 Fenris Creations 正在 EVE 系列中研究通用游戏智能体；已上线的 Aura Guidance 使用 Gemini，把 580 万条 Rookie Help 消息整理成检索式新手问答，并在部分英语新玩家中做对照测试。低置信度问题会转给真人社区；长期智能体研究仍在与正式服务器隔离的离线环境中，尚无留存改善结果。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "继续观察：它展示了“检索优先、低置信度转人工”的可靠应用模板，但尚无留存结果，与你当前工作也没有直接场景。"
     }
   }
 }
