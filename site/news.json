@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-08-24T02:12:30.711Z",
+  "updatedAt": "2026-08-24T13:24:52.643Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
+      "title": "Your executable is a SQLite database",
+      "summary": "Farid Zakaria describes a neat Linux pattern for creating a SQLite database file that can be directly used as an executable binary. The trick sets the SQLite file format's 4-byte application ID (68 bytes into the file) to SELF, standing for Structured Executable & Linkable Format",
+      "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
+      "date": "2026-08-24T11:38:15.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 2,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
       "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
@@ -224,20 +238,6 @@
       "translationMethod": "editorial",
       "curated": true,
       "takeaway": "现在值得试：把产品资料、会议记录和决策集中到一个工作上下文，先在一项固定交付物上实测节省的时间。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
-      "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
-      "summary": "Research: smolmachines / smolvm as a sandbox for untrusted Python & JavaScript I tasked Claude Fable 5 running in Claude Code for web with the following research task: Put https://smolmachines.com through its paces as a fast secure sandbox. Explore what it would take to use this ",
-      "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
-      "date": "2026-08-19T23:16:00.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 6,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
       "id": "OpenAI-https://openai.com/index/offering-zero-data-retention-for-frontier-models",
