@@ -20,6 +20,8 @@ const feeds = [
 
 const directSources = [
   { name: "OpenAI API", homepage: "https://developers.openai.com/api/docs/changelog", kind: "official", region: "global", accent: "#101010" },
+  { name: "NVIDIA AI Infrastructure", homepage: "https://blogs.nvidia.com/blog/", kind: "official", region: "global", accent: "#76b900" },
+  { name: "SemiAnalysis", homepage: "https://semianalysis.com/", kind: "expert", region: "global", accent: "#3f6d5f" },
   { name: "Anthropic", homepage: "https://www.anthropic.com/news", kind: "official", region: "global", accent: "#d97757" },
   { name: "Microsoft AI", homepage: "https://blogs.microsoft.com/ai/", kind: "official", region: "global", accent: "#00a4ef" },
   { name: "Meta AI", homepage: "https://ai.meta.com/blog/", kind: "official", region: "global", accent: "#0866ff" },

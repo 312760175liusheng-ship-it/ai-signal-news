@@ -1,6 +1,18 @@
 {
   "version": 1,
   "items": {
+    "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion": {
+      "titleZh": "NVIDIA Groq 3 LPX 进入量产，瞄准长上下文智能体推理",
+      "summaryZh": "NVIDIA 8 月 24 日宣布 Groq 3 LPX 已进入量产。公司称，它在 Artificial Analysis 的一项测试中运行 Gemma 4 31B、处理 10 万 token 上下文时达到每秒 3,400 个输出 token；Nebius 是首家采用方，CoreWeave 已将配套网络投入生产。这些速度数据仍缺少独立复核。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "继续观察：先等云服务的实际价格与独立复核，目前无需为此更换工具。"
+    },
+    "https://newsletter.semianalysis.com/p/vera-rubin-nvl72-vs-gb200-nvl72-inference": {
+      "titleZh": "SemiAnalysis：Vera Rubin 的早期推理收益可观，但公开数据尚未独立验证",
+      "summaryZh": "SemiAnalysis 认为 Vera Rubin 的早期推理表现有潜力，同时明确指出当时取得的 CoreWeave 测试数据尚未经过独立复核；NVIDIA 承诺在 2026 年第三季度向 InferenceX 提交可核验结果。作者还提醒，长上下文、多轮智能体任务需要专门基准，不能只看单轮吞吐。",
+      "method": "editorial"
+    },
     "https://openai.com/index/chatgpt-ads-expands-across-europe": {
       "titleZh": "ChatGPT 广告扩展至欧洲",
       "summaryZh": "ChatGPT 广告将覆盖 31 个欧洲市场，让广告主能够在用户探索、比较和做决定的过程中触达他们。",

@@ -1,6 +1,65 @@
 {
-  "updatedAt": "2026-08-24T13:24:52.643Z",
+  "updatedAt": "2026-08-25T01:05:18.919Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+      "title": "llm-anthropic 0.27",
+      "summary": "Release: llm-anthropic 0.27 This release of the Anthropic plugin for LLM mainly provides compatibility with the recently released anthropic v1.0.0 Python library, which switches from httpx to httpx2 . OpenAI made the same change in their v3.0.0 release two weeks ago. Anthropic pr",
+      "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+      "date": "2026-08-24T16:27:04.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 3,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "NVIDIA AI Infrastructure-https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
+      "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
+      "summary": "NVIDIA says Groq 3 LPX is in full production. In an Artificial Analysis benchmark running Gemma 4 31B with a 100,000-token context, it delivered 3,400 output tokens per second, while Nebius is the first AI cloud adopter and CoreWeave has deployed Spectrum-X Multiplane in production.",
+      "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
+      "date": "2026-08-24T15:00:00.000Z",
+      "source": "NVIDIA AI Infrastructure",
+      "sourceHomepage": "https://blogs.nvidia.com/blog/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#76b900",
+      "score": 8,
+      "titleZh": "NVIDIA Groq 3 LPX 进入量产，瞄准长上下文智能体推理",
+      "summaryZh": "NVIDIA 8 月 24 日宣布 Groq 3 LPX 已进入量产。公司称，它在 Artificial Analysis 的一项测试中运行 Gemma 4 31B、处理 10 万 token 上下文时达到每秒 3,400 个输出 token；Nebius 是首家采用方，CoreWeave 已将配套网络投入生产。这些速度数据仍缺少独立复核。",
+      "translationMethod": "editorial",
+      "curated": true,
+      "takeaway": "继续观察：先等云服务的实际价格与独立复核，目前无需为此更换工具。"
+    },
+    {
+      "id": "Jack Clark-https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/",
+      "title": "Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI is accelerating some types of progress but not others:…A nice METR study lays out where acceler",
+      "url": "https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/",
+      "date": "2026-08-24T13:12:40.000Z",
+      "source": "Jack Clark",
+      "sourceHomepage": "https://jack-clark.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#3c6393",
+      "score": 2,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/gpt-5-6-in-kiro",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "date": "2026-08-24T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 4
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
       "title": "Your executable is a SQLite database",
@@ -193,20 +252,6 @@
       "titleZh": "ChatGPT Search 正在更多使用 site: 限定搜索",
       "summaryZh": "Simon Willison 引述 Promptwatch 的自动跟踪数据称，ChatGPT Search 扇出查询中使用 site: 限定符的比例曾从约 0.3%—0.5%升至 16%—17%；样本仅覆盖 Promptwatch 跟踪的提示，OpenAI 也未确认具体机制。",
       "translationMethod": "editorial"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Aug/20/bun-webview-json-api/",
-      "title": "A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView",
-      "summary": "Research: A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView Today saw the long awaited release of Bun 1.4 , the first stable version since the infamous Rust rewrite a few months ago . Interestingly, the Rust rewrite was downplayed in the release notes, which introduced a",
-      "url": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/",
-      "date": "2026-08-20T15:37:00.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 8,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
       "id": "OpenAI-https://openai.com/index/introducing-ai-futures",
@@ -488,22 +533,6 @@
       "score": 3,
       "titleZh": "Gemini 与 Pixel 联手五家足球俱乐部改善球迷比赛日体验",
       "summaryZh": "Google 将 Gemini 和 Pixel 接入五家全球足球俱乐部的球迷体验，尝试把 AI 与智能手机能力用于比赛日互动。",
-      "translationMethod": "editorial"
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/the-defenders-window",
-      "title": "The Defender’s Window",
-      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-      "url": "https://openai.com/index/the-defenders-window",
-      "date": "2026-08-17T05:30:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 4,
-      "titleZh": "防守者的窗口期：AI 正同时改变网络攻击与防御",
-      "summaryZh": "OpenAI 说明 AI 如何重塑攻防两端、其自身正在加强哪些防御，以及安全团队现在可以采取什么行动。",
       "translationMethod": "editorial"
     },
     {
@@ -977,6 +1006,23 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
+      "id": "SemiAnalysis-https://newsletter.semianalysis.com/p/vera-rubin-nvl72-vs-gb200-nvl72-inference",
+      "title": "Vera Rubin NVL72 vs GB200 NVL72? Inference TCO & Architecture Analysis",
+      "summary": "SemiAnalysis says early Vera Rubin metrics are encouraging but not independently verified. It notes NVIDIA committed to submit verifiable results to InferenceX in Q3 2026, and argues that realistic long-context, multi-turn agent workloads need dedicated benchmarks.",
+      "url": "https://newsletter.semianalysis.com/p/vera-rubin-nvl72-vs-gb200-nvl72-inference",
+      "date": "2026-07-23T12:00:00.000Z",
+      "source": "SemiAnalysis",
+      "sourceHomepage": "https://semianalysis.com/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#3f6d5f",
+      "score": 7,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。",
+      "titleZh": "SemiAnalysis：Vera Rubin 的早期推理收益可观，但公开数据尚未独立验证",
+      "summaryZh": "SemiAnalysis 认为 Vera Rubin 的早期推理表现有潜力，同时明确指出当时取得的 CoreWeave 测试数据尚未经过独立复核；NVIDIA 承诺在 2026 年第三季度向 InferenceX 提交可核验结果。作者还提醒，长上下文、多轮智能体任务需要专门基准，不能只看单轮吞吐。",
+      "translationMethod": "editorial"
+    },
+    {
       "id": "Nathan Lambert-https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3",
       "title": "Open models recap: more on Kimi K3, Qwen 3.8, Xi's WAIC speech, distillation, the open-closed gap, and what's next",
       "summary": "A podcast with Florian Brand.",
@@ -1262,39 +1308,11 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "Jack Clark-https://jack-clark.net/2026/06/08/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/",
-      "title": "Import AI 460: Reward hacking society, RSI data from Anthropic; and RL-based quadcopter racing",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Society can be reward-hacked, just like cyber environments:…Imagine an army of credit card point o",
-      "url": "https://jack-clark.net/2026/06/08/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/",
-      "date": "2026-06-08T12:31:32.000Z",
-      "source": "Jack Clark",
-      "sourceHomepage": "https://jack-clark.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#3c6393",
-      "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
       "id": "Ethan Mollick-https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
       "title": "Co-Existence and the End of Co-Intelligence",
       "summary": "Also: how pitch a book to an AI!",
       "url": "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
       "date": "2026-06-04T21:13:42.000Z",
-      "source": "Ethan Mollick",
-      "sourceHomepage": "https://www.oneusefulthing.org/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#d55a2a",
-      "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Ethan Mollick-https://www.oneusefulthing.org/p/choosing-to-stay-human",
-      "title": "Choosing to Stay Human",
-      "summary": "If you go to your favorite social media site, you will find it full of posts that start to look suspiciously similar to each other:",
-      "url": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
-      "date": "2026-05-26T19:56:01.000Z",
       "source": "Ethan Mollick",
       "sourceHomepage": "https://www.oneusefulthing.org/",
       "kind": "expert",
@@ -1391,6 +1409,22 @@
       "kind": "official",
       "region": "global",
       "accent": "#101010",
+      "ok": null
+    },
+    {
+      "name": "NVIDIA AI Infrastructure",
+      "homepage": "https://blogs.nvidia.com/blog/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#76b900",
+      "ok": null
+    },
+    {
+      "name": "SemiAnalysis",
+      "homepage": "https://semianalysis.com/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#3f6d5f",
       "ok": null
     },
     {
