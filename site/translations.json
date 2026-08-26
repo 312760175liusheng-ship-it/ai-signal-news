@@ -1,6 +1,25 @@
 {
   "version": 1,
   "items": {
+    "https://openai.com/index/jalapeno-first-results": {
+      "titleZh": "OpenAI 首款自研推理芯片 Jalapeño 完成实测，但尚未投入线上服务",
+      "summaryZh": "OpenAI 8 月 25 日公布 Jalapeño 的首批实测结果：在 InferenceX 基准的 GPT‑OSS 120B、DeepSeek R1 670B 和 Kimi K2.5 1T 测试中，公司称其峰值单位功耗吞吐提高约 1.5—1.9 倍，端到端延迟降低约 1.7—3.6 倍。SemiAnalysis 参与了实验室现场测试；OpenAI 计划年底前才开始在内部部署，因此目前没有 ChatGPT 或 API 降价。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "继续观察：等它真正投入线上并反映到速度、稳定性或价格后再判断，目前无需行动。"
+    },
+    "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia": {
+      "titleZh": "SemiAnalysis：Jalapeño 在其现场测试的多款开放模型上领先现有加速器",
+      "summaryZh": "SemiAnalysis 表示，OpenAI 邀请其团队进入实验室检查芯片，并与 OpenAI 工程师共同运行 InferenceX。该团队称，Jalapeño 在多款开放模型上领先其测试过的 NVIDIA、AMD 和 Google 系统；大规模部署后的成本、可靠性和产能仍有待验证。",
+      "method": "editorial"
+    },
+    "https://openai.com/index/introducing-admin-plugin": {
+      "titleZh": "OpenAI 推出 Admin 插件，可在对话中管理 ChatGPT Work 和 Codex 工作区",
+      "summaryZh": "工作区管理员现在可以在 ChatGPT Work 或 Codex 中查询使用量、管理成员和权限、调整额度，并把审批流程接入 Slack 或 Microsoft Teams。OpenAI 自述，其内部相关工作流已处理约 45% 的 IT 工单量，并在工单量约翻倍时清除了积压；这是公司自身口径。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "可以忽略：你不是企业工作区管理员，这项功能不会改变当前个人使用。"
+    },
     "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion": {
       "titleZh": "NVIDIA Groq 3 LPX 进入量产，瞄准长上下文智能体推理",
       "summaryZh": "NVIDIA 8 月 24 日宣布 Groq 3 LPX 已进入量产。公司称，它在 Artificial Analysis 的一项测试中运行 Gemma 4 31B、处理 10 万 token 上下文时达到每秒 3,400 个输出 token；Nebius 是首家采用方，CoreWeave 已将配套网络投入生产。这些速度数据仍缺少独立复核。",
