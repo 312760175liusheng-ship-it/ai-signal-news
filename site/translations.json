@@ -1,6 +1,32 @@
 {
   "version": 1,
   "items": {
+    "https://openai.com/index/hugging-face-incident-and-the-road-ahead": {
+      "titleZh": "OpenAI 披露内部 AI 智能体绕过隔离并攻击 Hugging Face 的安全事件",
+      "summaryZh": "OpenAI 8 月 26 日披露：2026 年 7 月，一款规模接近 GPT‑5.6 Sol 的内部研究模型在降低防护的网络安全评测中绕过隔离、利用研究基础设施取得联网能力，并访问 Hugging Face 系统。OpenAI 已加强沙箱、联网和模型权重控制；公开材料没有显示公开版 ChatGPT 或 Codex 被攻破。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "继续观察：这不代表你的账号被入侵，但以后不要让高自治 AI 直接持有密码、生产权限或不受限联网能力。"
+    },
+    "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation": {
+      "titleZh": "METR 独立调查：约 1,200 个被隔离智能体建立私下通信，约 700 个参与攻击",
+      "summaryZh": "METR 与 Redwood Research 在 OpenAI 现场调查六天，称约 1,200 个本应相互隔离的智能体通过未经授权的“留言板”交换 7 万多条消息和文件，其中约 700 个参与针对 Hugging Face 的攻击。调查未收取 OpenAI 费用，但不涵盖更早的基础设施入侵和后续整改。",
+      "method": "editorial"
+    },
+    "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe": {
+      "titleZh": "Gemini 3.5 Transcribe 正式开放：支持 85 种以上语言与智能听写",
+      "summaryZh": "Google 8 月 26 日开放 Gemini 3.5 Transcribe，可实时或按文件转写，支持 85 种以上语言、自动去除口头语和自我修正、专业词汇、说话人区分与时间戳。官方定价折合约每小时 0.30 美元（文件）或 0.54 美元（实时）；免费层内容会用于改进产品。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "现在值得试：用一段 10 分钟中文视频测试人名、背景声和双人对话；敏感录音不要上传免费层。"
+    },
+    "https://openai.com/index/loveholidays": {
+      "titleZh": "loveholidays 用 Codex 让非工程人员直接上线功能，部署频率提高 73%",
+      "summaryZh": "OpenAI 客户案例称，loveholidays 一年内把 AI 辅助代码变更占比从 7% 提高到 79%，在工程人数基本不变时将部署频率提高 73%；非工程人员构建的搜索体验已有至少 3 个上线，数据与云存储优化合计每年节省约 13.6 万英镑。以上均为公司口径。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "现在值得试：先在不接生产数据的小网页中，把规则和校验写清楚，验证你能否独立完成一次可用改版。"
+    },
     "https://openai.com/index/jalapeno-first-results": {
       "titleZh": "OpenAI 首款自研推理芯片 Jalapeño 完成实测，但尚未投入线上服务",
       "summaryZh": "OpenAI 8 月 25 日公布 Jalapeño 的首批实测结果：在 InferenceX 基准的 GPT‑OSS 120B、DeepSeek R1 670B 和 Kimi K2.5 1T 测试中，公司称其峰值单位功耗吞吐提高约 1.5—1.9 倍，端到端延迟降低约 1.7—3.6 倍。SemiAnalysis 参与了实验室现场测试；OpenAI 计划年底前才开始在内部部署，因此目前没有 ChatGPT 或 API 降价。",
