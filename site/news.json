@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-08-28T01:06:51.666Z",
+  "updatedAt": "2026-08-28T12:14:32.643Z",
   "items": [
+    {
+      "id": "OpenAI-https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "date": "2026-08-28T02:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 6
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
       "title": "Breaking Claude Code Opus 5 Auto Mode",
@@ -547,19 +560,6 @@
       "translationMethod": "editorial",
       "curated": true,
       "takeaway": "继续观察：这不会降低 ChatGPT 会员价格；只有以后自建需要大量调用 API 的工具时，才值得重新计算成本。"
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/introducing-ai-futures",
-      "title": "Introducing Intelligence Age",
-      "summary": ", a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "date": "2026-08-20T07:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 4
     },
     {
       "id": "Google AI-https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
