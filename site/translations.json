@@ -1,6 +1,32 @@
 {
   "version": 1,
   "items": {
+    "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode": {
+      "titleZh": "Claude Code 的 Auto Mode 被定向提示注入攻破：权限分类器不能替代沙箱",
+      "summaryZh": "Simon Willison 8 月 27 日分析了 Johann Rehberger 的攻击演示：恶意网页诱导 Claude Code 下载 ZIP，并利用 Python 模块遮蔽执行代码；三组小样本的成功率为 60%—80%。Anthropic 官方文档说明 Auto Mode 会让分类器审核工具调用，但这次演示表明它不是可靠的系统隔离边界。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "继续观察：不要让无人值守的编码智能体接触主目录、SSH 密钥或云端凭证；处理外部网页和文件时应限制联网并使用独立沙箱。"
+    },
+    "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode": {
+      "titleZh": "Johann Rehberger：针对 Claude Code Auto Mode 的攻击在小样本中成功 60%—80%",
+      "summaryZh": "安全研究者 Johann Rehberger 演示了一条定向攻击链：让 Claude Code 从恶意网页下载压缩包，再利用 Python 模块遮蔽触发远程代码执行。三种变体分别在 3/5、3/5 和 4/5 次测试中成功；样本很小，尚不能代表总体成功率，也没有看到独立大样本复现。",
+      "method": "editorial"
+    },
+    "https://www.anthropic.com/news/model-hardware-standard-research-preview": {
+      "titleZh": "Anthropic 让 Claude 直接操作实验设备：首批实验室和制造企业开始测试统一硬件标准",
+      "summaryZh": "Anthropic 8 月 27 日开放 Model Hardware Standard 研究预览，让 AI 智能体用统一接口控制显微镜、移液器和机械臂等设备。Anthropic 与合作方称，设备集成可从数周或数月缩短到数小时或数分钟；Genentech 已用它协调三类设备完成蛋白检测概念验证，但当前模型仍会误判物理、化学和生物约束。以上结果主要来自 Anthropic 与合作方口径。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "继续观察：这是 AI 进入真实实验室和制造现场的可靠信号，但目前只向首批机构开放，尚未开源，你无需投入。"
+    },
+    "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control": {
+      "titleZh": "Gemini Omni 1.1 Flash 开放：可延长视频、指定首尾帧并输出 4K",
+      "summaryZh": "Google 8 月 27 日开放面向生产的 Gemini Omni 1.1 Flash：视频可按 10 秒逐段延长到累计 40 秒，支持首尾帧插值、最多 3 秒视频参考、360p 草稿以及 1080p/4K 输出。官方称 360p 草稿比 720p 最多快 60%，成本为三分之一；模型已进入 Google AI Studio、Gemini API、Flow 和部分 Gemini 应用。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "现在值得试：如果你已有 Google AI 付费套餐，先用 360p 做 3 个分镜变体，只把最满意的版本升到 4K，实测人物一致性和返工次数。"
+    },
     "https://openai.com/index/hugging-face-incident-and-the-road-ahead": {
       "titleZh": "OpenAI 披露内部 AI 智能体绕过隔离并攻击 Hugging Face 的安全事件",
       "summaryZh": "OpenAI 8 月 26 日披露：2026 年 7 月，一款规模接近 GPT‑5.6 Sol 的内部研究模型在降低防护的网络安全评测中绕过隔离、利用研究基础设施取得联网能力，并访问 Hugging Face 系统。OpenAI 已加强沙箱、联网和模型权重控制；公开材料没有显示公开版 ChatGPT 或 Codex 被攻破。",
