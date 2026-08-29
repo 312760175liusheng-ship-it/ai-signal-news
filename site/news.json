@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-08-28T12:14:32.643Z",
+  "updatedAt": "2026-08-29T01:05:21.680Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
+      "title": "Just a rumour of a bug is enough to find a security exploit these days",
+      "summary": "Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this somewhat alarming post he reports that security issues in OCaml projects are seeing evidence of attempted exploits within minutes of patches being shared for dis",
+      "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
+      "date": "2026-08-28T22:12:02.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 7,
+      "takeaway": "继续观察：你的 GitHub Pages 是静态网站，当前风险较低；以后若自建服务器，应先部署修复再公开细节，并保持依赖自动更新。",
+      "titleZh": "开源漏洞从公开补丁到遭探测只用了约 10 分钟，AI 正压缩防守窗口",
+      "summaryZh": "Simon Willison 8 月 28 日转述剑桥大学教授兼 OCaml 核心维护者 Anil Madhavapeddy 的一手记录：Cohttp 路径遍历修复 PR 公开后约 10 分钟，他的网站便收到相同模式的探测；他自己用 AI 智能体不到 1 分钟就生成了本地利用程序。官方安全公告确认漏洞及 6.3.0 修复，但外部探测是否由 AI 发起无法直接证明。",
+      "translationMethod": "editorial",
+      "curated": true
+    },
     {
       "id": "OpenAI-https://openai.com/index/supporting-next-generation-ai-startups-thailand",
       "title": "Supporting Thailand’s next generation of AI startups",
@@ -170,10 +188,10 @@
       "translationMethod": "editorial"
     },
     {
-      "id": "OpenAI-https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "id": "OpenAI-https://openai.com/index/learning-never-stops",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "url": "https://openai.com/index/learning-never-stops",
       "date": "2026-08-26T10:00:00.000Z",
       "source": "OpenAI",
       "sourceHomepage": "https://openai.com/news/",
@@ -183,10 +201,10 @@
       "score": 3
     },
     {
-      "id": "OpenAI-https://openai.com/index/learning-never-stops",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "url": "https://openai.com/index/learning-never-stops",
+      "id": "OpenAI-https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "date": "2026-08-26T10:00:00.000Z",
       "source": "OpenAI",
       "sourceHomepage": "https://openai.com/news/",
@@ -512,18 +530,21 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "Simon Willison-https://simonwillison.net/2026/Aug/21/llm/",
-      "title": "llm 0.32.1",
-      "summary": "Release: llm 0.32.1 Fresh installs of LLM stopped working the other day because the OpenAI Python library dropped its usage of httpx , and it turned out LLM depended on that library but only installed it via a transitive openai dependency. This dot-release fixes that for the mome",
-      "url": "https://simonwillison.net/2026/Aug/21/llm/",
-      "date": "2026-08-21T17:16:13.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
+      "id": "Anil Madhavapeddy-https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "title": "Just a rumour of a bug is enough to find a security exploit these days",
+      "summary": "OCaml core maintainer Anil Madhavapeddy reported exploit-pattern probes roughly ten minutes after a Cohttp security-fix PR became public. His own agents generated a local exploit from a broad description in under a minute; the external probes' operator and use of AI remain unverified.",
+      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "date": "2026-08-22T00:00:00.000Z",
+      "source": "Anil Madhavapeddy",
+      "sourceHomepage": "https://anil.recoil.org/",
       "kind": "expert",
       "region": "global",
-      "accent": "#8d5bd3",
-      "score": 4,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+      "accent": "#536878",
+      "score": 9,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。",
+      "titleZh": "Anil Madhavapeddy：如今只透露漏洞方向，AI 智能体就可能生成利用代码",
+      "summaryZh": "OCaml 核心维护者 Anil Madhavapeddy 记录称，Cohttp 安全修复 PR 公开约 10 分钟后，其网站开始收到针对该漏洞模式的探测；他自己的智能体仅凭漏洞方向便在不到 1 分钟内生成本地利用程序。他据此认为，传统开源漏洞保密和数日发布节奏正在失效；外部探测的操作者及其是否使用 AI 仍无法确认。",
+      "translationMethod": "editorial"
     },
     {
       "id": "DeepMind-https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
@@ -1501,6 +1522,14 @@
       "kind": "expert",
       "region": "global",
       "accent": "#9b3f39",
+      "ok": null
+    },
+    {
+      "name": "Anil Madhavapeddy",
+      "homepage": "https://anil.recoil.org/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#536878",
       "ok": null
     },
     {

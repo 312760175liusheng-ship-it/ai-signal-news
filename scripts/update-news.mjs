@@ -24,6 +24,7 @@ const directSources = [
   { name: "SemiAnalysis", homepage: "https://semianalysis.com/", kind: "expert", region: "global", accent: "#3f6d5f" },
   { name: "METR", homepage: "https://metr.org/blog/", kind: "expert", region: "global", accent: "#5b6f87" },
   { name: "Johann Rehberger", homepage: "https://embracethered.com/blog/", kind: "expert", region: "global", accent: "#9b3f39" },
+  { name: "Anil Madhavapeddy", homepage: "https://anil.recoil.org/", kind: "expert", region: "global", accent: "#536878" },
   { name: "Anthropic", homepage: "https://www.anthropic.com/news", kind: "official", region: "global", accent: "#d97757" },
   { name: "Microsoft AI", homepage: "https://blogs.microsoft.com/ai/", kind: "official", region: "global", accent: "#00a4ef" },
   { name: "Meta AI", homepage: "https://ai.meta.com/blog/", kind: "official", region: "global", accent: "#0866ff" },

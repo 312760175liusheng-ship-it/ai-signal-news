@@ -1,6 +1,18 @@
 {
   "version": 1,
   "items": {
+    "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug": {
+      "titleZh": "开源漏洞从公开补丁到遭探测只用了约 10 分钟，AI 正压缩防守窗口",
+      "summaryZh": "Simon Willison 8 月 28 日转述剑桥大学教授兼 OCaml 核心维护者 Anil Madhavapeddy 的一手记录：Cohttp 路径遍历修复 PR 公开后约 10 分钟，他的网站便收到相同模式的探测；他自己用 AI 智能体不到 1 分钟就生成了本地利用程序。官方安全公告确认漏洞及 6.3.0 修复，但外部探测是否由 AI 发起无法直接证明。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "继续观察：你的 GitHub Pages 是静态网站，当前风险较低；以后若自建服务器，应先部署修复再公开细节，并保持依赖自动更新。"
+    },
+    "https://anil.recoil.org/notes/rumour-is-the-exploit": {
+      "titleZh": "Anil Madhavapeddy：如今只透露漏洞方向，AI 智能体就可能生成利用代码",
+      "summaryZh": "OCaml 核心维护者 Anil Madhavapeddy 记录称，Cohttp 安全修复 PR 公开约 10 分钟后，其网站开始收到针对该漏洞模式的探测；他自己的智能体仅凭漏洞方向便在不到 1 分钟内生成本地利用程序。他据此认为，传统开源漏洞保密和数日发布节奏正在失效；外部探测的操作者及其是否使用 AI 仍无法确认。",
+      "method": "editorial"
+    },
     "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode": {
       "titleZh": "Claude Code 的 Auto Mode 被定向提示注入攻破：权限分类器不能替代沙箱",
       "summaryZh": "Simon Willison 8 月 27 日分析了 Johann Rehberger 的攻击演示：恶意网页诱导 Claude Code 下载 ZIP，并利用 Python 模块遮蔽执行代码；三组小样本的成功率为 60%—80%。Anthropic 官方文档说明 Auto Mode 会让分类器审核工具调用，但这次演示表明它不是可靠的系统隔离边界。",
