@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T01:05:21.680Z",
+  "updatedAt": "2026-08-29T07:24:15.168Z",
   "items": [
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
@@ -18,6 +18,19 @@
       "summaryZh": "Simon Willison 8 月 28 日转述剑桥大学教授兼 OCaml 核心维护者 Anil Madhavapeddy 的一手记录：Cohttp 路径遍历修复 PR 公开后约 10 分钟，他的网站便收到相同模式的探测；他自己用 AI 智能体不到 1 分钟就生成了本地利用程序。官方安全公告确认漏洞及 6.3.0 修复，但外部探测是否由 AI 发起无法直接证明。",
       "translationMethod": "editorial",
       "curated": true
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "date": "2026-08-28T06:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 3
     },
     {
       "id": "OpenAI-https://openai.com/index/supporting-next-generation-ai-startups-thailand",
@@ -431,19 +444,6 @@
       "accent": "#3c6393",
       "score": 2,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/gpt-5-6-in-kiro",
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
-      "date": "2026-08-24T12:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 4
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
