@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-08-29T07:24:15.168Z",
+  "updatedAt": "2026-08-30T01:02:29.959Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Aug/29/hy4/",
+      "title": "Introducing Hy4 Preview",
+      "summary": "New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB on Hugging Face . This is a big size increase from their previous Hy3 in July, which was 295B, 21B active, 256,000 context,",
+      "url": "https://simonwillison.net/2026/Aug/29/hy4/",
+      "date": "2026-08-29T23:53:13.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 4,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
       "title": "Just a rumour of a bug is enough to find a security exploit these days",
@@ -513,20 +527,6 @@
       "region": "global",
       "accent": "#8d5bd3",
       "score": 5,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
-      "title": "More than just code review",
-      "summary": "The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way. Sometimes this involves reviewing every line of code they have wri",
-      "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
-      "date": "2026-08-22T15:56:54.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 4,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
