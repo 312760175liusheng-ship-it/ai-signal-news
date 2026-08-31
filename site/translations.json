@@ -1,6 +1,13 @@
 {
   "version": 1,
   "items": {
+    "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work": {
+      "titleZh": "ChatGPT Work 不只是“更长的聊天”：它能执行任务、操作网页并持续保存文件",
+      "summaryZh": "OpenAI 官方资料确认，ChatGPT Work 可以调用文件、插件和获准工具；桌面端可选择本地或云端运行，云端任务在电脑关闭后仍能继续，并可从网页或手机接着查看。Simon Willison 实测发现，Work Cloud 还提供联网代码环境、浏览器、跨会话文件、Sites 和子智能体。需要纠正的是：他称 Work 仅限付费用户，但当前官方定价页已列出 Free、Go、Plus 和 Pro，并明确 Work 与 Codex 共用使用量；实际额度和功能仍受套餐、地区及工作区设置影响。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "现在值得试：拿一个不含隐私、结果可核验的小任务分别交给 Chat 和 Work；需要后台运行、文件成品或网页操作时才用 Work，并观察 Codex 使用量变化。"
+    },
     "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug": {
       "titleZh": "开源漏洞从公开补丁到遭探测只用了约 10 分钟，AI 正压缩防守窗口",
       "summaryZh": "Simon Willison 8 月 28 日转述剑桥大学教授兼 OCaml 核心维护者 Anil Madhavapeddy 的一手记录：Cohttp 路径遍历修复 PR 公开后约 10 分钟，他的网站便收到相同模式的探测；他自己用 AI 智能体不到 1 分钟就生成了本地利用程序。官方安全公告确认漏洞及 6.3.0 修复，但外部探测是否由 AI 发起无法直接证明。",
