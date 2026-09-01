@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T01:07:20.384Z",
+  "updatedAt": "2026-09-01T05:41:19.518Z",
   "items": [
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
@@ -42,6 +42,19 @@
       "accent": "#3c6393",
       "score": 2,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "date": "2026-08-31T07:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 3
     },
     {
       "id": "OpenAI-https://openai.com/index/polimill",
@@ -325,10 +338,10 @@
       "translationMethod": "editorial"
     },
     {
-      "id": "OpenAI-https://openai.com/index/learning-never-stops",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "url": "https://openai.com/index/learning-never-stops",
+      "id": "OpenAI-https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "date": "2026-08-26T10:00:00.000Z",
       "source": "OpenAI",
       "sourceHomepage": "https://openai.com/news/",
@@ -338,10 +351,10 @@
       "score": 3
     },
     {
-      "id": "OpenAI-https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "id": "OpenAI-https://openai.com/index/learning-never-stops",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "url": "https://openai.com/index/learning-never-stops",
       "date": "2026-08-26T10:00:00.000Z",
       "source": "OpenAI",
       "sourceHomepage": "https://openai.com/news/",
@@ -473,24 +486,6 @@
       "region": "global",
       "accent": "#101010",
       "score": 3
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/jalapeno-first-results",
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "date": "2026-08-25T07:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3,
-      "titleZh": "OpenAI 首款自研推理芯片 Jalapeño 完成实测，但尚未投入线上服务",
-      "summaryZh": "OpenAI 8 月 25 日公布 Jalapeño 的首批实测结果：在 InferenceX 基准的 GPT‑OSS 120B、DeepSeek R1 670B 和 Kimi K2.5 1T 测试中，公司称其峰值单位功耗吞吐提高约 1.5—1.9 倍，端到端延迟降低约 1.7—3.6 倍。SemiAnalysis 参与了实验室现场测试；OpenAI 计划年底前才开始在内部部署，因此目前没有 ChatGPT 或 API 降价。",
-      "translationMethod": "editorial",
-      "curated": true,
-      "takeaway": "继续观察：等它真正投入线上并反映到速度、稳定性或价格后再判断，目前无需行动。"
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Aug/24/llm-anthropic/",
