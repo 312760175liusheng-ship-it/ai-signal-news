@@ -297,6 +297,20 @@
       "method": "editorial",
       "curated": true,
       "takeaway": "继续观察：它展示了“检索优先、低置信度转人工”的可靠应用模板，但尚无留存结果，与你当前工作也没有直接场景。"
+    },
+    "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads": {
+      "titleZh": "ChatGPT 广告业务扩展至全球 40 多个国家",
+      "summaryZh": "OpenAI 8 月 31 日宣布，ChatGPT Ads 上线不到 200 天后年化收入运行率达到 10 亿美元，广告主已达数万家；印度、欧洲、中东和北非开始开放自助购买。收入、广告主数量和投放效果均为 OpenAI 公司口径。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "继续观察：你使用的 Plus 方案按现行政策不展示广告，但免费版 ChatGPT 正在快速转向广告支持模式，推荐结果与广告之间的边界值得持续检查。"
+    },
+    "https://openai.com/index/polimill": {
+      "titleZh": "日本 QommonsAI 已进入约 1050 个地方政府",
+      "summaryZh": "OpenAI 客户案例称，Polimill 的 QommonsAI 已覆盖日本约 1050 个地方政府和约 55 万名公务人员，并把 Codex 用于需求、开发和测试，使开发速度提高到原来的 3—5 倍；规模和提速数据均为公司口径。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "继续观察：这是公共部门真实部署的强信号，但你无法直接复用其政府数据和组织条件，先关注它是否公开具体节省工时、错误率与审核成本。"
     }
   }
 }
