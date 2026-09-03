@@ -311,6 +311,25 @@
       "method": "editorial",
       "curated": true,
       "takeaway": "继续观察：这是公共部门真实部署的强信号，但你无法直接复用其政府数据和组织条件，先关注它是否公开具体节省工时、错误率与审核成本。"
+    },
+    "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber": {
+      "titleZh": "Google 发布 Gemini 3.8 Flash，并推出受限开放的网络安全版",
+      "summaryZh": "Google 9 月 2 日发布 Gemini 3.8 Flash，已在 Gemini API、AI Studio、Gemini Enterprise 及部分付费消费端上线；2026 年内优惠价为每百万输入 token 0.75 美元、输出 token 3.75 美元。Google 同时推出仅向可信防御机构开放的 Gemini 3.8 Flash Cyber。性能与安全收益主要为 Google 及合作方口径。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "现在值得试：若你已有 Google AI Pro 或 Ultra，用同一项真实网页或资料整理任务与 ChatGPT 对照一次；没有订阅不必只为跑分新增付费。"
+    },
+    "https://simonwillison.net/2026/Sep/2/llm-gemini": {
+      "titleZh": "Simon Willison 实测 Gemini 3.8 Flash：快、便宜，适合 HTML 与 JavaScript",
+      "summaryZh": "Simon Willison 为 llm-gemini 增加 Gemini 3.8 Flash 支持，并用相同提示测试图像和网页生成。他的一次 HTML 小工具生成耗时 13 秒、成本 1.8 美分；这是小样本实测，不能替代系统评估。",
+      "method": "editorial"
+    },
+    "https://openai.com/index/atv-big-air-tour": {
+      "titleZh": "两人团队用 ChatGPT Work 把三天的库存工作压缩到三小时",
+      "summaryZh": "OpenAI 9 月 2 日案例称，美国 ATV Big Air Tour 用每日自动简报核对约 30 个活动信息来源，把每周审查时间从 8 小时降至 1 小时；又把商品盘点与补货从 2—3 天缩短到 2—3 小时。相关效率和流量数据均为企业自述。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "现在值得试：选一个重复且容易核对的小流程，例如用 10—20 张库存照片生成表格并逐项人工验收，先测错漏率再谈自动化。"
     }
   }
 }
