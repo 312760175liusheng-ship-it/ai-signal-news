@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-04T05:07:12.167Z",
+  "updatedAt": "2026-09-04T06:01:23.556Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/4/august-newsletter/",
+      "title": "August newsletter is out",
+      "summary": "The August edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here . This month: We got more details on OpenAl's accidental cyberattacks One-shotting Raccoon Heist games with Fable 5 and Sol 5.6 Claude",
+      "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
+      "date": "2026-09-04T05:54:40.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 4,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Sep/3/gpt6-astra/",
       "title": "GPT‑6 Astra",
@@ -39,7 +53,12 @@
       "kind": "official",
       "region": "global",
       "accent": "#6b63ff",
-      "score": 4
+      "score": 4,
+      "titleZh": "WeatherNext 3 已开始进入 Google 搜索、Gemini 和地图",
+      "summaryZh": "Google DeepMind 9 月 3 日发布 WeatherNext 3：它接入实时卫星数据，每小时更新一次，并提供 5—25 公里分辨率的全球预报。Google 称该模型已开始在搜索、Gemini、Google Maps、Maps Platform Weather API 和 Earth Engine 全球上线；“降水预报最高提高 50%”属于 Google 口径。",
+      "translationMethod": "editorial",
+      "curated": true,
+      "takeaway": "继续观察：中国大陆的可访问性和柳州本地准确率尚未验证；日常规划可以对照体验，暴雨等安全决策仍以中国气象部门预警为准。"
     },
     {
       "id": "OpenAI-https://openai.com/index/daybreak-for-frontline-defenders",
@@ -104,7 +123,30 @@
       "kind": "official",
       "region": "global",
       "accent": "#101010",
-      "score": 5
+      "score": 5,
+      "titleZh": "GPT-6 Astra 开始向 ChatGPT Plus 等付费用户推出",
+      "summaryZh": "OpenAI 9 月 3 日发布 GPT-6 Astra，并确认它是首个达到其“关键级”网络安全能力门槛的广泛部署模型。官方主发布页称，它将在未来几天向 Plus、Pro、Business 和 Enterprise 用户开放，现有订阅额度内可用；API 标准价为每百万输入 token 10 美元、输出 token 50 美元。能力、安全性和成本比较主要为 OpenAI 口径。",
+      "translationMethod": "editorial",
+      "curated": true,
+      "takeaway": "现在值得试：等你的账号出现 Astra 后，用一项过去需要多次返工的真实任务做对照；先验证结果，不必急着购买额外 credits。"
+    },
+    {
+      "id": "xAI-https://x.ai/news/grok-bot-for-enterprise",
+      "title": "Grok Bot for Enterprise",
+      "summary": "Grok Bot is now available for enterprises, adding organization-wide access, network controls and audit controls for persistent cloud agents.",
+      "url": "https://x.ai/news/grok-bot-for-enterprise",
+      "date": "2026-09-03T00:00:00.000Z",
+      "source": "xAI",
+      "sourceHomepage": "https://x.ai/news",
+      "kind": "official",
+      "region": "global",
+      "accent": "#202020",
+      "score": 5,
+      "titleZh": "Grok Bot 向企业开放，可让多个云端智能体长期值守",
+      "summaryZh": "xAI 9 月 3 日宣布 Grok Bot 向企业开放，新增组织级访问、网络和审计控制；每个 Bot 拥有独立云电脑，可按日程或事件自动执行工作。xAI 称已有数千家组织使用并创建了数百万个 Bot，这些规模与节省费用数据均为公司口径；官方未给出精确发布时间。",
+      "translationMethod": "editorial",
+      "curated": true,
+      "takeaway": "可以忽略：目前只面向 Grok 或 Cursor Enterprise 客户，与你已有的 ChatGPT Work 自动任务高度重叠。"
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Sep/2/llm-gemini/",
@@ -413,20 +455,6 @@
       "region": "global",
       "accent": "#8d5bd3",
       "score": 6,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Aug/31/andrew-digby/",
-      "title": "Quoting Andrew Digby",
-      "summary": "325 #kakapo! The chicks from this year's record breeding season are now juveniles and so have been added to the population. In 1995 there were just 51 kākāpō left. Recovery of critically endangered species is possible with sustained effort. &mdash; Andrew Digby , providing the be",
-      "url": "https://simonwillison.net/2026/Aug/31/andrew-digby/",
-      "date": "2026-08-31T22:25:02.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 2,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {

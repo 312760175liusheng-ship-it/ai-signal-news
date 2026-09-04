@@ -330,6 +330,27 @@
       "method": "editorial",
       "curated": true,
       "takeaway": "现在值得试：选一个重复且容易核对的小流程，例如用 10—20 张库存照片生成表格并逐项人工验收，先测错漏率再谈自动化。"
+    },
+    "https://openai.com/index/safety-overview-gpt-6-astra": {
+      "titleZh": "GPT-6 Astra 开始向 ChatGPT Plus 等付费用户推出",
+      "summaryZh": "OpenAI 9 月 3 日发布 GPT-6 Astra，并确认它是首个达到其“关键级”网络安全能力门槛的广泛部署模型。官方主发布页称，它将在未来几天向 Plus、Pro、Business 和 Enterprise 用户开放，现有订阅额度内可用；API 标准价为每百万输入 token 10 美元、输出 token 50 美元。能力、安全性和成本比较主要为 OpenAI 口径。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "现在值得试：等你的账号出现 Astra 后，用一项过去需要多次返工的真实任务做对照；先验证结果，不必急着购买额外 credits。"
+    },
+    "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model": {
+      "titleZh": "WeatherNext 3 已开始进入 Google 搜索、Gemini 和地图",
+      "summaryZh": "Google DeepMind 9 月 3 日发布 WeatherNext 3：它接入实时卫星数据，每小时更新一次，并提供 5—25 公里分辨率的全球预报。Google 称该模型已开始在搜索、Gemini、Google Maps、Maps Platform Weather API 和 Earth Engine 全球上线；“降水预报最高提高 50%”属于 Google 口径。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "继续观察：中国大陆的可访问性和柳州本地准确率尚未验证；日常规划可以对照体验，暴雨等安全决策仍以中国气象部门预警为准。"
+    },
+    "https://x.ai/news/grok-bot-for-enterprise": {
+      "titleZh": "Grok Bot 向企业开放，可让多个云端智能体长期值守",
+      "summaryZh": "xAI 9 月 3 日宣布 Grok Bot 向企业开放，新增组织级访问、网络和审计控制；每个 Bot 拥有独立云电脑，可按日程或事件自动执行工作。xAI 称已有数千家组织使用并创建了数百万个 Bot，这些规模与节省费用数据均为公司口径；官方未给出精确发布时间。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "可以忽略：目前只面向 Grok 或 Cursor Enterprise 客户，与你已有的 ChatGPT Work 自动任务高度重叠。"
     }
   }
 }
