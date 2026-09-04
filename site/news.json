@@ -1,6 +1,111 @@
 {
-  "updatedAt": "2026-09-03T05:05:32.486Z",
+  "updatedAt": "2026-09-04T05:07:12.167Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+      "title": "GPT‑6 Astra",
+      "summary": "GPT-6 Astra is \"rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise users, as well as through the OpenAI API and AWS\" - I've not tried it yet myself, so I don't have a great deal to ",
+      "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+      "date": "2026-09-03T20:18:41.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 8,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "NVIDIA-https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+      "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+      "summary": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October",
+      "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+      "date": "2026-09-03T16:00:59.000Z",
+      "source": "NVIDIA",
+      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#76b900",
+      "score": 4
+    },
+    {
+      "id": "DeepMind-https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "date": "2026-09-03T15:02:08.000Z",
+      "source": "DeepMind",
+      "sourceHomepage": "https://deepmind.google/blog/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#6b63ff",
+      "score": 4
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/daybreak-for-frontline-defenders",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "date": "2026-09-03T13:15:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 4
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/legora-financial-statement-review-with-astra",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "date": "2026-09-03T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 4
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/playco-game-prototyping-with-astra",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "date": "2026-09-03T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 3
+    },
+    {
+      "id": "NVIDIA-https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+      "title": "NVIDIA to Acquire Hugging Face",
+      "summary": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas",
+      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+      "date": "2026-09-03T11:56:49.000Z",
+      "source": "NVIDIA",
+      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#76b900",
+      "score": 3
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/safety-overview-gpt-6-astra",
+      "title": "Safety overview: GPT-6 Astra",
+      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "date": "2026-09-03T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 5
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Sep/2/llm-gemini/",
       "title": "llm-gemini 0.34",
@@ -402,50 +507,6 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "Simon Willison-https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-      "title": "Understanding ChatGPT Work",
-      "summary": "OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here's what I've figured out about it so far. ChatGPT Work is actually two products The more interesting version of ChatGPT",
-      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-      "date": "2026-08-30T23:59:47.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 9,
-      "takeaway": "现在值得试：拿一个不含隐私、结果可核验的小任务分别交给 Chat 和 Work；需要后台运行、文件成品或网页操作时才用 Work，并观察 Codex 使用量变化。",
-      "titleZh": "ChatGPT Work 不只是“更长的聊天”：它能执行任务、操作网页并持续保存文件",
-      "summaryZh": "OpenAI 官方资料确认，ChatGPT Work 可以调用文件、插件和获准工具；桌面端可选择本地或云端运行，云端任务在电脑关闭后仍能继续，并可从网页或手机接着查看。Simon Willison 实测发现，Work Cloud 还提供联网代码环境、浏览器、跨会话文件、Sites 和子智能体。需要纠正的是：他称 Work 仅限付费用户，但当前官方定价页已列出 Free、Go、Plus 和 Pro，并明确 Work 与 Codex 共用使用量；实际额度和功能仍受套餐、地区及工作区设置影响。",
-      "translationMethod": "editorial",
-      "curated": true
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "date": "2026-08-28T06:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "date": "2026-08-28T02:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 6
-    },
-    {
       "id": "DeepMind-https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
       "title": "Gemini Omni 1.1 Flash lets you build with more control",
       "summary": "",
@@ -488,32 +549,6 @@
       "region": "global",
       "accent": "#6b63ff",
       "score": 3
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "date": "2026-08-27T09:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/expanding-our-presence-in-brazil",
-      "title": "Expanding OpenAI’s presence in Brazil",
-      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-      "date": "2026-08-27T03:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 4
     },
     {
       "id": "Anthropic-https://www.anthropic.com/news/model-hardware-standard-research-preview",
@@ -1148,19 +1183,6 @@
       "score": 5
     },
     {
-      "id": "DeepMind-https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-      "summary": "",
-      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-      "date": "2026-07-29T16:02:10.000Z",
-      "source": "DeepMind",
-      "sourceHomepage": "https://deepmind.google/blog/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#6b63ff",
-      "score": 4
-    },
-    {
       "id": "Jack Clark-https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/",
       "title": "Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI’s accidental AI hacker",
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Epoch and METR release MirrorCode, a benchmark for seeing how well AI systems can do long-horizon ",
@@ -1189,19 +1211,6 @@
       "region": "global",
       "accent": "#76b900",
       "score": 4
-    },
-    {
-      "id": "NVIDIA-https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
-      "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
-      "summary": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem partners to chart Korea’s AI progress. Building on NVIDIA founder and CEO Jensen Huang’s visit to K",
-      "url": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
-      "date": "2026-07-24T04:34:27.000Z",
-      "source": "NVIDIA",
-      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#76b900",
-      "score": 3
     },
     {
       "id": "Ethan Mollick-https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
@@ -1247,19 +1256,6 @@
       "accent": "#1f7a6b",
       "score": 2,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "NVIDIA-https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
-      "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
-      "summary": "Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend, press, slip and interact with tissue. Imaging can be noisy or incomplete. And the rare, edge scenarios developers most need to understa",
-      "url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
-      "date": "2026-07-22T13:00:11.000Z",
-      "source": "NVIDIA",
-      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#76b900",
-      "score": 7
     },
     {
       "id": "Nathan Lambert-https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
