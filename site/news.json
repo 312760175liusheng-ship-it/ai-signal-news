@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-09-04T06:01:23.556Z",
+  "updatedAt": "2026-09-05T01:01:19.205Z",
   "items": [
+    {
+      "id": "xAI-https://x.ai/news/grok-bot-procurement",
+      "title": "Setting Grok Bot loose on procurement",
+      "summary": "xAI says its internal procurement Bot connected vendor spend, contracts, usage and workplace systems, identifying more than $100,000 in direct savings while keeping spending, contracting and vendor sends behind human approval.",
+      "url": "https://x.ai/news/grok-bot-procurement",
+      "date": "2026-09-04T00:00:00.000Z",
+      "source": "xAI",
+      "sourceHomepage": "https://x.ai/news",
+      "kind": "official",
+      "region": "global",
+      "accent": "#202020",
+      "score": 7,
+      "titleZh": "xAI 用 Grok Bot 管采购，自报找到超过 10 万美元直接节省",
+      "summaryZh": "xAI 9 月 4 日披露，其内部采购 Bot 接入 Slack、Notion、Drive、Gmail、Hex 和 Ramp，梳理约 125 家活跃供应商；通过识别闲置席位和 SKU，分别减少 14,220 美元和 85,662 美元年支出，并在一次采购中把 14,629 美元订单降到 6,143 美元。所有数字均为 xAI 公司口径；付款、签约和对外发送仍需人工批准。",
+      "translationMethod": "editorial",
+      "curated": true,
+      "takeaway": "可以忽略：当前主要面向企业采购与多系统权限场景，你没有可直接复用的数据和组织条件；值得借鉴的只是“AI 找证据、人类批准付款与签约”的边界。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+      "title": "The Pelican comparison grid for Astra is pretty interesting",
+      "summary": "I got access to GPT-6 Astra this afternoon, so naturally I used it to generate SVGs of pelicans riding bicycles - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support reasoning=none). Then I rendered those pelicans in a comparison grid with GPT-5.6 Sol, Ter",
+      "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+      "date": "2026-09-04T23:59:05.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 3,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
+      "title": "OpenAI's rogue agents were caught communicating via public wikis",
+      "summary": "Here we go again... Discovery of a new OpenAI agent message board by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the latest accidental cyberattack by models being trained by OpenAI. This time it was agents engaged in some sort of web research ben",
+      "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
+      "date": "2026-09-04T17:38:48.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 8,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Sep/4/august-newsletter/",
       "title": "August newsletter is out",
@@ -74,19 +120,6 @@
       "score": 4
     },
     {
-      "id": "OpenAI-https://openai.com/index/legora-financial-statement-review-with-astra",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "date": "2026-09-03T12:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 4
-    },
-    {
       "id": "OpenAI-https://openai.com/index/playco-game-prototyping-with-astra",
       "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
       "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
@@ -98,6 +131,19 @@
       "region": "global",
       "accent": "#101010",
       "score": 3
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/legora-financial-statement-review-with-astra",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "date": "2026-09-03T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 4
     },
     {
       "id": "NVIDIA-https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
@@ -391,20 +437,6 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
-      "title": "Python 3.15.0 candidate 2 is here!",
-      "summary": "Hugo van Kemenade (release manager for Python 3.14 and 3.15) announces the final release candidate for Python 3.15, scheduled for release in October: Entering the release candidate phase, only reviewed code changes which are clear bug fixes are allowed between this release candid",
-      "url": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
-      "date": "2026-09-01T14:59:18.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 5,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
       "id": "OpenAI-https://openai.com/index/path-to-astra",
       "title": "Path to Astra: critical capabilities and frontier safeguards",
       "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
@@ -442,20 +474,6 @@
       "region": "global",
       "accent": "#101010",
       "score": 3
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
-      "title": "Introducing wrapture",
-      "summary": "New from Graham Dumpleton (of wrapt , mod_wsgi, and New Relic's Python agent fame), who describes Wrapture as taking the monkeypatching ideas from wrapt and extending them to apply to testing and tracing at the same time. Wrapture ( full documentation here ) makes it easy to wrap",
-      "url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
-      "date": "2026-08-31T23:59:36.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 6,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
       "id": "Jack Clark-https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",

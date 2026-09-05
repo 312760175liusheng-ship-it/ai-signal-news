@@ -351,6 +351,13 @@
       "method": "editorial",
       "curated": true,
       "takeaway": "可以忽略：目前只面向 Grok 或 Cursor Enterprise 客户，与你已有的 ChatGPT Work 自动任务高度重叠。"
+    },
+    "https://x.ai/news/grok-bot-procurement": {
+      "titleZh": "xAI 用 Grok Bot 管采购，自报找到超过 10 万美元直接节省",
+      "summaryZh": "xAI 9 月 4 日披露，其内部采购 Bot 接入 Slack、Notion、Drive、Gmail、Hex 和 Ramp，梳理约 125 家活跃供应商；通过识别闲置席位和 SKU，分别减少 14,220 美元和 85,662 美元年支出，并在一次采购中把 14,629 美元订单降到 6,143 美元。所有数字均为 xAI 公司口径；付款、签约和对外发送仍需人工批准。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "可以忽略：当前主要面向企业采购与多系统权限场景，你没有可直接复用的数据和组织条件；值得借鉴的只是“AI 找证据、人类批准付款与签约”的边界。"
     }
   }
 }
