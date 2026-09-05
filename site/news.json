@@ -1,24 +1,6 @@
 {
-  "updatedAt": "2026-09-05T01:01:19.205Z",
+  "updatedAt": "2026-09-05T04:56:33.721Z",
   "items": [
-    {
-      "id": "xAI-https://x.ai/news/grok-bot-procurement",
-      "title": "Setting Grok Bot loose on procurement",
-      "summary": "xAI says its internal procurement Bot connected vendor spend, contracts, usage and workplace systems, identifying more than $100,000 in direct savings while keeping spending, contracting and vendor sends behind human approval.",
-      "url": "https://x.ai/news/grok-bot-procurement",
-      "date": "2026-09-04T00:00:00.000Z",
-      "source": "xAI",
-      "sourceHomepage": "https://x.ai/news",
-      "kind": "official",
-      "region": "global",
-      "accent": "#202020",
-      "score": 7,
-      "titleZh": "xAI 用 Grok Bot 管采购，自报找到超过 10 万美元直接节省",
-      "summaryZh": "xAI 9 月 4 日披露，其内部采购 Bot 接入 Slack、Notion、Drive、Gmail、Hex 和 Ramp，梳理约 125 家活跃供应商；通过识别闲置席位和 SKU，分别减少 14,220 美元和 85,662 美元年支出，并在一次采购中把 14,629 美元订单降到 6,143 美元。所有数字均为 xAI 公司口径；付款、签约和对外发送仍需人工批准。",
-      "translationMethod": "editorial",
-      "curated": true,
-      "takeaway": "可以忽略：当前主要面向企业采购与多系统权限场景，你没有可直接复用的数据和组织条件；值得借鉴的只是“AI 找证据、人类批准付款与签约”的边界。"
-    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Sep/4/astra-pelicans/",
       "title": "The Pelican comparison grid for Astra is pretty interesting",
@@ -60,6 +42,24 @@
       "accent": "#8d5bd3",
       "score": 4,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "xAI-https://x.ai/news/grok-bot-procurement",
+      "title": "Setting Grok Bot loose on procurement",
+      "summary": "xAI says its internal procurement Bot connected vendor spend, contracts, usage and workplace systems, identifying more than $100,000 in direct savings while keeping spending, contracting and vendor sends behind human approval.",
+      "url": "https://x.ai/news/grok-bot-procurement",
+      "date": "2026-09-04T00:00:00.000Z",
+      "source": "xAI",
+      "sourceHomepage": "https://x.ai/news",
+      "kind": "official",
+      "region": "global",
+      "accent": "#202020",
+      "score": 7,
+      "titleZh": "xAI 用 Grok Bot 管采购，自报找到超过 10 万美元直接节省",
+      "summaryZh": "xAI 9 月 4 日披露，其内部采购 Bot 接入 Slack、Notion、Drive、Gmail、Hex 和 Ramp，梳理约 125 家活跃供应商；通过识别闲置席位和 SKU，分别减少 14,220 美元和 85,662 美元年支出，并在一次采购中把 14,629 美元订单降到 6,143 美元。所有数字均为 xAI 公司口径；付款、签约和对外发送仍需人工批准。",
+      "translationMethod": "editorial",
+      "curated": true,
+      "takeaway": "可以忽略：当前主要面向企业采购与多系统权限场景，你没有可直接复用的数据和组织条件；值得借鉴的只是“AI 找证据、人类批准付款与签约”的边界。"
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Sep/3/gpt6-astra/",
@@ -157,6 +157,19 @@
       "region": "global",
       "accent": "#76b900",
       "score": 3
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/gpt-6-astra",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "date": "2026-09-03T11:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 6
     },
     {
       "id": "OpenAI-https://openai.com/index/safety-overview-gpt-6-astra",
@@ -519,24 +532,6 @@
       "translationMethod": "editorial",
       "curated": true,
       "takeaway": "继续观察：这是公共部门真实部署的强信号，但你无法直接复用其政府数据和组织条件，先关注它是否公开具体节省工时、错误率与审核成本。"
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "title": "A milestone in expanding access to AI",
-      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "date": "2026-08-31T04:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3,
-      "titleZh": "ChatGPT 广告业务扩展至全球 40 多个国家",
-      "summaryZh": "OpenAI 8 月 31 日宣布，ChatGPT Ads 上线不到 200 天后年化收入运行率达到 10 亿美元，广告主已达数万家；印度、欧洲、中东和北非开始开放自助购买。收入、广告主数量和投放效果均为 OpenAI 公司口径。",
-      "translationMethod": "editorial",
-      "curated": true,
-      "takeaway": "继续观察：你使用的 Plus 方案按现行政策不展示广告，但免费版 ChatGPT 正在快速转向广告支持模式，推荐结果与广告之间的边界值得持续检查。"
     },
     {
       "id": "Ethan Mollick-https://www.oneusefulthing.org/p/agency-and-agents",
