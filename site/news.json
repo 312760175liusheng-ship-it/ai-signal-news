@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-09-05T04:56:33.721Z",
+  "updatedAt": "2026-09-06T01:01:50.105Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+      "title": "Introducing GPT-6 Astra for developers",
+      "summary": "Blink and you'll miss it, but there's a familiar creature at 1m59s : Across the board, Astra has more attention to detail, better understanding of the user's prompt, and can build more sophisticated outputs. In particular, it excels at building 3D models. I've seen it make incred",
+      "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+      "date": "2026-09-05T23:27:48.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 3,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+      "title": "Using Blender with coding agents on macOS",
+      "summary": "TIL: Using Blender with coding agents on macOS I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with coding agents is really easy: install the full Mac application from blender.org and run a prompt like this: Use the already install /Appli",
+      "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+      "date": "2026-09-05T15:51:09.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 7,
+      "takeaway": "现在值得试：如果你的 Mac 仍在使用，可用免费的 Blender 做一次 30 分钟小测试；目标是得到可编辑场景和一张能用的渲染图，不把它当成专业 3D 工作流的替代品。",
+      "titleZh": "Simon Willison 实测：GPT-6 Astra 可在 Codex 中直接驱动 Blender 生成可编辑 3D 场景",
+      "summaryZh": "Simon Willison 9 月 5 日使用 ChatGPT macOS 应用的 Codex 模式和 GPT-6 Astra（Medium），调用本机 Blender 的 Python API：首个可编辑 .blend 场景耗时 2 分 39 秒，后续两轮修改分别耗时 3 分 51 秒和 5 分 59 秒。他公开了 Blender 文件、脚本、代码仓库和完整记录；这仍只是单用户、玩具场景实测，不能证明复杂 3D 制作质量。",
+      "translationMethod": "editorial",
+      "curated": true
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Sep/4/astra-pelicans/",
       "title": "The Pelican comparison grid for Astra is pretty interesting",
@@ -396,20 +428,6 @@
       "score": 6
     },
     {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/1/tarn-adams/",
-      "title": "Quoting Tarn Adams",
-      "summary": "They took the letters from me! I have to talk about dwarf behavior now. I can't even talk about dwarf AI. It doesn't exist. It's dwarf behavior , and they misbehave sometimes &mdash; Tarn Adams , co-creator of Dwarf Fortress Tags: ai , game-design",
-      "url": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
-      "date": "2026-09-01T17:01:11.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
       "id": "OpenAI-https://openai.com/index/ai-native-company-workflows",
       "title": "How AI-native companies turn workflows into operating capability",
       "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
@@ -434,20 +452,6 @@
       "region": "global",
       "accent": "#4285f4",
       "score": 6
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/1/datasette-mcp/",
-      "title": "datasette-mcp 0.2",
-      "summary": "Release: datasette-mcp 0.2 \"rows\" from execute_sql is now an array of objects. Previously it was an array of arrays. This should help weaker models avoid losing track of which positional array element maps to which column. #1 Now depends on mcp>=2.1.1 . This is the first non-alph",
-      "url": "https://simonwillison.net/2026/Sep/1/datasette-mcp/",
-      "date": "2026-09-01T15:30:12.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 3,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
       "id": "OpenAI-https://openai.com/index/path-to-astra",

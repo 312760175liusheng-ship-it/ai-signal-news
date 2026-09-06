@@ -358,6 +358,13 @@
       "method": "editorial",
       "curated": true,
       "takeaway": "可以忽略：当前主要面向企业采购与多系统权限场景，你没有可直接复用的数据和组织条件；值得借鉴的只是“AI 找证据、人类批准付款与签约”的边界。"
+    },
+    "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos": {
+      "titleZh": "Simon Willison 实测：GPT-6 Astra 可在 Codex 中直接驱动 Blender 生成可编辑 3D 场景",
+      "summaryZh": "Simon Willison 9 月 5 日使用 ChatGPT macOS 应用的 Codex 模式和 GPT-6 Astra（Medium），调用本机 Blender 的 Python API：首个可编辑 .blend 场景耗时 2 分 39 秒，后续两轮修改分别耗时 3 分 51 秒和 5 分 59 秒。他公开了 Blender 文件、脚本、代码仓库和完整记录；这仍只是单用户、玩具场景实测，不能证明复杂 3D 制作质量。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "现在值得试：如果你的 Mac 仍在使用，可用免费的 Blender 做一次 30 分钟小测试；目标是得到可编辑场景和一张能用的渲染图，不把它当成专业 3D 工作流的替代品。"
     }
   }
 }
