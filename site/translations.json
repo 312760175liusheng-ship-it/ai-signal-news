@@ -365,6 +365,18 @@
       "method": "editorial",
       "curated": true,
       "takeaway": "现在值得试：如果你的 Mac 仍在使用，可用免费的 Blender 做一次 30 分钟小测试；目标是得到可编辑场景和一张能用的渲染图，不把它当成专业 3D 工作流的替代品。"
+    },
+    "https://openai.com/index/research-acceleration-view-inside-openai": {
+      "titleZh": "OpenAI 内部数据：编码智能体正在明显改变 AI 研究工作",
+      "summaryZh": "OpenAI 9 月 6 日披露：截至 8 月中旬，其研究组织的中位数研究员每天使用按 API 价格计超过 600 美元的编码智能体推理；智能体总运行时间相当于每个人类工作日 3.1 个智能体工作日，8 月人均实验量也创下 2025 年 1 月开始统计以来的新高。不过，成功完成 4—8 小时任务的案例中，超过一半仍至少需要一次人工干预。所有数据均为 OpenAI 公司口径，尚无独立复核。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "继续观察：真正可复制的不是高额算力投入，而是让智能体处理有明确验收标准的实验和工具任务；你目前不需要照搬研究机构的并行规模。"
+    },
+    "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai": {
+      "titleZh": "Simon Willison：OpenAI 研究人员的智能体用量在 7 月底后明显加速",
+      "summaryZh": "Simon Willison 根据 OpenAI 公布的图表指出，研究人员人均每日智能体推理支出在 7 月底后快速上升；他猜测这可能与研究团队获得内部 Astra 模型有关。这是 Simon 的推断，OpenAI 原文没有确认增长原因。",
+      "method": "editorial"
     }
   }
 }
