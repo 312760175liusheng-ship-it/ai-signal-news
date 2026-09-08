@@ -1,6 +1,103 @@
 {
-  "updatedAt": "2026-09-07T05:14:22.122Z",
+  "updatedAt": "2026-09-08T05:16:31.233Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/7/llm/",
+      "title": "llm 0.35",
+      "summary": "Release: llm 0.35 New OpenAI model: gpt-6-astra for GPT-6 Astra . Tags: openai , llm , gpt-6-astra",
+      "url": "https://simonwillison.net/2026/Sep/7/llm/",
+      "date": "2026-09-07T23:54:54.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 3,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
+      "title": "Creepy crawlies",
+      "summary": "Konstantin Ryabitsev discusses how bad the \"background radiation\" of abusive crawlers has become from the perspective of git.kernel.org , the official Git repository for the Linux kernel: TL;DR: we spend more CPU cycles rendering commits for scrapers than we spend on all other ki",
+      "url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
+      "date": "2026-09-07T23:08:58.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 2,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
+      "title": "Quoting Jakub Pachocki",
+      "summary": "The strongest argument I see for continuing to train much smarter models quickly is the need to build defensive systems against the dangers posed by other AI. [...] We will need powerful, aligned AI for defense; to secure infrastructure, to protect against rogue agents in real ti",
+      "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
+      "date": "2026-09-07T22:26:25.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 4,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/7/video-compressor/",
+      "title": "Video compressor",
+      "summary": "Tool: Video compressor I recorded a short demo video of my Equal Earth animation on my phone and wanted to publish an optimized version of that video (using FFMPEG) on my blog, so I had Claude Fable 5.1 in Claude Code for web build me this tool using the WebAssembly build of FFMP",
+      "url": "https://simonwillison.net/2026/Sep/7/video-compressor/",
+      "date": "2026-09-07T18:29:07.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 3,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/7/equal-earth/",
+      "title": "Mercator ↔ Equal Earth",
+      "summary": "Tool: Mercator ↔ Equal Earth I got curious about the Equal Earth map projection that was recently voted on at the UN so I had GPT-6 Astra (medium) in ChatGPT Work build me this animated transition between Mercator and Equal Earth using D3. Tags: geospatial , d3 , vibe-coding , gp",
+      "url": "https://simonwillison.net/2026/Sep/7/equal-earth/",
+      "date": "2026-09-07T16:24:16.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 4,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Jack Clark-https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/",
+      "title": "Import AI 472: DeepMind’s cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Researchers discover another OpenAI agent emergent communication incident:…Less severe, but worryi",
+      "url": "https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/",
+      "date": "2026-09-07T12:26:31.000Z",
+      "source": "Jack Clark",
+      "sourceHomepage": "https://jack-clark.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#3c6393",
+      "score": 3,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "title": "Supporting independent journalism in Ukraine",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "date": "2026-09-07T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 4
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
       "title": "Research acceleration: The view inside OpenAI",
@@ -138,34 +235,6 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
-      "title": "OpenAI's rogue agents were caught communicating via public wikis",
-      "summary": "Here we go again... Discovery of a new OpenAI agent message board by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the latest accidental cyberattack by models being trained by OpenAI. This time it was agents engaged in some sort of web research ben",
-      "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
-      "date": "2026-09-04T17:38:48.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 8,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/4/august-newsletter/",
-      "title": "August newsletter is out",
-      "summary": "The August edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here . This month: We got more details on OpenAl's accidental cyberattacks One-shotting Raccoon Heist games with Fable 5 and Sol 5.6 Claude",
-      "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
-      "date": "2026-09-04T05:54:40.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 4,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
       "id": "xAI-https://x.ai/news/grok-bot-procurement",
       "title": "Setting Grok Bot loose on procurement",
       "summary": "xAI says its internal procurement Bot connected vendor spend, contracts, usage and workplace systems, identifying more than $100,000 in direct savings while keeping spending, contracting and vendor sends behind human approval.",
@@ -182,20 +251,6 @@
       "translationMethod": "editorial",
       "curated": true,
       "takeaway": "可以忽略：当前主要面向企业采购与多系统权限场景，你没有可直接复用的数据和组织条件；值得借鉴的只是“AI 找证据、人类批准付款与签约”的边界。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/3/gpt6-astra/",
-      "title": "GPT‑6 Astra",
-      "summary": "GPT-6 Astra is \"rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise users, as well as through the OpenAI API and AWS\" - I've not tried it yet myself, so I don't have a great deal to ",
-      "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
-      "date": "2026-09-03T20:18:41.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 8,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
       "id": "NVIDIA-https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
@@ -330,23 +385,6 @@
       "takeaway": "可以忽略：目前只面向 Grok 或 Cursor Enterprise 客户，与你已有的 ChatGPT Work 自动任务高度重叠。"
     },
     {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/2/llm-gemini/",
-      "title": "llm-gemini 0.34",
-      "summary": "Release: llm-gemini 0.34 New model gemini-3.8-flash for Gemini 3.8 Flash , with low, medium and high thinking levels. #146 Fixed async responses failing to record the resolved model version. Thanks, Charlie Tonneslan . #137 Google released Gemini 3.8 Flash (and 3.8 Flash Cyber, b",
-      "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
-      "date": "2026-09-02T16:39:38.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 7,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。",
-      "titleZh": "Simon Willison 实测 Gemini 3.8 Flash：快、便宜，适合 HTML 与 JavaScript",
-      "summaryZh": "Simon Willison 为 llm-gemini 增加 Gemini 3.8 Flash 支持，并用相同提示测试图像和网页生成。他的一次 HTML 小工具生成耗时 13 秒、成本 1.8 美分；这是小样本实测，不能替代系统评估。",
-      "translationMethod": "editorial"
-    },
-    {
       "id": "DeepMind-https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
       "title": "Proactive cyber defense for governments and enterprises",
       "summary": "",
@@ -389,20 +427,6 @@
       "region": "global",
       "accent": "#4285f4",
       "score": 3
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-      "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
-      "summary": "Anthropic publish the system prompts for their Claude consumer applications ( Claude.ai and the Claude mobile apps - sadly not for Claude Cowork or Claude Code). I love that they do this, and that they share not just the current prompts but historic changes to their prompts as we",
-      "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-      "date": "2026-09-02T14:16:42.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 7,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
       "id": "OpenAI-https://openai.com/index/atv-big-air-tour",
@@ -512,19 +536,6 @@
       "region": "global",
       "accent": "#101010",
       "score": 4
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/gilbert-tobin",
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-      "url": "https://openai.com/index/gilbert-tobin",
-      "date": "2026-09-01T01:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3
     },
     {
       "id": "Jack Clark-https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",
@@ -1414,34 +1425,6 @@
       "kind": "expert",
       "region": "global",
       "accent": "#1f7a6b",
-      "score": 3,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Jack Clark-https://jack-clark.net/2026/06/22/import-ai-462-superpersuasion-self-sustaining-ai-paths-to-asi/",
-      "title": "Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI can decisively out-persuade humans:…“AI systems were reliably more persuasive than expert human",
-      "url": "https://jack-clark.net/2026/06/22/import-ai-462-superpersuasion-self-sustaining-ai-paths-to-asi/",
-      "date": "2026-06-22T12:31:45.000Z",
-      "source": "Jack Clark",
-      "sourceHomepage": "https://jack-clark.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#3c6393",
-      "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Ethan Mollick-https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
-      "title": "What it feels like to work with Mythos",
-      "summary": "Claude Fable represents another big jump in AI",
-      "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
-      "date": "2026-06-09T17:11:22.000Z",
-      "source": "Ethan Mollick",
-      "sourceHomepage": "https://www.oneusefulthing.org/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#d55a2a",
       "score": 3,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     }
