@@ -377,6 +377,44 @@
       "titleZh": "Simon Willison：OpenAI 研究人员的智能体用量在 7 月底后明显加速",
       "summaryZh": "Simon Willison 根据 OpenAI 公布的图表指出，研究人员人均每日智能体推理支出在 7 月底后快速上升；他猜测这可能与研究团队获得内部 Astra 模型有关。这是 Simon 的推断，OpenAI 原文没有确认增长原因。",
       "method": "editorial"
+    },
+    "https://openai.com/index/introducing-chatgpt-images-2-5": {
+      "titleZh": "ChatGPT Images 2.5 已向所有套餐开放，重点改善连续编辑和参考图一致性",
+      "summaryZh": "OpenAI 9 月 8 日发布 ChatGPT Images 2.5，并开始向 ChatGPT、ChatGPT Work 和 Codex 的全部套餐开放，覆盖网页、桌面端和移动端。官方称，相比 Images 2.0，生成延迟最多降低 50%，参考图中的人物与物体在多轮编辑时更不容易漂移，并新增 Sketch、评论和模板；这些质量与速度改善主要为 OpenAI 口径。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "现在值得试：拿一张你自己的产品照片连续做三次局部修改，检查主体、文字和构图是否漂移；20 分钟后仍需大量返工就停止。"
+    },
+    "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25": {
+      "titleZh": "Simon Willison 实测 ChatGPT Images 2.5：参考图编辑已经可以直接调用",
+      "summaryZh": "Simon Willison 9 月 8 日整理了 Images 2.5 的模型分工，并更新自己的命令行工具，以便测试新的参考图编辑能力。他指出 ChatGPT 主要使用更强的 Sunburst 模型，而 API 开发者目前使用速度更快的 Flare；这是工具实测与技术解读，不是独立质量评测。",
+      "method": "editorial"
+    },
+    "https://openai.com/index/codex-quantum-computing-experiments": {
+      "titleZh": "MIT 量子实验室已让 Codex 自动执行部分芯片校准",
+      "summaryZh": "OpenAI 9 月 8 日披露，MIT 工程量子系统组研究者把 Codex 接入实验室软件，让智能体为六量子比特芯片选择参数、执行测量、分析结果并继续调整。团队称，这类智能体已被日常用于常规测量；但信号微弱或噪声复杂时仍会失败，需要专家介入。案例细节来自 OpenAI 与使用方研究者，尚无独立审计。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "继续观察：这证明智能体已进入真实仪器流程，但与你当前工作距离较远，先看它能否在更多实验室复现并公开错误率。"
+    },
+    "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome": {
+      "titleZh": "Google 发布 AlphaGenome Atlas：开放查询 90 亿种人类 DNA 单字母变体预测",
+      "summaryZh": "Google DeepMind 9 月 8 日发布 AlphaGenome Atlas，向学术研究免费开放网页查询、API 和 Google Antigravity skill。它汇集约 1 PB 预测数据，覆盖人类基因组约 90 亿种可能的单字母变体，并提供 AVI 影响分数。它是研究与候选筛选工具，不是临床诊断结论；规模、性能和案例主要为 Google 口径。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "继续观察：这是重要科研基础设施，但与你当前工作没有直接可用价值；不要把预测分数当成个人医疗判断。"
+    },
+    "https://openai.com/index/1password": {
+      "titleZh": "1Password 报告 Codex 用户组的工程生产率提高 20.9%",
+      "summaryZh": "OpenAI 9 月 8 日发布 1Password 客户案例：活跃使用 Codex 的工程师组被测得生产率提高 20.9%，拉取请求中位周期缩短 10.9%，部分跨服务调查从约 2 小时降到 5—20 分钟。按 50 名用户推算的 78.375 万美元年度产能和 553% 回报率属于公司建模口径，未经独立审计。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "继续观察：对你更值得借鉴的是把权限边界和验收标准先设计清楚，而不是照搬大型工程团队的回报率。"
+    },
+    "https://simonwillison.net/2026/Sep/8/on-navier-stokes": {
+      "titleZh": "Simon Willison：OpenAI 的 Navier–Stokes 声明很惊人，但数据来源与研究署名仍需解释",
+      "summaryZh": "Simon Willison 9 月 8 日认为 OpenAI 展示的多智能体数学研究能力十分突出，同时指出外部数学家曾在 ChatGPT 中讨论相关问题，而 OpenAI 只能表示无法排除去标识数据对模型改进的影响。他把这视为研究数据来源、竞争和署名边界仍未解决的问题；这是专家观点，不是数学证明审查结论。",
+      "method": "editorial"
     }
   }
 }
