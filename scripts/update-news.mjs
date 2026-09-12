@@ -11,11 +11,14 @@ const feeds = [
   { name: "DeepMind", url: "https://deepmind.google/blog/rss.xml", homepage: "https://deepmind.google/blog/", kind: "official", region: "global", accent: "#6b63ff" },
   { name: "NVIDIA", url: "https://blogs.nvidia.com/blog/category/generative-ai/feed/", homepage: "https://blogs.nvidia.com/blog/category/generative-ai/", kind: "official", region: "global", accent: "#76b900" },
   { name: "Qwen", url: "https://github.com/QwenLM/Qwen3/releases.atom", homepage: "https://qwenlm.github.io/", kind: "official", region: "china", accent: "#6d55f7" },
-  { name: "DeepSeek", url: "https://github.com/deepseek-ai/DeepSeek-V3/releases.atom", homepage: "https://github.com/deepseek-ai", kind: "official", region: "china", accent: "#315efb" },
   { name: "Ethan Mollick", url: "https://www.oneusefulthing.org/feed", homepage: "https://www.oneusefulthing.org/", kind: "expert", region: "global", accent: "#d55a2a" },
   { name: "Simon Willison", url: "https://simonwillison.net/atom/everything/", homepage: "https://simonwillison.net/", kind: "expert", region: "global", accent: "#8d5bd3" },
   { name: "Nathan Lambert", url: "https://www.interconnects.ai/feed", homepage: "https://www.interconnects.ai/", kind: "expert", region: "global", accent: "#1f7a6b" },
   { name: "Jack Clark", url: "https://jack-clark.net/feed/", homepage: "https://jack-clark.net/", kind: "expert", region: "global", accent: "#3c6393" },
+];
+
+const htmlFeeds = [
+  { name: "DeepSeek", url: "https://api-docs.deepseek.com/updates/", homepage: "https://api-docs.deepseek.com/updates/", kind: "official", region: "china", accent: "#315efb", parser: parseDeepSeekChangelog },
 ];
 
 const directSources = [
@@ -70,7 +73,7 @@ function scoreItem(title, summary, kind) {
 function parseFeed(xml, source) {
   const isAtom = /<feed[\s>]/i.test(xml);
   const blocks = isAtom ? xml.match(/<entry[\s\S]*?<\/entry>/gi) ?? [] : xml.match(/<item[\s\S]*?<\/item>/gi) ?? [];
-  return blocks.slice(0, 12).flatMap((block, index) => {
+  return blocks.slice(0, 20).flatMap((block, index) => {
     const title = stripHtml(field(block, ["title"]));
     const rawSummary = stripHtml(field(block, ["description", "summary", "content:encoded", "content"]));
     const summary = rawSummary.startsWith(title) ? rawSummary.slice(title.length).trim() : rawSummary;
@@ -87,6 +90,21 @@ function parseFeed(xml, source) {
       takeaway: source.kind === "expert" ? "专家观点：帮助理解影响，不替代官方事实。" : undefined,
     }];
   });
+}
+
+function parseDeepSeekChangelog(html, source) {
+  const section = html.match(/<h2[^>]*id=["']date-(\d{4}-\d{2}-\d{2})["'][^>]*>[\s\S]*?<\/h2>([\s\S]*?)(?=<h2[^>]*id=["']date-|$)/i);
+  if (!section) return [];
+  const heading = section[2].match(/<h3[^>]*id=["']([^"']+)["'][^>]*>([\s\S]*?)<\/h3>/i);
+  if (!heading) return [];
+  const title = stripHtml(heading[2]).replace(/\u200b/g, "").trim();
+  const summary = stripHtml(section[2].replace(heading[0], "")).replace(/\u200b/g, "").slice(0, 280);
+  const url = `${source.url}#${heading[1]}`;
+  return [{
+    id: `${source.name}-${url}`, title, summary, url, date: `${section[1]}T00:00:00.000Z`,
+    source: source.name, sourceHomepage: source.homepage, kind: source.kind, region: source.region,
+    accent: source.accent, score: scoreItem(title, summary, source.kind),
+  }];
 }
 
 async function loadPrevious() {
@@ -107,12 +125,29 @@ async function loadSource(source) {
   } finally { clearTimeout(timeout); }
 }
 
+async function loadHtmlSource(source) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 15_000);
+  try {
+    const response = await fetch(source.url, { headers: { "User-Agent": "AI-Signal-Radar/1.0 (+https://github.com/312760175liusheng-ship-it/ai-signal-news)" }, signal: controller.signal });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    return { ok: true, items: source.parser(await response.text(), source) };
+  } catch (error) {
+    console.warn(`${source.name}: ${error.message}`);
+    return { ok: false, items: [] };
+  } finally { clearTimeout(timeout); }
+}
+
 const previous = await loadPrevious();
 const loaded = await Promise.all(feeds.map(loadSource));
+const htmlLoaded = await Promise.all(htmlFeeds.map(loadHtmlSource));
 const now = new Date();
 const cutoff = now.getTime() - 90 * 24 * 60 * 60 * 1000;
-const liveItems = loaded.flatMap((result) => result.items);
-const failedNames = new Set(feeds.filter((_, index) => !loaded[index].ok).map((source) => source.name));
+const liveItems = [...loaded, ...htmlLoaded].flatMap((result) => result.items);
+const failedNames = new Set([
+  ...feeds.filter((_, index) => !loaded[index].ok).map((source) => source.name),
+  ...htmlFeeds.filter((_, index) => !htmlLoaded[index].ok).map((source) => source.name),
+]);
 const directNames = new Set(directSources.map((source) => source.name));
 const fallbackItems = (previous.items || []).filter((item) => failedNames.has(item.source) || directNames.has(item.source));
 const items = Array.from(new Map([...liveItems, ...fallbackItems].map((item) => [item.url.replace(/\/$/, ""), item])).values())
@@ -120,8 +155,11 @@ const items = Array.from(new Map([...liveItems, ...fallbackItems].map((item) => 
   .sort((a, b) => new Date(b.date) - new Date(a.date));
 const sources = [
   ...feeds.map((source, index) => ({ name: source.name, homepage: source.homepage, kind: source.kind, region: source.region, accent: source.accent, ok: loaded[index].ok })),
+  ...htmlFeeds.map((source, index) => ({ name: source.name, homepage: source.homepage, kind: source.kind, region: source.region, accent: source.accent, ok: htmlLoaded[index].ok })),
   ...directSources.map((source) => ({ ...source, ok: null })),
 ];
 
 await writeFile(outputPath, `${JSON.stringify({ updatedAt: now.toISOString(), items, sources }, null, 2)}\n`);
-console.log(`Updated ${items.length} items from ${loaded.filter((result) => result.ok).length}/${feeds.length} feeds.`);
+const sourceCount = loaded.length + htmlLoaded.length;
+const okCount = [...loaded, ...htmlLoaded].filter((result) => result.ok).length;
+console.log(`Updated ${items.length} items from ${okCount}/${sourceCount} sources.`);

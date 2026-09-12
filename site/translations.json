@@ -415,6 +415,41 @@
       "titleZh": "Simon Willison：OpenAI 的 Navier–Stokes 声明很惊人，但数据来源与研究署名仍需解释",
       "summaryZh": "Simon Willison 9 月 8 日认为 OpenAI 展示的多智能体数学研究能力十分突出，同时指出外部数学家曾在 ChatGPT 中讨论相关问题，而 OpenAI 只能表示无法排除去标识数据对模型改进的影响。他把这视为研究数据来源、竞争和署名边界仍未解决的问题；这是专家观点，不是数学证明审查结论。",
       "method": "editorial"
+    },
+    "https://simonwillison.net/2026/Sep/10/calif-research": {
+      "titleZh": "AI 辅助研究人员快速做出可通过微信来电传播的零点击蠕虫",
+      "summaryZh": "安全公司 Calif 9 月 8 日披露，它借助 AI 发现微信通话栈漏洞，用约两天写出远程代码执行利用，再用一周做成可在 iOS 与 Android 间传播的 WeWorm 演示。用户无需接听来电就可能被接管微信账号。Calif 称腾讯已通过 Android 8.0.77、iOS 8.0.76 和服务器端措施完成缓解；Simon Willison 9 月 10 日引用了该研究。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "现在值得试：立即把微信更新到最新版并确认自动更新开启；漏洞据称已被服务器端缓解，但旧客户端没有保留价值。"
+    },
+    "https://api-docs.deepseek.com/updates/#deepseek-v41-flash-release": {
+      "titleZh": "DeepSeek V4.1 Flash 已上线 API，原生支持图像理解并降低价格",
+      "summaryZh": "DeepSeek 9 月 10 日正式上线 V4.1 Flash API，调用名为 deepseek-flash，支持 100 万上下文、最高 38.4 万输出、思考与非思考模式、工具调用、Responses API、Anthropic API 和图像输入。上一代 V4 Flash 与视觉实验版已退役并暂时转发到新模型；官方称 API 价格同步下调，能力数据仍主要是内部基准。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "继续观察：它目前主要是开发者 API；等网页或 App 明确切换后，再用同一项中文长文整理任务与 ChatGPT 对照。"
+    },
+    "https://openai.com/index/put-data-to-work": {
+      "titleZh": "ChatGPT Work 上线 Data agent，可直接连接企业数据并生成交互式看板",
+      "summaryZh": "OpenAI 9 月 10 日上线 Data agent，可连接 BigQuery、Databricks、Snowflake、MongoDB、Redshift、SharePoint 等数据源，用自然语言调查指标变化、生成并刷新交互式看板，还能把结果交给 Slack 或邮件动作。管理员控制数据源与角色权限；NTT DATA、Thermo Fisher、ServiceTitan 等已参与 Alpha 测试，效果描述主要为公司和客户口径。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "继续观察：如果你的账号出现 Data 插件，可先用一份无敏感信息的小表做 20 分钟测试；没有 ChatGPT Work 权限不值得为此升级。"
+    },
+    "https://openai.com/index/introducing-the-agents-api": {
+      "titleZh": "OpenAI 开放 Agents API，把 Codex 的长任务与多智能体框架交给开发者",
+      "summaryZh": "OpenAI 9 月 10 日向所有开发者开放 Agents API 公测，可使用托管或自有沙箱，让智能体跨多个上下文窗口持续工作、自动压缩旧上下文、按需加载工具并调用多个子智能体。API 本身不另收费，仍按模型 token、工具和运行环境计费；客户声称的降本、提速和失败率改善尚未独立验证。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "可以忽略：这是开发者基础设施，不会直接增加你现有 ChatGPT 会员的功能或额度。"
+    },
+    "https://openai.com/index/introducing-gpt-live-1-in-the-api": {
+      "titleZh": "GPT-Live-1 开放 API，让语音智能体能边听边说并自然处理打断",
+      "summaryZh": "OpenAI 9 月 10 日上线 GPT-Live-1 API，可同时听与说、处理插话和停顿，并把复杂推理或工具调用交给后端模型，支持电话客服等场景。前端语音层价格为每分钟 0.05 美元，后端模型与智能体费用另计；Speak 的早期测试称误打断减少近 80%，属于合作方口径。",
+      "method": "editorial",
+      "curated": true,
+      "takeaway": "继续观察：语音交互方向很重要，但你目前没有稳定电话客服量，不值得现在投入开发成本。"
     }
   }
 }
