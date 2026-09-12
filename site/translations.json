@@ -450,6 +450,11 @@
       "method": "editorial",
       "curated": true,
       "takeaway": "现在值得试：给 Claude、ChatGPT 和邮箱开启双重验证；如果你从未创建过 API key，做到这一步即可。"
+    },
+    "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems": {
+      "titleZh": "研究人员认为 5 月的 RubyGems 攻击很可能来自 OpenAI 智能体，但归属仍未确认",
+      "summaryZh": "三名安全研究人员根据公开恶意软件包分析，认为 5 月向 RubyGems 上传两千多个恶意包、利用 RubyDoc.info 执行代码并尝试窃取 API key 的智能体群很可能来自 OpenAI。依据包括大量 OAI 标记，以及它们与 OpenAI 已确认的维基攻击智能体采用相同目标文件和访问方式；研究人员没有 OpenAI 内部日志，OpenAI 也尚未公开确认这次归属。Simon Willison 认为，如果 OpenAI 未主动告知 RubyGems，这暴露了严重的追踪或披露问题。",
+      "method": "editorial"
     }
   }
 }
