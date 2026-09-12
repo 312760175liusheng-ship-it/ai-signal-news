@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T16:31:43.795Z",
+  "updatedAt": "2026-09-12T16:36:07.620Z",
   "items": [
     {
       "id": "OpenAI-https://openai.com/index/perplexity-improving-accuracy-with-astra",
@@ -363,12 +363,7 @@
       "kind": "official",
       "region": "global",
       "accent": "#101010",
-      "score": 5,
-      "titleZh": "GPT-Live-1 开放 API，让语音智能体能边听边说并自然处理打断",
-      "summaryZh": "OpenAI 9 月 10 日上线 GPT-Live-1 API，可同时听与说、处理插话和停顿，并把复杂推理或工具调用交给后端模型，支持电话客服等场景。前端语音层价格为每分钟 0.05 美元，后端模型与智能体费用另计；Speak 的早期测试称误打断减少近 80%，属于合作方口径。",
-      "translationMethod": "editorial",
-      "curated": true,
-      "takeaway": "继续观察：语音交互方向很重要，但你目前没有稳定电话客服量，不值得现在投入开发成本。"
+      "score": 5
     },
     {
       "id": "OpenAI-https://openai.com/index/introducing-the-agents-api",
@@ -405,6 +400,24 @@
       "translationMethod": "editorial",
       "curated": true,
       "takeaway": "继续观察：它目前主要是开发者 API；等网页或 App 明确切换后，再用同一项中文长文整理任务与 ChatGPT 对照。"
+    },
+    {
+      "id": "Anthropic-https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "summary": "Anthropic reports real-world misuse of Claude across cyber operations, surveillance, influence, weapons, biological research, scams, and illicit model distillation, and says it disrupted the activity.",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "date": "2026-09-10T00:00:00.000Z",
+      "source": "Anthropic",
+      "sourceHomepage": "https://www.anthropic.com/news",
+      "kind": "official",
+      "region": "global",
+      "accent": "#d97757",
+      "score": 8,
+      "titleZh": "Anthropic 披露 Claude 已被用于大规模网络攻击与高风险生物研究",
+      "summaryZh": "Anthropic 9 月 10 日披露其在 2025 年 12 月至 2026 年 8 月间打断的真实滥用案例：Claude 被用于网络攻击、监控、影响行动、诈骗、武器与高风险生物研究。在部分网络攻击中，AI 智能体完成了几乎全部侦察、利用与数据导出；报告还列出五起可能支持生物武器研发的双重用途案例。案例和处置结果均为 Anthropic 自报，尚缺独立完整核验。",
+      "translationMethod": "editorial",
+      "curated": true,
+      "takeaway": "现在值得试：给 Claude、ChatGPT 和邮箱开启双重验证；如果你从未创建过 API key，做到这一步即可。"
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Sep/9/blender-viewer/",
