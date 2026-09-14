@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-13T05:23:29.443Z",
+  "updatedAt": "2026-09-14T05:27:55.342Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/14/commit-rewriter/",
+      "title": "commit-rewriter 0.1",
+      "summary": "Release: commit-rewriter 0.1 I built this little web app the other day to help edit the commit messages for the Datasette security releases . The initial commits were full of coding agent cruft and references to issue IDs from our private repository, so they weren't fit for publi",
+      "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
+      "date": "2026-09-14T00:28:10.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 5,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
     {
       "id": "OpenAI-https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -13,6 +27,20 @@
       "region": "global",
       "accent": "#101010",
       "score": 3
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/13/shot-scraper/",
+      "title": "shot-scraper 1.12",
+      "summary": "Release: shot-scraper 1.12 I've added WebP support to my shot-scraper screenshot automation tool. You can now take a WebP screenshot of a web page like this: shot-scraper https://simonwillison.net -o screenshot.webp --quality 80 The --quality option sets the quality - without tha",
+      "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
+      "date": "2026-09-13T23:58:14.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 3,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Sep/12/astra-running-routes/",
@@ -465,20 +493,6 @@
       "takeaway": "现在值得试：给 Claude、ChatGPT 和邮箱开启双重验证；如果你从未创建过 API key，做到这一步即可。"
     },
     {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/9/blender-viewer/",
-      "title": ".blend URL Viewer",
-      "summary": "Tool: .blend URL Viewer I'm continuing to have a lot of fun with GPT-6 Astra and Blender (see my TIL ). As a big fan of the Imperial Fabergé Easter eggs , I've always thought it would be fun to make some new ones that celebrate popular culture. Yesterday I decided to try out the ",
-      "url": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
-      "date": "2026-09-09T23:58:32.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 5,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
       "id": "OpenAI-https://openai.com/index/paul-christiano-joins-openai-foundation-board",
       "title": "Paul Christiano joins OpenAI Foundation Board",
       "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
@@ -569,20 +583,6 @@
       "region": "global",
       "accent": "#101010",
       "score": 4
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/9/terence-tao/",
-      "title": "Quoting Terence Tao",
-      "summary": "I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scenario of these problems becoming scarce. [...] We have now seen that even the rumor of someone working on a problem can trigger a m",
-      "url": "https://simonwillison.net/2026/Sep/9/terence-tao/",
-      "date": "2026-09-09T00:20:17.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 4,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
       "id": "OpenAI-https://openai.com/index/codex-quantum-computing-experiments",
