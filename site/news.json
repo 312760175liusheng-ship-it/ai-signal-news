@@ -1,6 +1,124 @@
 {
-  "updatedAt": "2026-09-15T05:23:53.668Z",
+  "updatedAt": "2026-09-16T05:17:42.040Z",
   "items": [
+    {
+      "id": "NVIDIA-https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
+      "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+      "summary": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help — but computing air quality with traditional chemistry-based models is expensive, which limits how detailed they can be and how reg",
+      "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
+      "date": "2026-09-16T05:00:42.000Z",
+      "source": "NVIDIA",
+      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#76b900",
+      "score": 4
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/15/gemini-live/",
+      "title": "Gemini Live audio",
+      "summary": "Tool: Gemini Live audio Google released Gemini 3.8 Live and 3.8 Live Extended Thinking today - two new speech-to-speech models that are a similar shape to OpenAI's GPT-Live family. I pointed GPT-6 Astra Extra High at the documentation and had it build me this web UI for trying ou",
+      "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
+      "date": "2026-09-15T22:47:07.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 5,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "NVIDIA-https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
+      "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
+      "summary": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa — Salesforce’s first CRM reasoning model, built on NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
+      "date": "2026-09-15T22:24:34.000Z",
+      "source": "NVIDIA",
+      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#76b900",
+      "score": 3
+    },
+    {
+      "id": "DeepMind-https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "date": "2026-09-15T17:05:57.000Z",
+      "source": "DeepMind",
+      "sourceHomepage": "https://deepmind.google/blog/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#6b63ff",
+      "score": 4
+    },
+    {
+      "id": "Google AI-https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "title": "AI for Societal Impact",
+      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "date": "2026-09-15T16:00:00.000Z",
+      "source": "Google AI",
+      "sourceHomepage": "https://blog.google/innovation-and-ai/technology/ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#4285f4",
+      "score": 3
+    },
+    {
+      "id": "Google AI-https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "title": "Building AI to accelerate science and improve lives",
+      "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "date": "2026-09-15T16:00:00.000Z",
+      "source": "Google AI",
+      "sourceHomepage": "https://blog.google/innovation-and-ai/technology/ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#4285f4",
+      "score": 4
+    },
+    {
+      "id": "Google AI-https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "title": "AI for everyone in every language",
+      "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "date": "2026-09-15T16:00:00.000Z",
+      "source": "Google AI",
+      "sourceHomepage": "https://blog.google/innovation-and-ai/technology/ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#4285f4",
+      "score": 3
+    },
+    {
+      "id": "Google AI-https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "date": "2026-09-15T13:00:00.000Z",
+      "source": "Google AI",
+      "sourceHomepage": "https://blog.google/innovation-and-ai/technology/ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#4285f4",
+      "score": 3
+    },
+    {
+      "id": "NVIDIA-https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
+      "title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+      "summary": "",
+      "url": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
+      "date": "2026-09-15T09:00:42.000Z",
+      "source": "NVIDIA",
+      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#76b900",
+      "score": 4
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
       "title": "The contagion of fear",
@@ -367,20 +485,6 @@
       "summary": "Release: datasette 0.65.4 See Datasette 1.0a39 and 0.65.4 security releases on the Datasette blog. Tags: security , datasette",
       "url": "https://simonwillison.net/2026/Sep/11/datasette/",
       "date": "2026-09-11T00:06:55.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 3,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/11/datasette-2/",
-      "title": "datasette 1.0a39",
-      "summary": "Release: datasette 1.0a39 See Datasette 1.0a39 and 0.65.4 security releases on the Datasette blog. Tags: security , datasette",
-      "url": "https://simonwillison.net/2026/Sep/11/datasette-2/",
-      "date": "2026-09-11T00:05:54.000Z",
       "source": "Simon Willison",
       "sourceHomepage": "https://simonwillison.net/",
       "kind": "expert",
@@ -1594,19 +1698,6 @@
       "score": 3
     },
     {
-      "id": "Google AI-https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-      "title": "Inside our 353,000-person vibe coding course",
-      "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-      "date": "2026-08-03T15:00:00.000Z",
-      "source": "Google AI",
-      "sourceHomepage": "https://blog.google/innovation-and-ai/technology/ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#4285f4",
-      "score": 6
-    },
-    {
       "id": "Nathan Lambert-https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
       "title": "Introducing our Artifacts Hub and Adoption Dashboard",
       "summary": "Scaling our curation and measurement of the open ecosystem.",
@@ -1678,19 +1769,6 @@
       "score": 4
     },
     {
-      "id": "Google AI-https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "date": "2026-07-28T16:00:00.000Z",
-      "source": "Google AI",
-      "sourceHomepage": "https://blog.google/innovation-and-ai/technology/ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#4285f4",
-      "score": 5
-    },
-    {
       "id": "DeepMind-https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
       "summary": "",
@@ -1702,32 +1780,6 @@
       "region": "global",
       "accent": "#6b63ff",
       "score": 4
-    },
-    {
-      "id": "Google AI-https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "title": "5 ways to host the ultimate dinner party with Google Search",
-      "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
-      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "date": "2026-07-28T13:00:00.000Z",
-      "source": "Google AI",
-      "sourceHomepage": "https://blog.google/innovation-and-ai/technology/ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#4285f4",
-      "score": 3
-    },
-    {
-      "id": "Google AI-https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "date": "2026-07-28T13:00:00.000Z",
-      "source": "Google AI",
-      "sourceHomepage": "https://blog.google/innovation-and-ai/technology/ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#4285f4",
-      "score": 3
     },
     {
       "id": "Jack Clark-https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/",
@@ -1831,32 +1883,6 @@
       "score": 3
     },
     {
-      "id": "NVIDIA-https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
-      "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
-      "summary": "Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend, press, slip and interact with tissue. Imaging can be noisy or incomplete. And the rare, edge scenarios developers most need to understa",
-      "url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
-      "date": "2026-07-22T13:00:11.000Z",
-      "source": "NVIDIA",
-      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#76b900",
-      "score": 7
-    },
-    {
-      "id": "NVIDIA-https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
-      "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
-      "summary": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capa",
-      "url": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
-      "date": "2026-07-21T22:35:45.000Z",
-      "source": "NVIDIA",
-      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#76b900",
-      "score": 3
-    },
-    {
       "id": "DeepMind-https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
       "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
       "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
@@ -1882,19 +1908,6 @@
       "accent": "#1f7a6b",
       "score": 2,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "NVIDIA-https://blogs.nvidia.com/blog/siggraph-news-2026/",
-      "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
-      "summary": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.",
-      "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
-      "date": "2026-07-20T15:00:53.000Z",
-      "source": "NVIDIA",
-      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#76b900",
-      "score": 5
     },
     {
       "id": "Jack Clark-https://jack-clark.net/2026/07/20/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/",
@@ -1935,19 +1948,6 @@
       "region": "global",
       "accent": "#6b63ff",
       "score": 3
-    },
-    {
-      "id": "DeepMind-https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-      "title": "Empowering India’s next generation of innovators with ATL Saathi",
-      "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
-      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-      "date": "2026-07-13T12:37:28.000Z",
-      "source": "DeepMind",
-      "sourceHomepage": "https://deepmind.google/blog/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#6b63ff",
-      "score": 5
     },
     {
       "id": "Nathan Lambert-https://www.interconnects.ai/p/6-months-to-live-for-open-models",
@@ -2045,20 +2045,6 @@
       "region": "global",
       "accent": "#1f7a6b",
       "score": 3,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Nathan Lambert-https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
-      "title": "State of the blog, mid-2026",
-      "summary": "About 3 years since I started writing weekly.",
-      "url": "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
-      "date": "2026-06-17T14:29:06.000Z",
-      "source": "Nathan Lambert",
-      "sourceHomepage": "https://www.interconnects.ai/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#1f7a6b",
-      "score": 2,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     }
   ],
