@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-19T05:05:53.751Z",
+  "updatedAt": "2026-09-20T05:25:42.767Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
+      "title": "datasette-auth-github 1.0",
+      "summary": "Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren't lasting very long. It turned out that the plugin was setting cookies without a Max-Age parameter, so they were expiring at th",
+      "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
+      "date": "2026-09-19T19:52:02.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 4,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/19/sighting-401567341/",
+      "title": "California Sea Lion, Brandt's Cormorant",
+      "summary": ", in Pillar Point Harbor, CA, US I only noticed this after I had taken the photo: Morris the Northern Gannet is peeking out from behind the base of the sign. Tags: wildlife",
+      "url": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
+      "date": "2026-09-19T17:10:08.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 2,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Nathan Lambert-https://www.interconnects.ai/p/where-i-stand-on-rsi",
+      "title": "Why I still haven’t bought into true RSI",
+      "summary": "An “AI moderate’s” view on recent events and the trajectory of frontier models.",
+      "url": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+      "date": "2026-09-19T15:42:20.000Z",
+      "source": "Nathan Lambert",
+      "sourceHomepage": "https://www.interconnects.ai/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#1f7a6b",
+      "score": 2,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
       "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
@@ -18,7 +60,7 @@
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
       "title": "Note on 18th September 2026",
-      "summary": "Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park. Tags: llms , ai , generative-ai",
+      "summary": "Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park. Skeptical geneticist: \"pfft, it's just frog DNA. And they deliberately let t",
       "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
       "date": "2026-09-18T19:21:32.000Z",
       "source": "Simon Willison",
@@ -95,6 +137,19 @@
       "kind": "official",
       "region": "global",
       "accent": "#4285f4",
+      "score": 4
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/australian-youth-safety-blueprint",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "date": "2026-09-18T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
       "score": 4
     },
     {
@@ -580,34 +635,6 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/12/sighting-399708714/",
-      "title": "California Brown Pelican",
-      "summary": ", in San Mateo County, CA, US The Pacifica Pier shut down at the start of June after a crack in the concrete walkway made access to the pier unsafe. It has since been entirely taken over by pelicans! Tags: wildlife",
-      "url": "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
-      "date": "2026-09-12T21:16:09.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/12/paul-ford/",
-      "title": "Quoting Paul Ford",
-      "summary": "For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slowly realizing that making truly cutting-edge software still requires humans to think and work together, to maximize thei",
-      "url": "https://simonwillison.net/2026/Sep/12/paul-ford/",
-      "date": "2026-09-12T18:00:21.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
       "id": "OpenAI-https://openai.com/index/cognition-devin-testing-with-astra",
       "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
       "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
@@ -732,6 +759,19 @@
       "score": 3
     },
     {
+      "id": "OpenAI-https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "date": "2026-09-10T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 5
+    },
+    {
       "id": "OpenAI-https://openai.com/index/introducing-the-agents-api",
       "title": "Introducing the Agents API",
       "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
@@ -748,19 +788,6 @@
       "translationMethod": "editorial",
       "curated": true,
       "takeaway": "可以忽略：这是开发者基础设施，不会直接增加你现有 ChatGPT 会员的功能或额度。"
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "date": "2026-09-10T00:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 5
     },
     {
       "id": "DeepSeek-https://api-docs.deepseek.com/updates/#deepseek-v41-flash-release",
@@ -863,19 +890,6 @@
       "accent": "#1f7a6b",
       "score": 2,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/gpt-6-astra-next-generation-work",
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "date": "2026-09-09T11:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 4
     },
     {
       "id": "Nathan Lambert-https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
