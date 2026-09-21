@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-20T05:25:42.767Z",
+  "updatedAt": "2026-09-21T05:31:23.230Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/20/voxium/",
+      "title": "Quoting voxium",
+      "summary": "It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, reports, etc., everything is made by Claude Code. Nobody on my team likes this. They are being forced to ship as m",
+      "url": "https://simonwillison.net/2026/Sep/20/voxium/",
+      "date": "2026-09-20T21:06:43.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 3,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+      "title": "llm-keys-ui 0.1",
+      "summary": "Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I've started using Codex Remote to run coding agents on various machines while controlling them from my phone. Sometimes I use those machines to hack on LLM projects, and occasionally that means I need to config",
+      "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+      "date": "2026-09-20T19:22:19.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 7,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/20/datasette-explain/",
+      "title": "datasette-explain 0.2.2",
+      "summary": "Release: datasette-explain 0.2.2 Explain plans now work on read-only stored-query pages. I upgraded datasette.simonwillison.net to Datasette 1.0a40, which inspired me to ship a new version of this explain plugin. Tags: sqlite , datasette",
+      "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
+      "date": "2026-09-20T00:22:04.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 4,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
       "title": "datasette-auth-github 1.0",
@@ -580,20 +622,6 @@
       "score": 4
     },
     {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/14/commit-rewriter/",
-      "title": "commit-rewriter 0.1",
-      "summary": "Release: commit-rewriter 0.1 I built this little web app the other day to help edit the commit messages for the Datasette security releases . The initial commits were full of coding agent cruft and references to issue IDs from our private repository, so they weren't fit for publi",
-      "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
-      "date": "2026-09-14T00:28:10.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 5,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
       "id": "OpenAI-https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
@@ -605,34 +633,6 @@
       "region": "global",
       "accent": "#101010",
       "score": 3
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/13/shot-scraper/",
-      "title": "shot-scraper 1.12",
-      "summary": "Release: shot-scraper 1.12 I've added WebP support to my shot-scraper screenshot automation tool. You can now take a WebP screenshot of a web page like this: shot-scraper https://simonwillison.net -o screenshot.webp --quality 80 The --quality option sets the quality - without tha",
-      "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
-      "date": "2026-09-13T23:58:14.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 3,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/12/astra-running-routes/",
-      "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
-      "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at . Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked for 27 minutes and produced exactly what I'd asked for, as both an embedded visualization and d",
-      "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
-      "date": "2026-09-12T23:56:42.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 6,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
       "id": "OpenAI-https://openai.com/index/cognition-devin-testing-with-astra",
@@ -2027,20 +2027,6 @@
       "region": "global",
       "accent": "#1f7a6b",
       "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Nathan Lambert-https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-      "title": "GLM-5.2 is the step change for open agents",
-      "summary": "A capability threshold I've been carefully monitoring.",
-      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-      "date": "2026-06-22T14:52:45.000Z",
-      "source": "Nathan Lambert",
-      "sourceHomepage": "https://www.interconnects.ai/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#1f7a6b",
-      "score": 3,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     }
   ],
