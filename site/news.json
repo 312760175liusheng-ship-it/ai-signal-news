@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-24T05:27:32.587Z",
+  "updatedAt": "2026-09-25T05:25:19.430Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/24/commit-rewriter/",
+      "title": "commit-rewriter 0.2",
+      "summary": "Release: commit-rewriter 0.2 Support for branches other than the default branch. Use uvx commit-rewriter --branch other to run against another branch. #3 Tags: git",
+      "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
+      "date": "2026-09-24T20:06:53.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 3,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/24/datasette/",
+      "title": "datasette 1.0a41",
+      "summary": "Release: datasette 1.0a41 Alec Garcia added support for OpenTelemetry to Datasette in this release. I've also refactored all of Datasette's modal dialogs to a single Web Component, which is now documented for other plugins to use . Tags: javascript , datasette , web-components , ",
+      "url": "https://simonwillison.net/2026/Sep/24/datasette/",
+      "date": "2026-09-24T19:15:23.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 3,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "DeepMind-https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "summary": "",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "date": "2026-09-24T16:20:39.000Z",
+      "source": "DeepMind",
+      "sourceHomepage": "https://deepmind.google/blog/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#6b63ff",
+      "score": 4
+    },
     {
       "id": "Google AI-https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
       "title": "Google Beam expands with new regions, partners, and customers",
@@ -648,20 +689,6 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
-      "title": "Quoting Thariq Shihipar",
-      "summary": "We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. AGENTS.md support is built off of Claude Code mods, our upcoming way to customize the Claude Code harness. This is ",
-      "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
-      "date": "2026-09-18T19:09:27.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 4,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
       "id": "Ethan Mollick-https://www.oneusefulthing.org/p/the-overhang",
       "title": "The Overhang",
       "summary": "Using your deep knowledge, wide knowledge, taste, and agency",
@@ -672,20 +699,6 @@
       "kind": "expert",
       "region": "global",
       "accent": "#d55a2a",
-      "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
-      "title": "The Creative Spirit of Who Framed Roger Rabbit",
-      "summary": "I love Who Framed Roger Rabbit , the 1988 movie by Robert Zemeckis. I haven't watched it in quite a few years, and Cypress Frankenfeld just pointed out this sequence from early in the movie: It's a pelican riding a bicycle! Look closely and you'll note that the pelican is animate",
-      "url": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
-      "date": "2026-09-18T14:36:41.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
       "score": 2,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
@@ -1946,19 +1959,6 @@
       "region": "global",
       "accent": "#6b63ff",
       "score": 3
-    },
-    {
-      "id": "DeepMind-https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-      "date": "2026-07-21T15:16:30.000Z",
-      "source": "DeepMind",
-      "sourceHomepage": "https://deepmind.google/blog/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#6b63ff",
-      "score": 4
     },
     {
       "id": "Nathan Lambert-https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
