@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-09-25T05:25:19.430Z",
+  "updatedAt": "2026-09-26T05:30:35.480Z",
   "items": [
+    {
+      "id": "OpenAI-https://openai.com/index/proaction",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "url": "https://openai.com/index/proaction",
+      "date": "2026-09-25T19:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 3
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/25/john-gruber/",
+      "title": "Quoting John Gruber",
+      "summary": "Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) and because it’s packaged in an easy-to-install easy-to-use way. It’s literally presented as a cute mas",
+      "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+      "date": "2026-09-25T17:22:01.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 1,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/25/sighting-403293902/",
+      "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
+      "summary": ", in Monterey Bay National Marine Sanctuary, CA, US, CA New 200-800mm Canon EF lens got me my best photo of Morris yet. They really like hanging out under that sign in the harbor! Tags: photography , wildlife",
+      "url": "https://simonwillison.net/2026/Sep/25/sighting-403293902/",
+      "date": "2026-09-25T02:07:04.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 2,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/24/harder/",
+      "title": "Note on 24th September 2026",
+      "summary": "The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge. Tags: coding-agents , ai , llms",
+      "url": "https://simonwillison.net/2026/Sep/24/harder/",
+      "date": "2026-09-24T23:31:08.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 5,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Sep/24/commit-rewriter/",
       "title": "commit-rewriter 0.2",
@@ -551,7 +606,7 @@
     },
     {
       "id": "OpenAI-https://openai.com/index/v7",
-      "title": "How V7 gives AI agents institutional memory",
+      "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
       "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
       "url": "https://openai.com/index/v7",
       "date": "2026-09-21T00:00:00.000Z",
@@ -633,20 +688,6 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/19/sighting-401567341/",
-      "title": "California Sea Lion, Brandt's Cormorant",
-      "summary": ", in Pillar Point Harbor, CA, US I only noticed this after I had taken the photo: Morris the Northern Gannet is peeking out from behind the base of the sign. Tags: wildlife",
-      "url": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
-      "date": "2026-09-19T17:10:08.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
       "id": "Nathan Lambert-https://www.interconnects.ai/p/where-i-stand-on-rsi",
       "title": "Why I still haven’t bought into true RSI",
       "summary": "An “AI moderate’s” view on recent events and the trajectory of frontier models.",
@@ -657,34 +698,6 @@
       "kind": "expert",
       "region": "global",
       "accent": "#1f7a6b",
-      "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
-      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-      "summary": "Gemini finally caught up on Felony Bench ! The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irregular, which was also involved in similar incidents disclosed by OpenAI, Anthropic and Meta. In one of the cases, the model guesse",
-      "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
-      "date": "2026-09-18T23:57:57.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
-      "title": "Note on 18th September 2026",
-      "summary": "Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park. Skeptical geneticist: \"pfft, it's just frog DNA. And they deliberately let t",
-      "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
-      "date": "2026-09-18T19:21:32.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
       "score": 2,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
@@ -726,19 +739,6 @@
       "kind": "official",
       "region": "global",
       "accent": "#4285f4",
-      "score": 4
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/australian-youth-safety-blueprint",
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "date": "2026-09-18T12:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
       "score": 4
     },
     {
