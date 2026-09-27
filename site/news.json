@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-26T05:30:35.480Z",
+  "updatedAt": "2026-09-27T05:47:56.976Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/26/kakapo-party/",
+      "title": "Kākāpō Party",
+      "summary": "Tool: Kākāpō Party I presented a closing keynote for the WeAreDevelopers World Congress North America yesterday. As a STAR moment I decided to weave in references to the record breaking kākāpō breeding season we had in 2026. For my closing slide I wanted to celebrate, and I had s",
+      "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
+      "date": "2026-09-26T23:39:06.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 6,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
     {
       "id": "OpenAI-https://openai.com/index/proaction",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
@@ -665,20 +679,6 @@
       "summary": "Release: datasette-explain 0.2.2 Explain plans now work on read-only stored-query pages. I upgraded datasette.simonwillison.net to Datasette 1.0a40, which inspired me to ship a new version of this explain plugin. Tags: sqlite , datasette",
       "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
       "date": "2026-09-20T00:22:04.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 4,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
-      "title": "datasette-auth-github 1.0",
-      "summary": "Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren't lasting very long. It turned out that the plugin was setting cookies without a Max-Age parameter, so they were expiring at th",
-      "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
-      "date": "2026-09-19T19:52:02.000Z",
       "source": "Simon Willison",
       "sourceHomepage": "https://simonwillison.net/",
       "kind": "expert",
@@ -2028,20 +2028,6 @@
       "region": "global",
       "accent": "#d55a2a",
       "score": 3,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Nathan Lambert-https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
-      "title": "Latest open artifacts (#22): Zyphra, Cohere, and Poolside are expanding the breadth of the ecosystem",
-      "summary": "An assessment of the open ecosystem and the motivations behind releasing models",
-      "url": "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
-      "date": "2026-06-28T17:03:07.000Z",
-      "source": "Nathan Lambert",
-      "sourceHomepage": "https://www.interconnects.ai/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#1f7a6b",
-      "score": 2,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     }
   ],
