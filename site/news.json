@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-09-27T05:47:56.976Z",
+  "updatedAt": "2026-09-28T05:53:58.190Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+      "title": "Quoting Muse AI Agent",
+      "summary": "Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down. He left angry at 9:38 and left a negative rating. Worse, my auto-reply told him \"Yep I'm here!\" at 9:27 when you clearly weren't availabl",
+      "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+      "date": "2026-09-28T04:01:30.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 5,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+      "title": "2026 in LLMs (so far)",
+      "summary": "On Friday I gave the closing keynote at the WeAreDevelopers World Congress North America in San Jose. I tied together the key trends from the past year into a chronological exploration of everything that happened in 2026. The video is on YouTube ; here are my annotated slides and",
+      "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+      "date": "2026-09-27T23:54:15.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 10,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/27/hn-49871741/",
+      "title": "S3 Is the Future, S3 Is the Past",
+      "summary": "My comment on S3 Is the Future, S3 Is the Past &mdash; Hacker News. One thing I find notable about S3 today is that, while it used to drop in price reasonably often, there hasn't been a price drop in a full decade : 2006-03-14 $0.150/GB-month 2010-11-01 $0.140/GB-month 2012-02-01",
+      "url": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
+      "date": "2026-09-27T23:09:19.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 2,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
+      "title": "Bluesky reply bot checker",
+      "summary": "Tool: Bluesky reply bot checker Automated reply bots on Twitter are a scourge - as someone with a decent number of followers I attract a swarm of these, such that anything I post there attracts dozens of mindless automated replies. They've started manifesting on Bluesky as well. ",
+      "url": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
+      "date": "2026-09-27T18:41:44.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 6,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Sep/26/kakapo-party/",
       "title": "Kākāpō Party",
@@ -110,6 +166,20 @@
       "region": "global",
       "accent": "#6b63ff",
       "score": 4
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/23/hn-49823961/",
+      "title": "We just shipped support for the ugliest part of HTTP: Vary",
+      "summary": "My comment on We just shipped support for the ugliest part of HTTP: Vary &mdash; Hacker News. I've been wanting this from Cloudflare for years . The classic problem here is if you do that thing where user agents that send \"accept: text/html\" get HTML, while user agents that don't",
+      "url": "https://simonwillison.net/2026/Sep/23/hn-49823961/",
+      "date": "2026-09-23T23:14:57.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 5,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
       "id": "Google AI-https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
@@ -486,20 +556,6 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
-      "title": "Cloudflare Python Workers are now generally available",
-      "summary": "After a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: \"Python is now a first-class, fully supported language on the Cloudflare Developer Platform\". A neat thing about this is how it works. Cloudflare are runnin",
-      "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
-      "date": "2026-09-21T22:25:44.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 5,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
       "id": "NVIDIA-https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
       "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
       "summary": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises — building applications across industries. The event included a key",
@@ -630,62 +686,6 @@
       "region": "global",
       "accent": "#101010",
       "score": 5
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/20/voxium/",
-      "title": "Quoting voxium",
-      "summary": "It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, reports, etc., everything is made by Claude Code. Nobody on my team likes this. They are being forced to ship as m",
-      "url": "https://simonwillison.net/2026/Sep/20/voxium/",
-      "date": "2026-09-20T21:06:43.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 3,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/20/hn-49779718/",
-      "title": "MCP was always a bad idea?",
-      "summary": "My comment on MCP was always a bad idea? &mdash; Hacker News. This article entirely misses the value that MCP brings today. Sure, there's almost no reason to use MCPs if you are running a full-blown terminal agent (Claude Code, Codex, Meta Muse, OpenClaw etc) with unfettered inte",
-      "url": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
-      "date": "2026-09-20T20:24:41.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 5,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
-      "title": "llm-keys-ui 0.1",
-      "summary": "Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I've started using Codex Remote to run coding agents on various machines while controlling them from my phone. Sometimes I use those machines to hack on LLM projects, and occasionally that means I need to config",
-      "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
-      "date": "2026-09-20T19:22:19.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 7,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/20/datasette-explain/",
-      "title": "datasette-explain 0.2.2",
-      "summary": "Release: datasette-explain 0.2.2 Explain plans now work on read-only stored-query pages. I upgraded datasette.simonwillison.net to Datasette 1.0a40, which inspired me to ship a new version of this explain plugin. Tags: sqlite , datasette",
-      "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
-      "date": "2026-09-20T00:22:04.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 4,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
       "id": "Nathan Lambert-https://www.interconnects.ai/p/where-i-stand-on-rsi",
