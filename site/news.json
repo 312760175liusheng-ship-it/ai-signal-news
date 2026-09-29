@@ -1,6 +1,87 @@
 {
-  "updatedAt": "2026-09-28T05:53:58.190Z",
+  "updatedAt": "2026-09-29T06:14:49.736Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
+      "title": "Claude Sonnet 5.5",
+      "summary": "New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well. Here are some pelicans riding bicycles . Sonnet 5.5 su",
+      "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
+      "date": "2026-09-28T22:07:38.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 6,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Sep/28/joedaroo/",
+      "title": "Quoting @joedaroo",
+      "summary": "To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an understatement. Security posture takes time to develop. It’s not just about hardeni",
+      "url": "https://simonwillison.net/2026/Sep/28/joedaroo/",
+      "date": "2026-09-28T19:11:42.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 3,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/how-we-will-do-better-for-australia",
+      "title": "How we will do better for Australia",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "date": "2026-09-28T19:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 3
+    },
+    {
+      "id": "Google AI-https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "summary": "",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "date": "2026-09-28T19:00:00.000Z",
+      "source": "Google AI",
+      "sourceHomepage": "https://blog.google/innovation-and-ai/technology/ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#4285f4",
+      "score": 3
+    },
+    {
+      "id": "Jack Clark-https://jack-clark.net/2026/09/28/import-ai-474-platonic-mindspace-tpus-in-space-zhipu-starts-an-outer-rsi-loop/",
+      "title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Are minds patterns from a Platonic space, with bodies and machines as their interfaces, Michael Le",
+      "url": "https://jack-clark.net/2026/09/28/import-ai-474-platonic-mindspace-tpus-in-space-zhipu-starts-an-outer-rsi-loop/",
+      "date": "2026-09-28T12:32:03.000Z",
+      "source": "Jack Clark",
+      "sourceHomepage": "https://jack-clark.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#3c6393",
+      "score": 2,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "date": "2026-09-28T07:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 1
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
       "title": "Quoting Muse AI Agent",
@@ -14,6 +95,32 @@
       "accent": "#8d5bd3",
       "score": 5,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "OpenAI-https://openai.com/form/codex-originals",
+      "title": "Are you a Codex Original?",
+      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "url": "https://openai.com/form/codex-originals",
+      "date": "2026-09-28T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 3
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/basis-tax-workbook-with-astra",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "date": "2026-09-28T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 4
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
@@ -275,17 +382,17 @@
       "score": 3
     },
     {
-      "id": "OpenAI-https://openai.com/index/sam-altman-un-security-council-remarks",
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "id": "OpenAI-https://openai.com/index/ringg",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "url": "https://openai.com/index/ringg",
       "date": "2026-09-23T12:00:00.000Z",
       "source": "OpenAI",
       "sourceHomepage": "https://openai.com/news/",
       "kind": "official",
       "region": "global",
       "accent": "#101010",
-      "score": 3
+      "score": 6
     },
     {
       "id": "OpenAI-https://openai.com/index/harvey-from-context-to-confidence-with-astra",
@@ -314,17 +421,17 @@
       "score": 4
     },
     {
-      "id": "OpenAI-https://openai.com/index/ringg",
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "url": "https://openai.com/index/ringg",
+      "id": "OpenAI-https://openai.com/index/sam-altman-un-security-council-remarks",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
       "date": "2026-09-23T12:00:00.000Z",
       "source": "OpenAI",
       "sourceHomepage": "https://openai.com/news/",
       "kind": "official",
       "region": "global",
       "accent": "#101010",
-      "score": 6
+      "score": 3
     },
     {
       "id": "OpenAI-https://openai.com/index/introducing-mentalhealthbench",
@@ -488,20 +595,6 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/22/llm-typesafe/",
-      "title": "llm-typesafe 0.1a0",
-      "summary": "Release: llm-typesafe 0.1a0 I built this new plugin for LLM to add support for TypeSafe AI's new Jev model . Install it like this: llm install llm-typesafe Then set an API key ( get one here , the waitlist seems to move pretty fast): llm keys set typesafe # Paste key And now you ",
-      "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
-      "date": "2026-09-22T15:54:16.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 5,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
       "id": "Nathan Lambert-https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
       "title": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
       "summary": "Podcast #19",
@@ -540,20 +633,6 @@
       "region": "global",
       "accent": "#101010",
       "score": 3
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/21/jev/",
-      "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
-      "summary": "Last week TypeSafe AI unveiled Jev , their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think \"decision models\" is a better name for these). Jev is an interesting variant on the usual LLM format: it still accepts ",
-      "url": "https://simonwillison.net/2026/Sep/21/jev/",
-      "date": "2026-09-21T23:09:20.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 4,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
       "id": "NVIDIA-https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
@@ -609,19 +688,6 @@
       "score": 4
     },
     {
-      "id": "OpenAI-https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "date": "2026-09-21T12:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 4
-    },
-    {
       "id": "Nathan Lambert-https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
       "title": "The current balance of power in open models",
       "summary": "The expanded form of a testimony I prepared for Congress.",
@@ -647,45 +713,6 @@
       "region": "global",
       "accent": "#76b900",
       "score": 4
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/building-standards-next-phase-ai",
-      "title": "Building standards for the next phase of AI",
-      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-      "url": "https://openai.com/index/building-standards-next-phase-ai",
-      "date": "2026-09-21T10:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-      "date": "2026-09-21T07:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/v7",
-      "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
-      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-      "url": "https://openai.com/index/v7",
-      "date": "2026-09-21T00:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 5
     },
     {
       "id": "Nathan Lambert-https://www.interconnects.ai/p/where-i-stand-on-rsi",
@@ -1590,22 +1617,6 @@
       "translationMethod": "editorial"
     },
     {
-      "id": "Google AI-https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-      "title": "Get closer to the game with Gemini and Pixel",
-      "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-      "date": "2026-08-17T08:00:00.000Z",
-      "source": "Google AI",
-      "sourceHomepage": "https://blog.google/innovation-and-ai/technology/ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#4285f4",
-      "score": 3,
-      "titleZh": "Gemini 与 Pixel 联手五家足球俱乐部改善球迷比赛日体验",
-      "summaryZh": "Google 将 Gemini 和 Pixel 接入五家全球足球俱乐部的球迷体验，尝试把 AI 与智能手机能力用于比赛日互动。",
-      "translationMethod": "editorial"
-    },
-    {
       "id": "Nathan Lambert-https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
       "title": "GLM-5.3: How Chinese labs keep stride with the frontier",
       "summary": "Hint: It’s really not a distillation story.",
@@ -1999,34 +2010,6 @@
       "kind": "expert",
       "region": "global",
       "accent": "#1f7a6b",
-      "score": 3,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Jack Clark-https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
-      "title": "Import AI 464: Fables writes GPU kernels; AI automation; and analog computation",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Fable writes a decent GPU kernel, hinting at broader AI R&D automation:…The start of an RSI loop…F",
-      "url": "https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
-      "date": "2026-07-06T12:31:05.000Z",
-      "source": "Jack Clark",
-      "sourceHomepage": "https://jack-clark.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#3c6393",
-      "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Ethan Mollick-https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
-      "title": "The twilight of the chatbots",
-      "summary": "How work changes along the exponential",
-      "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
-      "date": "2026-06-30T22:18:12.000Z",
-      "source": "Ethan Mollick",
-      "sourceHomepage": "https://www.oneusefulthing.org/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#d55a2a",
       "score": 3,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     }
