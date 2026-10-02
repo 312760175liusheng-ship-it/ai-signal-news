@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-10-01T06:34:00.913Z",
+  "updatedAt": "2026-10-02T06:14:42.472Z",
   "items": [
+    {
+      "id": "NVIDIA-https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
+      "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+      "summary": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast ",
+      "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
+      "date": "2026-10-01T23:44:13.000Z",
+      "source": "NVIDIA",
+      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#76b900",
+      "score": 6
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/the-eternal-complement",
+      "title": "The eternal complement",
+      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "date": "2026-10-01T17:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 4
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/albertsons-reimagining-retail",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "date": "2026-10-01T16:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 6
+    },
+    {
+      "id": "Ethan Mollick-https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+      "title": "The Dot and the Swarm",
+      "summary": "Benefitting from the Bitter Lesson",
+      "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+      "date": "2026-10-01T10:54:12.000Z",
+      "source": "Ethan Mollick",
+      "sourceHomepage": "https://www.oneusefulthing.org/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#d55a2a",
+      "score": 2,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Oct/1/matthew-green/",
+      "title": "Quoting Matthew Green",
+      "summary": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for each other in a shared pa",
+      "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+      "date": "2026-10-01T06:29:01.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 4,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/the-den-family-social",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "url": "https://openai.com/index/the-den-family-social",
+      "date": "2026-10-01T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 4
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Sep/30/he-built-this-city/",
       "title": "He Built This City",
@@ -516,20 +596,6 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/23/shadow-roots/",
-      "title": "Shadow roots, explained with live examples",
-      "summary": "Tool: Shadow roots, explained with live examples Prompt to Fable 5.1 Medium: Build an artifact to explain shadow roots in CSS with interactive examples Tags: css",
-      "url": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
-      "date": "2026-09-23T16:37:18.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
       "id": "DeepMind-https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
       "title": "Advancing Private AI Compute with secure, server-side memory",
       "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
@@ -582,6 +648,32 @@
       "score": 3
     },
     {
+      "id": "OpenAI-https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "date": "2026-09-23T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 3
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/sam-altman-un-security-council-remarks",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "date": "2026-09-23T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 3
+    },
+    {
       "id": "OpenAI-https://openai.com/index/invideo-builds-with-gpt-6-astra",
       "title": "How invideo improves color grading 3x with GPT‑6 Astra",
       "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
@@ -608,45 +700,6 @@
       "score": 6
     },
     {
-      "id": "OpenAI-https://openai.com/index/sam-altman-un-security-council-remarks",
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "date": "2026-09-23T12:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "date": "2026-09-23T12:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/introducing-mentalhealthbench",
-      "title": "Introducing MentalHealthBench",
-      "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-      "url": "https://openai.com/index/introducing-mentalhealthbench",
-      "date": "2026-09-23T10:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 5
-    },
-    {
       "id": "NVIDIA-https://blogs.nvidia.com/blog/ai-day-singapore/",
       "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
       "summary": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate their work in AI and high-performance computing. At the event, ",
@@ -658,32 +711,6 @@
       "region": "global",
       "accent": "#76b900",
       "score": 4
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-      "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
-      "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-      "date": "2026-09-23T02:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/airbnb-gpt-6-astra",
-      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-      "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
-      "url": "https://openai.com/index/airbnb-gpt-6-astra",
-      "date": "2026-09-23T01:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3
     },
     {
       "id": "Nathan Lambert-https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
@@ -1811,19 +1838,6 @@
       "accent": "#1f7a6b",
       "score": 2,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "NVIDIA-https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
-      "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
-      "summary": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI ",
-      "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
-      "date": "2026-08-08T10:24:54.000Z",
-      "source": "NVIDIA",
-      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#76b900",
-      "score": 4
     },
     {
       "id": "DeepMind-https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
