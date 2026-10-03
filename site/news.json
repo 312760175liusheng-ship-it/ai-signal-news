@@ -1,6 +1,45 @@
 {
-  "updatedAt": "2026-10-02T06:14:42.472Z",
+  "updatedAt": "2026-10-03T05:46:05.437Z",
   "items": [
+    {
+      "id": "OpenAI-https://openai.com/index/practical-guide-building-gpt-6",
+      "title": "A model guide for the GPT-6 family",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "date": "2026-10-02T16:15:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 4
+    },
+    {
+      "id": "Google AI-https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "title": "The latest AI news we announced in September 2026",
+      "summary": "Here are Google’s latest AI updates from September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "date": "2026-10-02T15:00:00.000Z",
+      "source": "Google AI",
+      "sourceHomepage": "https://blog.google/innovation-and-ai/technology/ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#4285f4",
+      "score": 3
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/chatham-financial",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "url": "https://openai.com/index/chatham-financial",
+      "date": "2026-10-02T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 5
+    },
     {
       "id": "NVIDIA-https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
       "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
@@ -217,19 +256,6 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "OpenAI-https://openai.com/index/introducing-gpt-6-1-sol",
-      "title": "Introducing GPT-6.1 Sol",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "date": "2026-09-29T10:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 7
-    },
-    {
       "id": "OpenAI-https://openai.com/index/devday-2026-recap",
       "title": "DevDay 2026 Recap",
       "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
@@ -241,6 +267,19 @@
       "region": "global",
       "accent": "#101010",
       "score": 4
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/introducing-gpt-6-1-sol",
+      "title": "Introducing GPT-6.1 Sol",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "date": "2026-09-29T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 7
     },
     {
       "id": "OpenAI-https://openai.com/index/introducing-dots",
@@ -364,19 +403,6 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "OpenAI-https://openai.com/form/codex-originals",
-      "title": "Are you a Codex Original?",
-      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
-      "url": "https://openai.com/form/codex-originals",
-      "date": "2026-09-28T00:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3
-    },
-    {
       "id": "OpenAI-https://openai.com/index/basis-tax-workbook-with-astra",
       "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
       "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
@@ -388,6 +414,19 @@
       "region": "global",
       "accent": "#101010",
       "score": 4
+    },
+    {
+      "id": "OpenAI-https://openai.com/form/codex-originals",
+      "title": "Are you a Codex Original?",
+      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "url": "https://openai.com/form/codex-originals",
+      "date": "2026-09-28T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 3
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
@@ -648,19 +687,6 @@
       "score": 3
     },
     {
-      "id": "OpenAI-https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "date": "2026-09-23T12:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3
-    },
-    {
       "id": "OpenAI-https://openai.com/index/sam-altman-un-security-council-remarks",
       "title": "Sam Altman’s remarks at the United Nations Security Council",
       "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
@@ -672,19 +698,6 @@
       "region": "global",
       "accent": "#101010",
       "score": 3
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "date": "2026-09-23T12:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 4
     },
     {
       "id": "OpenAI-https://openai.com/index/ringg",
@@ -1611,19 +1624,6 @@
       "translationMethod": "editorial",
       "curated": true,
       "takeaway": "继续观察：这不会降低 ChatGPT 会员价格；只有以后自建需要大量调用 API 的工具时，才值得重新计算成本。"
-    },
-    {
-      "id": "Google AI-https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
-      "title": "5 new ways to level up your learning with Search",
-      "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests.",
-      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
-      "date": "2026-08-19T19:00:00.000Z",
-      "source": "Google AI",
-      "sourceHomepage": "https://blog.google/innovation-and-ai/technology/ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#4285f4",
-      "score": 3
     },
     {
       "id": "xAI-https://x.ai/news/grok-build-for-everyone",
