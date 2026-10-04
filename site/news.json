@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-03T05:46:05.437Z",
+  "updatedAt": "2026-10-04T06:22:18.042Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "summary": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps . I'm talking about the feature of pay-by-usage services and APIs that lets you say \"after $X/month, cut this thing off and return errors\". The",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "date": "2026-10-03T23:34:02.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 8,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Oct/3/newsletter/",
+      "title": "September sponsors-only newsletter",
+      "summary": "I just sent the September edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: More Fable class models A pricing war 3D graphics, Blender, and pixel art LLMs come for mathematics So many more accid",
+      "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
+      "date": "2026-10-03T22:00:31.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 3,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Oct/2/rex-s-dino-store/",
+      "title": "Rex's Dino Store",
+      "summary": "Museum: Rex's Dino Store Located just before the turnstiles in the Grand Army Plaza subway station at the north end of Brooklyn's Prospect Park is this former newsstand which is now operated by a dinosaur. The density of dinosaur puns is exceptional . Tags: art , new-york",
+      "url": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/",
+      "date": "2026-10-02T22:57:38.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 2,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
     {
       "id": "OpenAI-https://openai.com/index/practical-guide-building-gpt-6",
       "title": "A model guide for the GPT-6 family",
@@ -554,20 +596,6 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/24/datasette/",
-      "title": "datasette 1.0a41",
-      "summary": "Release: datasette 1.0a41 Alec Garcia added support for OpenTelemetry to Datasette in this release. I've also refactored all of Datasette's modal dialogs to a single Web Component, which is now documented for other plugins to use . Tags: javascript , datasette , web-components , ",
-      "url": "https://simonwillison.net/2026/Sep/24/datasette/",
-      "date": "2026-09-24T19:15:23.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 3,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
       "id": "DeepMind-https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
       "title": "Introducing Gemini 3.8 Live with Live Avatar",
       "summary": "",
@@ -594,20 +622,6 @@
       "score": 4
     },
     {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/23/hn-49823961/",
-      "title": "We just shipped support for the ugliest part of HTTP: Vary",
-      "summary": "My comment on We just shipped support for the ugliest part of HTTP: Vary &mdash; Hacker News. I've been wanting this from Cloudflare for years . The classic problem here is if you do that thing where user agents that send \"accept: text/html\" get HTML, while user agents that don't",
-      "url": "https://simonwillison.net/2026/Sep/23/hn-49823961/",
-      "date": "2026-09-23T23:14:57.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 5,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
       "id": "Google AI-https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
       "title": "Google Beam expands with new regions, partners, and customers",
       "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
@@ -619,20 +633,6 @@
       "region": "global",
       "accent": "#4285f4",
       "score": 5
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
-      "title": "Gemini 3.8 TTS Playground",
-      "summary": "Tool: Gemini 3.8 TTS Playground Google released two new Gemini text-to-speech models today - gemini-3.8-flash-tts and gemini-3.8-flash-lite-tts . They come with a library of over 2,000 voices, plus the ability to create a custom voice with \"just a 30-second audio sample of your v",
-      "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
-      "date": "2026-09-23T17:12:27.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 5,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
       "id": "DeepMind-https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
