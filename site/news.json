@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-10-10T06:23:39.555Z",
+  "updatedAt": "2026-10-11T06:28:45.588Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+      "title": "Dwarf Fortress uses version control now",
+      "summary": "I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control more . That's art. I went looking and I'm sad to ",
+      "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+      "date": "2026-10-11T00:52:37.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 4,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Oct/10/python-actions/",
+      "title": "Python 3.15.0 added to actions/python-versions",
+      "summary": "Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull once an hour until they add the stable 3.15 - then tell me about it Now that this has landed, you can add ",
+      "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
+      "date": "2026-10-10T23:58:04.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 3,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Oct/10/the-new-york-times/",
       "title": "Quoting The New York Times",
@@ -421,34 +449,6 @@
       "region": "global",
       "accent": "#8d5bd3",
       "score": 5,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Oct/6/hn-49982139/",
-      "title": "Mistral Large 4",
-      "summary": "My comment on Mistral Large 4 &mdash; Hacker News. wren6991 : The benchmark is saturated. Frontier models are tested with an armadillo in fishnet tights jaywalking on Mars. OK well I couldn't resist this one: llm -m claude-opus-5.5 'Generate an SVG of an armadillo in fishnet tigh",
-      "url": "https://simonwillison.net/2026/Oct/6/hn-49982139/",
-      "date": "2026-10-06T18:20:58.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Oct/6/datasette-atom/",
-      "title": "datasette-atom 0.11a0",
-      "summary": "Release: datasette-atom 0.11a0 A minor fix for compatibility with the latest Datasette alphas. This meant we could upgrade the datasette.io site to Datasette 1.0a41. Tags: atom , datasette",
-      "url": "https://simonwillison.net/2026/Oct/6/datasette-atom/",
-      "date": "2026-10-06T17:35:39.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 3,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
@@ -2036,20 +2036,6 @@
       "region": "global",
       "accent": "#1f7a6b",
       "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Nathan Lambert-https://www.interconnects.ai/p/6-months-to-live-for-open-models",
-      "title": "6 months to live for open models",
-      "summary": "The most serious test to date of open source AI’s viability is happening right now.",
-      "url": "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
-      "date": "2026-07-12T16:47:42.000Z",
-      "source": "Nathan Lambert",
-      "sourceHomepage": "https://www.interconnects.ai/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#1f7a6b",
-      "score": 3,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     }
   ],
