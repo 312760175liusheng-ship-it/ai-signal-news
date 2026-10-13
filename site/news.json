@@ -1,6 +1,75 @@
 {
-  "updatedAt": "2026-10-12T06:33:43.489Z",
+  "updatedAt": "2026-10-13T07:07:15.648Z",
   "items": [
+    {
+      "id": "NVIDIA-https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
+      "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+      "summary": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application. France’s progress sits on deliberate groundwork. ",
+      "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
+      "date": "2026-10-13T05:00:31.000Z",
+      "source": "NVIDIA",
+      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#76b900",
+      "score": 6
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Oct/12/python-3-15/",
+      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+      "summary": "Python 3.15 is here ! Here's the essential What's new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open source software that works in every supported Python version, I get to say goodbye to Python 3.10 and start",
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+      "date": "2026-10-12T18:15:38.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 7,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Oct/12/web-edit/",
+      "title": "web-edit 0.1a0",
+      "summary": "Release: web-edit 0.1a0 I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM itself. So... I had Codex and GPT-6 Astra Extra High build this Python web app which",
+      "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
+      "date": "2026-10-12T15:54:36.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 5,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Jack Clark-https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/",
+      "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now New benchmark shows how AI models lack intuitive visual reasoning:…Humanity’s Sixth Sense highligh",
+      "url": "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/",
+      "date": "2026-10-12T12:30:39.000Z",
+      "source": "Jack Clark",
+      "sourceHomepage": "https://jack-clark.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#3c6393",
+      "score": 2,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Oct/12/datasette-ports/",
+      "title": "datasette-ports 0.4",
+      "summary": "Release: datasette-ports 0.4 My plugin for detecting and listing all Datasette instances on the current machine now works with the latest version, and displays the detected PID as well. Knowing the PID makes it easier to attach the new Python 3.15 profiler . Tags: datasette",
+      "url": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
+      "date": "2026-10-12T04:57:07.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 4,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
       "title": "Dwarf Fortress uses version control now",
@@ -250,7 +319,7 @@
     {
       "id": "NVIDIA-https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
       "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-      "summary": "At a Microsoft event in San Francisco on Wednesday, Jensen Huang and Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded because of Windows, Huang said. Now AI agents are coming to Window",
+      "summary": "At a Microsoft event in San Francisco on Wednesday, NVIDIA founder and CEO Jensen Huang and Microsoft CEO Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded because of Windows, Huang sai",
       "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
       "date": "2026-10-07T18:45:28.000Z",
       "source": "NVIDIA",
@@ -397,34 +466,6 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "Simon Willison-https://simonwillison.net/2026/Oct/6/hn-49983751/",
-      "title": "EmbeddingGemma 2",
-      "summary": "My comment on EmbeddingGemma 2 &mdash; Hacker News. I really appreciate that EmbeddingGemma 2 is under the Apache 2.0 license. For embedding models in particular, I don't think it makes sense to use a closed, proprietary, hosted-only model. Most applications of embedding models i",
-      "url": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
-      "date": "2026-10-06T20:37:53.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 3,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Oct/6/le-chonk/",
-      "title": "Introducing Mistral Large 4: Le chonk",
-      "summary": "Mistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NVIDIA Grace Blackwell GPUs. The preview is available via their API. They promise to release the ope",
-      "url": "https://simonwillison.net/2026/Oct/6/le-chonk/",
-      "date": "2026-10-06T20:18:19.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 6,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
       "id": "DeepMind-https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
       "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "summary": "",
@@ -436,20 +477,6 @@
       "region": "global",
       "accent": "#6b63ff",
       "score": 3
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/",
-      "title": "Using Parseable with Datasette for OpenTelemetry traces",
-      "summary": "TIL: Using Parseable with Datasette for OpenTelemetry traces I saw Parseable in a Show HN today - it's a new observability platform with both an open source (AGPL) Rust implementation (a single ~180MB binary), an \"Enterprise\" version with extra features and a cloud hosted option.",
-      "url": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/",
-      "date": "2026-10-06T19:07:31.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 5,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
       "id": "OpenAI-https://openai.com/index/atlassian-partnership",
@@ -1362,19 +1389,6 @@
       "takeaway": "继续观察：中国大陆的可访问性和柳州本地准确率尚未验证；日常规划可以对照体验，暴雨等安全决策仍以中国气象部门预警为准。"
     },
     {
-      "id": "NVIDIA-https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
-      "title": "NVIDIA to Acquire Hugging Face",
-      "summary": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas",
-      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
-      "date": "2026-09-03T11:56:49.000Z",
-      "source": "NVIDIA",
-      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#76b900",
-      "score": 3
-    },
-    {
       "id": "xAI-https://x.ai/news/grok-bot-for-enterprise",
       "title": "Grok Bot for Enterprise",
       "summary": "Grok Bot is now available for enterprises, adding organization-wide access, network controls and audit controls for persistent cloud agents.",
@@ -1961,23 +1975,6 @@
       "region": "global",
       "accent": "#6b63ff",
       "score": 5
-    },
-    {
-      "id": "Jack Clark-https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/",
-      "title": "Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI’s accidental AI hacker",
-      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Epoch and METR release MirrorCode, a benchmark for seeing how well AI systems can do long-horizon ",
-      "url": "https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/",
-      "date": "2026-07-27T13:30:53.000Z",
-      "source": "Jack Clark",
-      "sourceHomepage": "https://jack-clark.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#3c6393",
-      "score": 4,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。",
-      "titleZh": "Import AI 466：机器人领域的苦涩教训、AI 完成长达一周的编程任务，以及意外出现的 AI 黑客",
-      "summaryZh": "本期讨论机器人学习、衡量 AI 长周期编程能力的基准，以及模型在网络安全任务中出现的意外能力。",
-      "translationMethod": "editorial"
     },
     {
       "id": "Ethan Mollick-https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
