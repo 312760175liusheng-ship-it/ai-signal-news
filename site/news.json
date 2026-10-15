@@ -1,9 +1,128 @@
 {
-  "updatedAt": "2026-10-14T05:25:25.197Z",
+  "updatedAt": "2026-10-15T05:14:30.611Z",
   "items": [
     {
+      "id": "NVIDIA-https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
+      "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
+      "summary": "The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent. Now, a new chapter for the region is unfolding as countries race to build one of Europe’s most conseque",
+      "url": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
+      "date": "2026-10-15T05:00:12.000Z",
+      "source": "NVIDIA",
+      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#76b900",
+      "score": 4
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+      "title": "Tree Appreciator",
+      "summary": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees",
+      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+      "date": "2026-10-14T21:23:01.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 4,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+      "title": "AI is mass decompiling games. That's both awesome and scary.",
+      "summary": "Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and producing a boom in game preservation projects to get old games working on new hardware (often in a browser using WebAssembly)",
+      "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+      "date": "2026-10-14T16:26:53.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 6,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/amp-beyond-coding",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "date": "2026-10-14T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 5
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/sentinelone",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "url": "https://openai.com/index/sentinelone",
+      "date": "2026-10-14T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 3
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/third-moment-research",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "url": "https://openai.com/index/third-moment-research",
+      "date": "2026-10-14T07:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 4
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/block-ai-powered-security",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "date": "2026-10-14T07:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 3
+    },
+    {
+      "id": "NVIDIA-https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+      "title": "NVIDIA Announces New Investments in the UK Startup Ecosystem",
+      "summary": "Across industries, the U.K. is putting the full stack to work. The scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is putting that principle into practice, including through a fi",
+      "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+      "date": "2026-10-14T06:04:15.000Z",
+      "source": "NVIDIA",
+      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#76b900",
+      "score": 6
+    },
+    {
+      "id": "NVIDIA-https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
+      "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+      "summary": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to b",
+      "url": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
+      "date": "2026-10-14T06:00:28.000Z",
+      "source": "NVIDIA",
+      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#76b900",
+      "score": 5
+    },
+    {
       "id": "DeepMind-https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
       "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
       "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
       "date": "2026-10-14T02:00:14.000Z",
@@ -13,6 +132,19 @@
       "region": "global",
       "accent": "#6b63ff",
       "score": 3
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "title": "The EU’s next chapter in AI is agentic",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "date": "2026-10-14T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 5
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
@@ -136,7 +268,7 @@
     },
     {
       "id": "NVIDIA-https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
-      "title": "NVIDIA Announces New Investments in France’s Startup Ecosystem",
+      "title": "NVIDIA Announces New Investments in France’s Startups",
       "summary": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application. France’s progress sits on deliberate groundwork. ",
       "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
       "date": "2026-10-13T05:00:31.000Z",
@@ -344,19 +476,6 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "OpenAI-https://openai.com/index/sophos",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "url": "https://openai.com/index/sophos",
-      "date": "2026-10-09T07:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3
-    },
-    {
       "id": "OpenAI-https://openai.com/index/asana-browser-agent",
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
@@ -368,6 +487,19 @@
       "region": "global",
       "accent": "#101010",
       "score": 5
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/sophos",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "url": "https://openai.com/index/sophos",
+      "date": "2026-10-09T07:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 3
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Oct/9/ttok/",
@@ -462,34 +594,6 @@
       "region": "global",
       "accent": "#101010",
       "score": 3
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Oct/7/ben-affleck/",
-      "title": "Quoting Ben Affleck",
-      "summary": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning. So I can write like pretty shitt",
-      "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
-      "date": "2026-10-07T23:14:58.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 4,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
-      "title": "Claude Haiku 5.5",
-      "summary": "As previously promised , here's Anthropic's new fast, low cost model: Introducing Claude Haiku 5.5 . The previous Haiku, 4.5, was very much showing its age. It came out almost a year ago , and was priced at $1/million input and $5/million output - relatively expensive even back t",
-      "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
-      "date": "2026-10-07T20:56:21.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 6,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
       "id": "NVIDIA-https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
@@ -689,32 +793,6 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "OpenAI-https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "title": "Building advertising for the way people use AI",
-      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "date": "2026-10-05T10:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 4
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/practical-guide-building-gpt-6",
-      "title": "A model guide for the GPT-6 family",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "date": "2026-10-02T16:15:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 4
-    },
-    {
       "id": "Google AI-https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
       "title": "The latest AI news we announced in September 2026",
       "summary": "Here are Google’s latest AI updates from September 2026",
@@ -741,19 +819,6 @@
       "score": 5
     },
     {
-      "id": "OpenAI-https://openai.com/index/chatham-financial",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-      "url": "https://openai.com/index/chatham-financial",
-      "date": "2026-10-02T00:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 5
-    },
-    {
       "id": "NVIDIA-https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
       "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
       "summary": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast ",
@@ -764,32 +829,6 @@
       "kind": "official",
       "region": "global",
       "accent": "#76b900",
-      "score": 6
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/the-eternal-complement",
-      "title": "The eternal complement",
-      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-      "url": "https://openai.com/index/the-eternal-complement",
-      "date": "2026-10-01T17:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 4
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/albertsons-reimagining-retail",
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "url": "https://openai.com/index/albertsons-reimagining-retail",
-      "date": "2026-10-01T16:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
       "score": 6
     },
     {
@@ -1190,19 +1229,6 @@
       "score": 3
     },
     {
-      "id": "NVIDIA-https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
-      "title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
-      "summary": "",
-      "url": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
-      "date": "2026-09-15T09:00:42.000Z",
-      "source": "NVIDIA",
-      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#76b900",
-      "score": 4
-    },
-    {
       "id": "Google AI-https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
       "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
       "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
@@ -1227,19 +1253,6 @@
       "region": "global",
       "accent": "#4285f4",
       "score": 4
-    },
-    {
-      "id": "NVIDIA-https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
-      "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
-      "summary": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the agent Perplexity Computer that plans and carries out multistep tasks. Accelerated by NVIDIA GPUs, it",
-      "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
-      "date": "2026-09-14T15:00:52.000Z",
-      "source": "NVIDIA",
-      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#76b900",
-      "score": 6
     },
     {
       "id": "Nathan Lambert-https://www.interconnects.ai/p/open-source-ai-reading-list",
@@ -1317,19 +1330,6 @@
       "translationMethod": "editorial",
       "curated": true,
       "takeaway": "现在值得试：给 Claude、ChatGPT 和邮箱开启双重验证；如果你从未创建过 API key，做到这一步即可。"
-    },
-    {
-      "id": "NVIDIA-https://blogs.nvidia.com/blog/ibc-news-2026/",
-      "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
-      "summary": "At the IBC conference, running Sept. 11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment industries. More than 44,000 attendees from 170+ countries are gathe",
-      "url": "https://blogs.nvidia.com/blog/ibc-news-2026/",
-      "date": "2026-09-09T16:00:42.000Z",
-      "source": "NVIDIA",
-      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#76b900",
-      "score": 1
     },
     {
       "id": "Google AI-https://blog.google/products-and-platforms/products/search/football-features-google-search/",
