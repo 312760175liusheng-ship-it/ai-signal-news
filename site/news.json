@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-10-17T05:00:23.564Z",
+  "updatedAt": "2026-10-18T05:10:00.357Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Oct/17/document-currentscript/",
+      "title": "Inline rendering with document​.currentScript",
+      "summary": "Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline If you define a shortcut function like this: $=(...n)=>document.currentScript.replaceWith(...n) You get a tiny template language: The year is Ta",
+      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+      "date": "2026-10-17T21:11:12.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 2,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Nathan Lambert-https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+      "title": "Meta shakes up the frontiers, open and closed",
+      "summary": "US open weights are back!",
+      "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+      "date": "2026-10-17T14:06:54.000Z",
+      "source": "Nathan Lambert",
+      "sourceHomepage": "https://www.interconnects.ai/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#1f7a6b",
+      "score": 2,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Oct/17/web-edit/",
+      "title": "web-edit 0.1a2",
+      "summary": "Release: web-edit 0.1a2 web-edit ( previously ) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different machines via Tailscale. I added a \"copy to clipboard\" option for both text and image data. I needed this because I was r",
+      "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
+      "date": "2026-10-17T13:16:49.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 4,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "DeepSeek-https://api-docs.deepseek.com/updates/#opening-up-the-in-house-search-api",
+      "title": "Opening up the in-house search API",
+      "summary": "DeepSeek's web and API search capabilities are powered by our in-house DeepSeek search engine, which reliably handles hundreds of millions of search requests from around the world every day. DeepSeek Search is an AI-native general-purpose search engine that indexes hundreds of bi",
+      "url": "https://api-docs.deepseek.com/updates/#opening-up-the-in-house-search-api",
+      "date": "2026-10-17T00:00:00.000Z",
+      "source": "DeepSeek",
+      "sourceHomepage": "https://api-docs.deepseek.com/updates/",
+      "kind": "official",
+      "region": "china",
+      "accent": "#315efb",
+      "score": 4
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Oct/16/code-review/",
       "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
@@ -27,6 +82,19 @@
       "region": "global",
       "accent": "#101010",
       "score": 4
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/benefit-street-partners",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "date": "2026-10-16T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 3
     },
     {
       "id": "OpenAI-https://openai.com/index/stack-overflow-chatgpt-plugin",
@@ -554,20 +622,6 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "Simon Willison-https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
-      "title": "Deno is joining Cloudflare",
-      "summary": "The Deno team released the first version of celld back in August - their open source implementation of the Durable Objects pattern from Cloudflare Workers. Today, Cloudflare are acquiring Deno outright, with the goal of building on celld to \"make workerd self-hosting a first-clas",
-      "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
-      "date": "2026-10-09T22:48:37.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 6,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
       "id": "Nathan Lambert-https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
       "title": "I expect rapid progress but not towards general superintelligence",
       "summary": "I’ve often been surprised when I hear from top researchers in industry that they think AI will be better than them at their job in a few years, and I didn’t really know why I doubted it.",
@@ -582,18 +636,17 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "Simon Willison-https://simonwillison.net/2026/Oct/9/matthew-green/",
-      "title": "Quoting Matthew Green",
-      "summary": "Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we functionally lose confidence in our existing public-key encryption algorithms. [...] The",
-      "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
-      "date": "2026-10-09T15:02:29.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
+      "id": "OpenAI-https://openai.com/index/asana-browser-agent",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "date": "2026-10-09T07:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
       "region": "global",
-      "accent": "#8d5bd3",
-      "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+      "accent": "#101010",
+      "score": 5
     },
     {
       "id": "OpenAI-https://openai.com/index/sophos",
@@ -607,19 +660,6 @@
       "region": "global",
       "accent": "#101010",
       "score": 3
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/asana-browser-agent",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "date": "2026-10-09T07:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 5
     },
     {
       "id": "OpenAI-https://openai.com/index/oracle",
@@ -718,19 +758,6 @@
       "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
       "url": "https://openai.com/index/radisson",
       "date": "2026-10-07T07:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/gpt-6-for-everyone",
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-      "url": "https://openai.com/index/gpt-6-for-everyone",
-      "date": "2026-10-07T00:00:00.000Z",
       "source": "OpenAI",
       "sourceHomepage": "https://openai.com/news/",
       "kind": "official",
@@ -1307,24 +1334,6 @@
       "accent": "#1f7a6b",
       "score": 2,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "DeepSeek-https://api-docs.deepseek.com/updates/#deepseek-v41-flash-release",
-      "title": "DeepSeek-V4.1-Flash Release",
-      "summary": "Today, we officially release the DeepSeek-V4.1-Flash model. It is the smallest model in our new architecture family, with native multimodal visual understanding. The new architecture is designed for a higher capability ceiling, faster inference, higher throughput, and scaling to ",
-      "url": "https://api-docs.deepseek.com/updates/#deepseek-v41-flash-release",
-      "date": "2026-09-10T00:00:00.000Z",
-      "source": "DeepSeek",
-      "sourceHomepage": "https://api-docs.deepseek.com/updates/",
-      "kind": "official",
-      "region": "china",
-      "accent": "#315efb",
-      "score": 4,
-      "titleZh": "DeepSeek V4.1 Flash 已上线 API，原生支持图像理解并降低价格",
-      "summaryZh": "DeepSeek 9 月 10 日正式上线 V4.1 Flash API，调用名为 deepseek-flash，支持 100 万上下文、最高 38.4 万输出、思考与非思考模式、工具调用、Responses API、Anthropic API 和图像输入。上一代 V4 Flash 与视觉实验版已退役并暂时转发到新模型；官方称 API 价格同步下调，能力数据仍主要是内部基准。",
-      "translationMethod": "editorial",
-      "curated": true,
-      "takeaway": "继续观察：它目前主要是开发者 API；等网页或 App 明确切换后，再用同一项中文长文整理任务与 ChatGPT 对照。"
     },
     {
       "id": "Anthropic-https://www.anthropic.com/threat-intelligence-report-september-2026",
