@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-10-18T05:10:00.357Z",
+  "updatedAt": "2026-10-19T05:21:05.573Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "title": "llm-tools-datasette 0.1.1",
+      "summary": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed. Tags: datasette , llm",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "date": "2026-10-18T23:43:09.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 3,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Oct/18/llm-echo/",
+      "title": "llm-echo 0.5",
+      "summary": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+      "date": "2026-10-18T23:16:16.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 4,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Oct/17/document-currentscript/",
       "title": "Inline rendering with document​.currentScript",
@@ -14,6 +42,19 @@
       "accent": "#8d5bd3",
       "score": 2,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "NVIDIA-https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "summary": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs. Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, cont",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+      "date": "2026-10-17T21:00:13.000Z",
+      "source": "NVIDIA",
+      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#76b900",
+      "score": 4
     },
     {
       "id": "Nathan Lambert-https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
@@ -137,6 +178,19 @@
       "score": 5
     },
     {
+      "id": "NVIDIA-https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
+      "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+      "summary": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and partners at launch events around the world. Share Your Spark Every PC has a story. What was your fir",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
+      "date": "2026-10-15T17:00:23.000Z",
+      "source": "NVIDIA",
+      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#76b900",
+      "score": 5
+    },
+    {
       "id": "DeepMind-https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
       "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
       "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
@@ -148,6 +202,19 @@
       "region": "global",
       "accent": "#6b63ff",
       "score": 4
+    },
+    {
+      "id": "NVIDIA-https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+      "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+      "summary": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence ",
+      "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+      "date": "2026-10-15T15:00:24.000Z",
+      "source": "NVIDIA",
+      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#76b900",
+      "score": 6
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
@@ -175,6 +242,19 @@
       "region": "global",
       "accent": "#101010",
       "score": 3
+    },
+    {
+      "id": "NVIDIA-https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
+      "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
+      "summary": "Much of today’s scientific progress begins with computation. But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more — depends on more than breakthrough technology. Especially for smalle",
+      "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
+      "date": "2026-10-15T10:00:12.000Z",
+      "source": "NVIDIA",
+      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#76b900",
+      "score": 4
     },
     {
       "id": "NVIDIA-https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
@@ -585,34 +665,6 @@
       "summary": "I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining a codebase that would benefit from version control more . That's art. I went looking and I'm sad to ",
       "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
       "date": "2026-10-11T00:52:37.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 4,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Oct/10/python-actions/",
-      "title": "Python 3.15.0 added to actions/python-versions",
-      "summary": "Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull once an hour until they add the stable 3.15 - then tell me about it Now that this has landed, you can add ",
-      "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
-      "date": "2026-10-10T23:58:04.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 3,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Oct/10/the-new-york-times/",
-      "title": "Quoting The New York Times",
-      "summary": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa applications through a form available on the State Department’s we",
-      "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
-      "date": "2026-10-10T02:04:12.000Z",
       "source": "Simon Willison",
       "sourceHomepage": "https://simonwillison.net/",
       "kind": "expert",
@@ -1057,19 +1109,6 @@
       "score": 5
     },
     {
-      "id": "NVIDIA-https://blogs.nvidia.com/blog/ai-security-agent-stack/",
-      "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
-      "summary": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work. As AI becomes more capable, the industry must accelerate security engineering, broaden access to defensive tools and share what ",
-      "url": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
-      "date": "2026-09-21T14:51:34.000Z",
-      "source": "NVIDIA",
-      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#76b900",
-      "score": 5
-    },
-    {
       "id": "Jack Clark-https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/",
       "title": "Import AI 473: The US’s superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now RAND thinks the best AI strategy for the US is to keep all options open:…It’s not clear exactly wh",
@@ -1096,19 +1135,6 @@
       "accent": "#1f7a6b",
       "score": 2,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "NVIDIA-https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
-      "title": "5 Companies Using NVIDIA AI for Clean Energy",
-      "summary": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront cost barriers. At New York Climate Week, NVIDIA is highlighting",
-      "url": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
-      "date": "2026-09-21T10:00:35.000Z",
-      "source": "NVIDIA",
-      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#76b900",
-      "score": 4
     },
     {
       "id": "Nathan Lambert-https://www.interconnects.ai/p/where-i-stand-on-rsi",
@@ -1176,32 +1202,6 @@
       "region": "global",
       "accent": "#4285f4",
       "score": 4
-    },
-    {
-      "id": "NVIDIA-https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
-      "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
-      "summary": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help — but computing air quality with traditional chemistry-based models is expensive, which limits how detailed they can be and how reg",
-      "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
-      "date": "2026-09-16T05:00:42.000Z",
-      "source": "NVIDIA",
-      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#76b900",
-      "score": 4
-    },
-    {
-      "id": "NVIDIA-https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
-      "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
-      "summary": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa — Salesforce’s first CRM reasoning model, built on NVIDIA",
-      "url": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
-      "date": "2026-09-15T22:24:34.000Z",
-      "source": "NVIDIA",
-      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#76b900",
-      "score": 3
     },
     {
       "id": "DeepMind-https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
@@ -2014,20 +2014,6 @@
       "summary": "A podcast with Florian Brand.",
       "url": "https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3",
       "date": "2026-07-22T14:09:04.000Z",
-      "source": "Nathan Lambert",
-      "sourceHomepage": "https://www.interconnects.ai/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#1f7a6b",
-      "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Nathan Lambert-https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
-      "title": "Kimi K3: The open-weights escalation",
-      "summary": "The global implications on the AI ecosystem.",
-      "url": "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
-      "date": "2026-07-20T15:48:28.000Z",
       "source": "Nathan Lambert",
       "sourceHomepage": "https://www.interconnects.ai/",
       "kind": "expert",
