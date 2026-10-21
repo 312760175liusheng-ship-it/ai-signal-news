@@ -1,6 +1,114 @@
 {
-  "updatedAt": "2026-10-20T05:20:10.689Z",
+  "updatedAt": "2026-10-21T05:20:03.781Z",
   "items": [
+    {
+      "id": "Google AI-https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "date": "2026-10-21T04:00:00.000Z",
+      "source": "Google AI",
+      "sourceHomepage": "https://blog.google/innovation-and-ai/technology/ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#4285f4",
+      "score": 4
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+      "title": "eMudhra Intermediate CA Compromise",
+      "summary": "This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream trust stores. Any software that bundles a list of truste",
+      "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+      "date": "2026-10-20T23:50:25.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 3,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Oct/20/battledrones/",
+      "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+      "summary": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat embarrassed to admit that I got there by telling Claude to \"Make",
+      "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
+      "date": "2026-10-20T19:34:19.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 10,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Nathan Lambert-https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+      "title": "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & China",
+      "summary": "Western open models strike back",
+      "url": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+      "date": "2026-10-20T17:04:21.000Z",
+      "source": "Nathan Lambert",
+      "sourceHomepage": "https://www.interconnects.ai/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#1f7a6b",
+      "score": 2,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Ethan Mollick-https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+      "title": "30 Months on the Exponential (in Charts)",
+      "summary": "My new book is out today... what happened since the last one",
+      "url": "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+      "date": "2026-10-20T15:57:59.000Z",
+      "source": "Ethan Mollick",
+      "sourceHomepage": "https://www.oneusefulthing.org/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#d55a2a",
+      "score": 2,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/ted-taylor-restaurant",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "date": "2026-10-20T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 4
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/terminal-x",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "url": "https://openai.com/index/terminal-x",
+      "date": "2026-10-20T07:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 4
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "title": "OpenAI acquires Orchestra Bio",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "date": "2026-10-20T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 4
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
       "title": "My obituary for programming",
@@ -166,19 +274,6 @@
       "score": 4
     },
     {
-      "id": "OpenAI-https://openai.com/index/benefit-street-partners",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "date": "2026-10-16T00:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3
-    },
-    {
       "id": "OpenAI-https://openai.com/index/stack-overflow-chatgpt-plugin",
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
@@ -190,6 +285,19 @@
       "region": "global",
       "accent": "#101010",
       "score": 4
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/benefit-street-partners",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "date": "2026-10-16T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 3
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Oct/15/chirp-pong/",
@@ -659,20 +767,6 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "Simon Willison-https://simonwillison.net/2026/Oct/12/web-edit/",
-      "title": "web-edit 0.1a0",
-      "summary": "Release: web-edit 0.1a0 I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM itself. So... I had Codex and GPT-6 Astra Extra High build this Python web app which",
-      "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
-      "date": "2026-10-12T15:54:36.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 5,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
       "id": "Jack Clark-https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/",
       "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now New benchmark shows how AI models lack intuitive visual reasoning:…Humanity’s Sixth Sense highligh",
@@ -684,20 +778,6 @@
       "region": "global",
       "accent": "#3c6393",
       "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Oct/12/datasette-ports/",
-      "title": "datasette-ports 0.4",
-      "summary": "Release: datasette-ports 0.4 My plugin for detecting and listing all Datasette instances on the current machine now works with the latest version, and displays the detected PID as well. Knowing the PID makes it easier to attach the new Python 3.15 profiler . Tags: datasette",
-      "url": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
-      "date": "2026-10-12T04:57:07.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 4,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
@@ -715,19 +795,6 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "OpenAI-https://openai.com/index/sophos",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "url": "https://openai.com/index/sophos",
-      "date": "2026-10-09T07:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3
-    },
-    {
       "id": "OpenAI-https://openai.com/index/asana-browser-agent",
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
@@ -739,6 +806,19 @@
       "region": "global",
       "accent": "#101010",
       "score": 5
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/sophos",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "url": "https://openai.com/index/sophos",
+      "date": "2026-10-09T07:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 3
     },
     {
       "id": "OpenAI-https://openai.com/index/oracle",
@@ -767,32 +847,6 @@
       "score": 5
     },
     {
-      "id": "OpenAI-https://openai.com/index/legalon-halves-codex-costs",
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "date": "2026-10-08T12:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "title": "Disrupting AI-enabled “false front” operations",
-      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "date": "2026-10-08T00:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3
-    },
-    {
       "id": "NVIDIA-https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
       "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
       "summary": "At a Microsoft event in San Francisco on Wednesday, NVIDIA founder and CEO Jensen Huang and Microsoft CEO Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded because of Windows, Huang sai",
@@ -804,19 +858,6 @@
       "region": "global",
       "accent": "#76b900",
       "score": 4
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/teens-learn-and-plan",
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "date": "2026-10-07T12:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3
     },
     {
       "id": "Google AI-https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
@@ -1578,19 +1619,6 @@
       "score": 6
     },
     {
-      "id": "Google AI-https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "date": "2026-09-01T16:00:00.000Z",
-      "source": "Google AI",
-      "sourceHomepage": "https://blog.google/innovation-and-ai/technology/ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#4285f4",
-      "score": 6
-    },
-    {
       "id": "Jack Clark-https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",
       "title": "Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI",
       "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Import AI reader giveaway! Upcoming event: Fiction and the Future with Robin SloanI’ll be chatting",
@@ -2007,20 +2035,6 @@
       "titleZh": "SemiAnalysis：Vera Rubin 的早期推理收益可观，但公开数据尚未独立验证",
       "summaryZh": "SemiAnalysis 认为 Vera Rubin 的早期推理表现有潜力，同时明确指出当时取得的 CoreWeave 测试数据尚未经过独立复核；NVIDIA 承诺在 2026 年第三季度向 InferenceX 提交可核验结果。作者还提醒，长上下文、多轮智能体任务需要专门基准，不能只看单轮吞吐。",
       "translationMethod": "editorial"
-    },
-    {
-      "id": "Nathan Lambert-https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3",
-      "title": "Open models recap: more on Kimi K3, Qwen 3.8, Xi's WAIC speech, distillation, the open-closed gap, and what's next",
-      "summary": "A podcast with Florian Brand.",
-      "url": "https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3",
-      "date": "2026-07-22T14:09:04.000Z",
-      "source": "Nathan Lambert",
-      "sourceHomepage": "https://www.interconnects.ai/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#1f7a6b",
-      "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     }
   ],
   "sources": [
