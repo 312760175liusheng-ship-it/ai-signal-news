@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-10-25T05:19:55.458Z",
+  "updatedAt": "2026-10-26T05:20:13.550Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Oct/25/seam-cutter/",
+      "title": "Seam Cutter",
+      "summary": "Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image. I wanted this because I o",
+      "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+      "date": "2026-10-25T15:10:19.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 3,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Nathan Lambert-https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+      "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+      "summary": "#20",
+      "url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+      "date": "2026-10-25T11:49:00.000Z",
+      "source": "Nathan Lambert",
+      "sourceHomepage": "https://www.interconnects.ai/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#1f7a6b",
+      "score": 2,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Oct/24/battledrones/",
       "title": "battledrones v14: Compass Rose, a four player map",
@@ -867,20 +895,6 @@
       "region": "global",
       "accent": "#8d5bd3",
       "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Oct/15/latex/",
-      "title": "LaTeX renderer",
-      "summary": "Tool: LaTeX renderer Inspired by Paul Ford and Aboard Foundary's new web app Tiny Little Office , which provides a suite of web app content editors (a Word Processor, Outliner, Presentation Builder, Spreadsheet, Calculator, Drawing Tool, Diagram Maker, Animator, Calendar, and Tri",
-      "url": "https://simonwillison.net/2026/Oct/15/latex/",
-      "date": "2026-10-15T02:07:28.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 5,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
