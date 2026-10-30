@@ -1,6 +1,87 @@
 {
-  "updatedAt": "2026-10-29T06:29:11.483Z",
+  "updatedAt": "2026-10-30T06:28:53.528Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Oct/29/api-credits/",
+      "title": "API credits benefit for eligible ChatGPT subscriptions",
+      "summary": "Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API. OpenAI have now launched pretty much exactly the s",
+      "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
+      "date": "2026-10-29T22:48:29.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 4,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+      "title": "Building a multiplayer game world with autonomous Fable-class models",
+      "summary": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier model",
+      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+      "date": "2026-10-29T17:00:26.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 6,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/updated-model-spec",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "url": "https://openai.com/index/updated-model-spec",
+      "date": "2026-10-29T17:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 3
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Oct/29/ben-hylak/",
+      "title": "Quoting Ben Hylak",
+      "summary": "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course. in our product, customers love the ui and love us very much. we're special that way. &mdash; Ben Hylak Tags: mode",
+      "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
+      "date": "2026-10-29T14:06:27.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 4,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "title": "How we detect frontier model misalignment",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "date": "2026-10-29T09:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 4
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/ropes-gray-ai-diligence",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "date": "2026-10-29T07:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 3
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Oct/28/ted-sanders/",
       "title": "Quoting Ted Sanders",
@@ -499,19 +580,6 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "OpenAI-https://openai.com/index/decisions-api",
-      "title": "Build more responsive apps with the Decisions API",
-      "summary": "Fast, focused, low-cost decisions for any application.",
-      "url": "https://openai.com/index/decisions-api",
-      "date": "2026-10-22T19:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 4
-    },
-    {
       "id": "Simon Willison-https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
       "title": "Donating Agent Skills to the Agentic AI Foundation",
       "summary": "News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we ",
@@ -551,19 +619,6 @@
       "region": "global",
       "accent": "#6b63ff",
       "score": 3
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/forward-deployed-engineering-means",
-      "title": "What FDE means at OpenAI",
-      "summary": "What forward deployed engineering means at OpenAI",
-      "url": "https://openai.com/index/forward-deployed-engineering-means",
-      "date": "2026-10-22T06:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 4
     },
     {
       "id": "NVIDIA-https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
@@ -629,19 +684,6 @@
       "region": "global",
       "accent": "#76b900",
       "score": 3
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/uber-chatgpt-work-rollout",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "date": "2026-10-22T00:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 4
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Oct/21/php-security-release/",
@@ -776,34 +818,6 @@
       "score": 4
     },
     {
-      "id": "Simon Willison-https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
-      "title": "eMudhra Intermediate CA Compromise",
-      "summary": "This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream trust stores. Any software that bundles a list of truste",
-      "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
-      "date": "2026-10-20T23:50:25.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 3,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Oct/20/battledrones/",
-      "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
-      "summary": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat embarrassed to admit that I got there by telling Claude to \"Make",
-      "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
-      "date": "2026-10-20T19:34:19.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 10,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
       "id": "Nathan Lambert-https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
       "title": "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & China",
       "summary": "Western open models strike back",
@@ -843,20 +857,6 @@
       "region": "global",
       "accent": "#76b900",
       "score": 3
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
-      "title": "My obituary for programming",
-      "summary": "Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming turned into one of the greatest jobs you could imagine. You got paid to work on tricky little logic puzzles. The trickier the puzzl",
-      "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
-      "date": "2026-10-19T23:58:25.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 3,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
       "id": "NVIDIA-https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
