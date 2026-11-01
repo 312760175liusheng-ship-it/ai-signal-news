@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-10-31T06:18:29.559Z",
+  "updatedAt": "2026-11-01T06:52:07.855Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+      "title": "How We Took Over ChatGPT Accounts",
+      "summary": "Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's",
+      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+      "date": "2026-10-31T23:15:22.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 4,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Oct/31/datasette-llm/",
+      "title": "datasette-llm 0.1a9",
+      "summary": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using Datasett",
+      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+      "date": "2026-10-31T22:10:01.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 4,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Oct/30/nesformer/",
       "title": "dbreunig/nesformer",
@@ -648,20 +676,6 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "Simon Willison-https://simonwillison.net/2026/Oct/22/armin-ronacher/",
-      "title": "Quoting Armin Ronacher",
-      "summary": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. &mdash; Armin Ronacher Tags: security , generative-ai , armin-ronacher , ai , ai-security-research , llms",
-      "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
-      "date": "2026-10-22T15:34:13.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
       "id": "DeepMind-https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
       "title": "Beyond tree cover: mapping the world’s forest types",
       "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
@@ -738,20 +752,6 @@
       "region": "global",
       "accent": "#76b900",
       "score": 3
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Oct/21/php-security-release/",
-      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
-      "summary": "If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have been exploits circulating since last night, thanks to a leak in the coordinated disclosure process. This post from t",
-      "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
-      "date": "2026-10-21T18:41:53.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 6,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
       "id": "NVIDIA-https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
