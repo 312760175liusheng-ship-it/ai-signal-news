@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-11-01T06:52:07.855Z",
+  "updatedAt": "2026-11-02T06:51:52.695Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+      "title": "If in doubt, delete the uv.lock file",
+      "summary": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which don't include a uv.lock file, since it's rude for a library ",
+      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+      "date": "2026-11-01T23:24:22.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 2,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+      "title": "Quoting Kyle Kingsbury",
+      "summary": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to coun",
+      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+      "date": "2026-11-01T16:49:04.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 3,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
       "title": "How We Took Over ChatGPT Accounts",
@@ -46,7 +74,7 @@
     {
       "id": "Nathan Lambert-https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
       "title": "Was I wrong about open models & cyber risks?",
-      "summary": "Last week coined the term “Black October“ after an onslaught of critical vulnerability disclosures, including PHP2Shell and GitLab, signified the moment when the cyber risks of AI models started to materialize.",
+      "summary": "Last week coined the term “Black October“ after an onslaught of critical vulnerability disclosures, including PHP2Shell and a long-standing GitLab bug, signified the moment when the cyber risks of AI models started to materialize.",
       "url": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
       "date": "2026-10-30T17:36:56.000Z",
       "source": "Nathan Lambert",
@@ -645,34 +673,6 @@
       "region": "global",
       "accent": "#8d5bd3",
       "score": 5,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
-      "title": "DE STAAT - FREEDOM (Official Music Video)",
-      "summary": "OK well this is a first for me... at 00:44 in this new music video by Dutch alternative rock band De Staat : The visual effects are credited to Matties Grooten of Fake it or Leave it . Via flir on Hacker News Tags: music , ai , generative-ai , pelican-riding-a-bicycle",
-      "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
-      "date": "2026-10-22T19:42:26.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 3,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
-      "summary": "News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we ",
-      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
-      "date": "2026-10-22T18:09:56.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 4,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
@@ -2005,23 +2005,6 @@
       "accent": "#1f7a6b",
       "score": 2,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Nathan Lambert-https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
-      "title": "Introducing our Artifacts Hub and Adoption Dashboard",
-      "summary": "Scaling our curation and measurement of the open ecosystem.",
-      "url": "https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
-      "date": "2026-08-03T14:03:08.000Z",
-      "source": "Nathan Lambert",
-      "sourceHomepage": "https://www.interconnects.ai/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#1f7a6b",
-      "score": 4,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。",
-      "titleZh": "Interconnects 推出开放模型成果中心与采用情况看板",
-      "summaryZh": "该项目把开放模型的发布、采用和生态数据集中到一个入口，帮助持续衡量开放生态的发展。",
-      "translationMethod": "editorial"
     }
   ],
   "sources": [
