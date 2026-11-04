@@ -1,6 +1,98 @@
 {
-  "updatedAt": "2026-11-03T07:15:48.009Z",
+  "updatedAt": "2026-11-04T06:59:01.057Z",
   "items": [
+    {
+      "id": "DeepMind-https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "date": "2026-11-03T17:01:49.000Z",
+      "source": "DeepMind",
+      "sourceHomepage": "https://deepmind.google/blog/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#6b63ff",
+      "score": 5
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "summary": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but it's paper-shaped) found that frontier mod",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "date": "2026-11-03T16:29:48.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 4,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "NVIDIA-https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+      "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+      "summary": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause ar",
+      "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+      "date": "2026-11-03T16:00:45.000Z",
+      "source": "NVIDIA",
+      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#76b900",
+      "score": 4
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "title": "Accelerating engineering for the physical world",
+      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "date": "2026-11-03T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 4
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/cisco-cyber",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "url": "https://openai.com/index/cisco-cyber",
+      "date": "2026-11-03T08:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 4
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/heimstaden",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "url": "https://openai.com/index/heimstaden",
+      "date": "2026-11-03T08:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 3
+    },
+    {
+      "id": "NVIDIA-https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+      "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+      "summary": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI offer new ways to close that gap, from digital twins for infras",
+      "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+      "date": "2026-11-03T07:00:12.000Z",
+      "source": "NVIDIA",
+      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#76b900",
+      "score": 4
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
       "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
@@ -30,6 +122,19 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
+      "id": "OpenAI-https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "date": "2026-11-03T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 1
+    },
+    {
       "id": "Simon Willison-https://simonwillison.net/2026/Nov/2/llm/",
       "title": "llm 0.37",
       "summary": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol and gpt-6.1-terra , plus a new llm openai endpoint add command to make it easier to configure ",
@@ -44,19 +149,6 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "OpenAI-https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "date": "2026-11-02T18:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 4
-    },
-    {
       "id": "OpenAI-https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "title": "Preparing our next security sprint to harden OpenAI",
       "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
@@ -68,6 +160,19 @@
       "region": "global",
       "accent": "#101010",
       "score": 3
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "date": "2026-11-02T18:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 4
     },
     {
       "id": "Google AI-https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
@@ -433,6 +538,19 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
+      "id": "OpenAI-https://openai.com/ads/customers/evernote",
+      "title": "Evernote turns AI-driven discovery into paid subscriptions",
+      "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
+      "url": "https://openai.com/ads/customers/evernote",
+      "date": "2026-10-28T19:40:49.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 5
+    },
+    {
       "id": "DeepMind-https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
       "title": "Gemini 4 Carbon: Our next frontier model",
       "summary": "",
@@ -528,32 +646,6 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "OpenAI-https://openai.com/index/the-future-of-the-firm",
-      "title": "The future of the firm",
-      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
-      "url": "https://openai.com/index/the-future-of-the-firm",
-      "date": "2026-10-28T10:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/legora",
-      "title": "Legora is building the agentic operating system for legal work",
-      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-      "url": "https://openai.com/index/legora",
-      "date": "2026-10-28T09:30:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 5
-    },
-    {
       "id": "Simon Willison-https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
       "title": "Game Boy Color on My Conference Badge",
       "summary": "I'm at GitHub Universe this week and, similar to last year , the conference badge is a full-blown color screen computer. I've been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full NES emulator working on it, and then wen",
@@ -594,45 +686,6 @@
       "score": 4
     },
     {
-      "id": "OpenAI-https://openai.com/index/retell-ai",
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-      "url": "https://openai.com/index/retell-ai",
-      "date": "2026-10-27T15:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 5
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/oracle-apps-in-chatgpt",
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "date": "2026-10-27T07:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 4
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/check-point-daybreak",
-      "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-      "url": "https://openai.com/index/check-point-daybreak",
-      "date": "2026-10-27T00:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 4
-    },
-    {
       "id": "Simon Willison-https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
       "title": "GPT-6.1 Terra",
       "summary": "It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reaso",
@@ -652,20 +705,6 @@
       "summary": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasingly, ChatGPT is telling people that have normal tech support",
       "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
       "date": "2026-10-26T19:00:25.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 3,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
-      "title": "webframe: evaluated as a scraper and a sandbox",
-      "summary": "Research: webframe: evaluated as a scraper and a sandbox webframe is a neat little project from Jeff Lindsay which lets you \"run a web page like a program\" - you point it at a URL or file and it executes it in a hidden headless web view and outputs console.log() to standard outpu",
-      "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
-      "date": "2026-10-26T16:15:00.000Z",
       "source": "Simon Willison",
       "sourceHomepage": "https://simonwillison.net/",
       "kind": "expert",
@@ -937,32 +976,6 @@
       "region": "global",
       "accent": "#76b900",
       "score": 3
-    },
-    {
-      "id": "NVIDIA-https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
-      "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
-      "summary": "In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat down to discuss Germany’s AI roadmap, and in particular, the industrial applications of AI. Huang opened by tracing NVIDIA’s longstan",
-      "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
-      "date": "2026-10-19T19:27:08.000Z",
-      "source": "NVIDIA",
-      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#76b900",
-      "score": 4
-    },
-    {
-      "id": "NVIDIA-https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
-      "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
-      "summary": "At a creative industry event that took place today in Berlin — hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA — the latest advancements in intelligent media were on display. Key to the news: the European Broadcasting Union (EBU) is collaborating with NVIDIA to ex",
-      "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
-      "date": "2026-10-19T15:00:31.000Z",
-      "source": "NVIDIA",
-      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#76b900",
-      "score": 5
     },
     {
       "id": "Jack Clark-https://jack-clark.net/2026/10/19/import-ai-477-in-which-i-tell-the-imf-the-singularity-has-begun/",
@@ -1708,24 +1721,6 @@
       "region": "global",
       "accent": "#6b63ff",
       "score": 3
-    },
-    {
-      "id": "DeepMind-https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "summary": "",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "date": "2026-09-02T16:18:31.000Z",
-      "source": "DeepMind",
-      "sourceHomepage": "https://deepmind.google/blog/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#6b63ff",
-      "score": 4,
-      "titleZh": "Google 发布 Gemini 3.8 Flash，并推出受限开放的网络安全版",
-      "summaryZh": "Google 9 月 2 日发布 Gemini 3.8 Flash，已在 Gemini API、AI Studio、Gemini Enterprise 及部分付费消费端上线；2026 年内优惠价为每百万输入 token 0.75 美元、输出 token 3.75 美元。Google 同时推出仅向可信防御机构开放的 Gemini 3.8 Flash Cyber。性能与安全收益主要为 Google 及合作方口径。",
-      "translationMethod": "editorial",
-      "curated": true,
-      "takeaway": "现在值得试：若你已有 Google AI Pro 或 Ultra，用同一项真实网页或资料整理任务与 ChatGPT 对照一次；没有订阅不必只为跑分新增付费。"
     },
     {
       "id": "Jack Clark-https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",
