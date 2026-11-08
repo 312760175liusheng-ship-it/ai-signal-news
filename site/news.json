@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-07T06:37:21.803Z",
+  "updatedAt": "2026-11-08T06:43:15.780Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Nov/7/link-rel-next/",
+      "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "summary": "I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP link header like this: link: ; rel=\"next\" This",
+      "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+      "date": "2026-11-07T23:57:46.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 3,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Nov/6/nilay-patel/",
       "title": "Quoting Nilay Patel",
@@ -691,20 +705,6 @@
       "summary": "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course. in our product, customers love the ui and love us very much. we're special that way. &mdash; Ben Hylak Tags: mode",
       "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
       "date": "2026-10-29T14:06:27.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 4,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Oct/28/ted-sanders/",
-      "title": "Quoting Ted Sanders",
-      "summary": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable: ",
-      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
-      "date": "2026-10-28T23:23:21.000Z",
       "source": "Simon Willison",
       "sourceHomepage": "https://simonwillison.net/",
       "kind": "expert",
@@ -1990,20 +1990,6 @@
       "summary": "After a few long years of finding time to document my lessons from training open models, my post-training book is done!",
       "url": "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
       "date": "2026-08-10T13:02:42.000Z",
-      "source": "Nathan Lambert",
-      "sourceHomepage": "https://www.interconnects.ai/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#1f7a6b",
-      "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Nathan Lambert-https://www.interconnects.ai/p/lessons-from-the-hacks",
-      "title": "Lessons from the hacks",
-      "summary": "Musings on model alignment, what determines safety, and where we go from here.",
-      "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
-      "date": "2026-08-09T14:57:11.000Z",
       "source": "Nathan Lambert",
       "sourceHomepage": "https://www.interconnects.ai/",
       "kind": "expert",
