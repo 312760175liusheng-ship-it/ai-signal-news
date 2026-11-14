@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-11-13T07:19:43.466Z",
+  "updatedAt": "2026-11-14T07:02:50.177Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+      "title": "datasette-cluster-map 0.19",
+      "summary": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants ow",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+      "date": "2026-11-13T23:02:45.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 4,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+      "title": "datasette-leaflet 0.3",
+      "summary": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violat",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+      "date": "2026-11-13T22:30:54.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 3,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/introducing-chatgpt-wallet",
+      "title": "Introducing ChatGPT Wallet",
+      "summary": ", a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "date": "2026-11-13T15:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 6
+    },
+    {
+      "id": "NVIDIA-https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+      "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital ",
+      "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+      "date": "2026-11-13T13:00:42.000Z",
+      "source": "NVIDIA",
+      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#76b900",
+      "score": 5
+    },
+    {
+      "id": "OpenAI-https://openai.com/business/customer-stories/shield",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "date": "2026-11-13T08:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 5
+    },
+    {
+      "id": "DeepSeek-https://api-docs.deepseek.com/updates/#releasing-the-full-suite-of-application-apis",
+      "title": "Releasing the full suite of application APIs",
+      "summary": "In the DeepSeek App (including the web version), web search, file input, URL reading, voice interaction and safety work together with model inference to form the conversation experience users know. Today we open these capabilities to developers: enable the corresponding parameter",
+      "url": "https://api-docs.deepseek.com/updates/#releasing-the-full-suite-of-application-apis",
+      "date": "2026-11-13T00:00:00.000Z",
+      "source": "DeepSeek",
+      "sourceHomepage": "https://api-docs.deepseek.com/updates/",
+      "kind": "official",
+      "region": "china",
+      "accent": "#315efb",
+      "score": 6
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Nov/12/llm-gemini/",
       "title": "llm-gemini 0.37",
@@ -358,6 +438,19 @@
       "region": "global",
       "accent": "#101010",
       "score": 4
+    },
+    {
+      "id": "DeepMind-https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "title": "Opening the datasets behind our AI weather models",
+      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "date": "2026-11-10T11:13:04.000Z",
+      "source": "DeepMind",
+      "sourceHomepage": "https://deepmind.google/blog/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#6b63ff",
+      "score": 3
     },
     {
       "id": "OpenAI-https://openai.com/index/introducing-businesses-chatgpt",
@@ -750,33 +843,6 @@
       "score": 3
     },
     {
-      "id": "OpenAI-https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "date": "2026-11-06T00:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 6
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Nov/5/paul-ford/",
-      "title": "Quoting Paul Ford",
-      "summary": "The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day . &mdash; Paul Ford , The Web Is More Than Enough Tags: browsers , paul-ford , web-development",
-      "url": "https://simonwillison.net/2026/Nov/5/paul-ford/",
-      "date": "2026-11-05T17:34:03.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
       "id": "DeepMind-https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "summary": "",
@@ -788,19 +854,6 @@
       "region": "global",
       "accent": "#6b63ff",
       "score": 3
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/australian-universities-ai-native-graduates",
-      "title": "Australian universities are creating AI-native graduates",
-      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "date": "2026-11-05T17:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 4
     },
     {
       "id": "Google AI-https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
@@ -840,20 +893,6 @@
       "region": "global",
       "accent": "#1f7a6b",
       "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Nov/4/datasette-llm/",
-      "title": "datasette-llm 0.1a10",
-      "summary": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: llm , datasette",
-      "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
-      "date": "2026-11-04T15:26:02.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 5,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
@@ -1148,19 +1187,6 @@
       "score": 3
     },
     {
-      "id": "NVIDIA-https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
-      "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
-      "summary": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running frontier",
-      "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
-      "date": "2026-10-21T10:50:37.000Z",
-      "source": "NVIDIA",
-      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#76b900",
-      "score": 6
-    },
-    {
       "id": "Google AI-https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
       "title": "Southeast Asia’s digital economy to hit $368 billion",
       "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
@@ -1228,19 +1254,6 @@
       "accent": "#1f7a6b",
       "score": 2,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "DeepSeek-https://api-docs.deepseek.com/updates/#opening-up-the-in-house-search-api",
-      "title": "Opening up the in-house search API",
-      "summary": "DeepSeek's web and API search capabilities are powered by our in-house DeepSeek search engine, which reliably handles hundreds of millions of search requests from around the world every day. DeepSeek Search is an AI-native general-purpose search engine that indexes hundreds of bi",
-      "url": "https://api-docs.deepseek.com/updates/#opening-up-the-in-house-search-api",
-      "date": "2026-10-17T00:00:00.000Z",
-      "source": "DeepSeek",
-      "sourceHomepage": "https://api-docs.deepseek.com/updates/",
-      "kind": "official",
-      "region": "china",
-      "accent": "#315efb",
-      "score": 4
     },
     {
       "id": "DeepMind-https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
@@ -1481,19 +1494,6 @@
       "accent": "#3c6393",
       "score": 2,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "DeepMind-https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "summary": "",
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "date": "2026-09-24T16:20:39.000Z",
-      "source": "DeepMind",
-      "sourceHomepage": "https://deepmind.google/blog/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#6b63ff",
-      "score": 4
     },
     {
       "id": "Google AI-https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
