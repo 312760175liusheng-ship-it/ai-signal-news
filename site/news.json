@@ -1,6 +1,125 @@
 {
-  "updatedAt": "2026-11-19T07:57:10.143Z",
+  "updatedAt": "2026-11-20T07:46:20.749Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+      "title": "Token fraud is here and it’s BAD (YouTube)",
+      "summary": "Claire Vo runs ChatPRD , an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. In this YouTube video (see also the accompanying Twitter post ) Claire d",
+      "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+      "date": "2026-11-20T02:49:57.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 2,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Nov/19/postgresql-19/",
+      "title": "PostgreSQL 19 Released",
+      "summary": "Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely worth th",
+      "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+      "date": "2026-11-19T20:43:57.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 4,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Google AI-https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "date": "2026-11-19T18:00:00.000Z",
+      "source": "Google AI",
+      "sourceHomepage": "https://blog.google/innovation-and-ai/technology/ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#4285f4",
+      "score": 6
+    },
+    {
+      "id": "Google AI-https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "date": "2026-11-19T17:00:00.000Z",
+      "source": "Google AI",
+      "sourceHomepage": "https://blog.google/innovation-and-ai/technology/ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#4285f4",
+      "score": 3
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "date": "2026-11-19T08:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 4
+    },
+    {
+      "id": "OpenAI-https://openai.com/business/learn/deploying-daybreak-red",
+      "title": "Deploying Daybreak Red",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "date": "2026-11-19T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 4
+    },
+    {
+      "id": "OpenAI-https://openai.com/business/learn/pr-scans-demo",
+      "title": "See PR scans in action",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "date": "2026-11-19T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 4
+    },
+    {
+      "id": "OpenAI-https://openai.com/business/learn/codex-security-plugin-demo",
+      "title": "Explore the Codex Security Plugin",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "date": "2026-11-19T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 4
+    },
+    {
+      "id": "OpenAI-https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "title": "Get started with Daybreak Blue",
+      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "date": "2026-11-19T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 3
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Nov/18/llm-gemini/",
       "title": "llm-gemini 0.38",
@@ -97,6 +216,19 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
+      "id": "NVIDIA-https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+      "title": "NVIDIA RTX Spark Compact Desktops Out Now",
+      "summary": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room ",
+      "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+      "date": "2026-11-18T14:00:31.000Z",
+      "source": "NVIDIA",
+      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#76b900",
+      "score": 7
+    },
+    {
       "id": "OpenAI-https://openai.com/index/the-silent-consensus",
       "title": "The Silent Consensus",
       "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
@@ -162,10 +294,10 @@
       "score": 4
     },
     {
-      "id": "OpenAI-https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "id": "OpenAI-https://openai.com/index/advancing-chip-design-with-our-models",
+      "title": "Advancing chip design with OpenAI models",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
       "date": "2026-11-18T00:00:00.000Z",
       "source": "OpenAI",
       "sourceHomepage": "https://openai.com/news/",
@@ -175,10 +307,10 @@
       "score": 3
     },
     {
-      "id": "OpenAI-https://openai.com/index/advancing-chip-design-with-our-models",
-      "title": "Advancing chip design with OpenAI models",
-      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "id": "OpenAI-https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "date": "2026-11-18T00:00:00.000Z",
       "source": "OpenAI",
       "sourceHomepage": "https://openai.com/news/",
@@ -296,10 +428,10 @@
       "score": 4
     },
     {
-      "id": "OpenAI-https://openai.com/index/astra-law-6-2",
-      "title": "Astra for Law leads in legal intelligence",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-      "url": "https://openai.com/index/astra-law-6-2",
+      "id": "OpenAI-https://openai.com/index/introducing-openai-for-chile",
+      "title": "Introducing OpenAI for Chile",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
       "date": "2026-11-17T00:00:00.000Z",
       "source": "OpenAI",
       "sourceHomepage": "https://openai.com/news/",
@@ -309,10 +441,10 @@
       "score": 5
     },
     {
-      "id": "OpenAI-https://openai.com/index/introducing-openai-for-chile",
-      "title": "Introducing OpenAI for Chile",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "id": "OpenAI-https://openai.com/index/astra-law-6-2",
+      "title": "Astra for Law leads in legal intelligence",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "url": "https://openai.com/index/astra-law-6-2",
       "date": "2026-11-17T00:00:00.000Z",
       "source": "OpenAI",
       "sourceHomepage": "https://openai.com/news/",
@@ -446,71 +578,6 @@
       "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
       "url": "https://openai.com/index/science-at-the-frontier",
       "date": "2026-11-16T12:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 5
-    },
-    {
-      "id": "OpenAI-https://openai.com/business/customer-stories/revolut",
-      "title": "How Revolut raises ambition without lowering the bar",
-      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-      "url": "https://openai.com/business/customer-stories/revolut",
-      "date": "2026-11-16T09:30:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 4
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/lvmh-media-division-partnership",
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-      "url": "https://openai.com/index/lvmh-media-division-partnership",
-      "date": "2026-11-16T09:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "title": "Our first phase of embedded assessments",
-      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "date": "2026-11-16T08:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "date": "2026-11-16T06:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 7
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "title": "Advancing computer-use agents for healthcare teams",
-      "summary": "",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "date": "2026-11-16T06:00:00.000Z",
       "source": "OpenAI",
       "sourceHomepage": "https://openai.com/news/",
       "kind": "official",
@@ -698,20 +765,6 @@
       "score": 6
     },
     {
-      "id": "Simon Willison-https://simonwillison.net/2026/Nov/12/llm-gemini/",
-      "title": "llm-gemini 0.37",
-      "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing scheme: Mod",
-      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
-      "date": "2026-11-12T22:55:19.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 5,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
       "id": "DeepMind-https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
       "title": "Introducing Gemini 4 Hydrogen",
       "summary": "",
@@ -736,20 +789,6 @@
       "region": "global",
       "accent": "#4285f4",
       "score": 3
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-      "title": "Gemini Decisions API",
-      "summary": "Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/no question. It's pric",
-      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-      "date": "2026-11-11T22:03:25.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 7,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
       "id": "Google AI-https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
@@ -1213,19 +1252,6 @@
       "score": 3
     },
     {
-      "id": "NVIDIA-https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
-      "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-      "summary": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease. The Consortium for B",
-      "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
-      "date": "2026-10-27T15:00:20.000Z",
-      "source": "NVIDIA",
-      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#76b900",
-      "score": 4
-    },
-    {
       "id": "Google AI-https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
       "title": "Our newest AI Quest: Mapping the human brain",
       "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
@@ -1563,19 +1589,6 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "Google AI-https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "date": "2026-09-23T18:00:00.000Z",
-      "source": "Google AI",
-      "sourceHomepage": "https://blog.google/innovation-and-ai/technology/ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#4285f4",
-      "score": 5
-    },
-    {
       "id": "Nathan Lambert-https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
       "title": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
       "summary": "Podcast #19",
@@ -1644,19 +1657,6 @@
       "accent": "#d55a2a",
       "score": 2,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Google AI-https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "title": "New experts join Google’s AI & Economy team",
-      "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "date": "2026-09-18T14:00:00.000Z",
-      "source": "Google AI",
-      "sourceHomepage": "https://blog.google/innovation-and-ai/technology/ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#4285f4",
-      "score": 3
     },
     {
       "id": "Nathan Lambert-https://www.interconnects.ai/p/open-source-ai-reading-list",
@@ -1882,23 +1882,6 @@
       "translationMethod": "editorial",
       "curated": true,
       "takeaway": "继续观察：先等云服务的实际价格与独立复核，目前无需为此更换工具。"
-    },
-    {
-      "id": "Anil Madhavapeddy-https://anil.recoil.org/notes/rumour-is-the-exploit",
-      "title": "Just a rumour of a bug is enough to find a security exploit these days",
-      "summary": "OCaml core maintainer Anil Madhavapeddy reported exploit-pattern probes roughly ten minutes after a Cohttp security-fix PR became public. His own agents generated a local exploit from a broad description in under a minute; the external probes' operator and use of AI remain unverified.",
-      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-      "date": "2026-08-22T00:00:00.000Z",
-      "source": "Anil Madhavapeddy",
-      "sourceHomepage": "https://anil.recoil.org/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#536878",
-      "score": 9,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。",
-      "titleZh": "Anil Madhavapeddy：如今只透露漏洞方向，AI 智能体就可能生成利用代码",
-      "summaryZh": "OCaml 核心维护者 Anil Madhavapeddy 记录称，Cohttp 安全修复 PR 公开约 10 分钟后，其网站开始收到针对该漏洞模式的探测；他自己的智能体仅凭漏洞方向便在不到 1 分钟内生成本地利用程序。他据此认为，传统开源漏洞保密和数日发布节奏正在失效；外部探测的操作者及其是否使用 AI 仍无法确认。",
-      "translationMethod": "editorial"
     }
   ],
   "sources": [
