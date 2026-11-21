@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-11-20T07:46:20.749Z",
+  "updatedAt": "2026-11-21T07:43:01.434Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+      "title": "Quoting Ravi Vakil",
+      "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Aless",
+      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+      "date": "2026-11-20T19:21:49.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 2,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+      "title": "Quoting Levent Alpöge",
+      "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also ",
+      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+      "date": "2026-11-20T16:30:48.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 4,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/combatting-adversarial-distillation",
+      "title": "Combatting adversarial distillation",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "date": "2026-11-20T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 3
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
       "title": "Token fraud is here and it’s BAD (YouTube)",
@@ -14,6 +55,32 @@
       "accent": "#8d5bd3",
       "score": 2,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "OpenAI-https://openai.com/business/customer-stories/hebbia",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "date": "2026-11-20T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 4
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/introducing-medchembench",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "date": "2026-11-20T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 3
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Nov/19/postgresql-19/",
@@ -69,10 +136,10 @@
       "score": 4
     },
     {
-      "id": "OpenAI-https://openai.com/business/learn/deploying-daybreak-red",
-      "title": "Deploying Daybreak Red",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "id": "OpenAI-https://openai.com/business/learn/codex-security-plugin-demo",
+      "title": "Explore the Codex Security Plugin",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
       "date": "2026-11-19T00:00:00.000Z",
       "source": "OpenAI",
       "sourceHomepage": "https://openai.com/news/",
@@ -95,19 +162,6 @@
       "score": 4
     },
     {
-      "id": "OpenAI-https://openai.com/business/learn/codex-security-plugin-demo",
-      "title": "Explore the Codex Security Plugin",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "date": "2026-11-19T00:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 4
-    },
-    {
       "id": "OpenAI-https://openai.com/business/learn/daybreak-blue-onboarding-demo",
       "title": "Get started with Daybreak Blue",
       "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
@@ -119,6 +173,19 @@
       "region": "global",
       "accent": "#101010",
       "score": 3
+    },
+    {
+      "id": "OpenAI-https://openai.com/business/learn/deploying-daybreak-red",
+      "title": "Deploying Daybreak Red",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "date": "2026-11-19T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 4
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Nov/18/llm-gemini/",
@@ -242,19 +309,6 @@
       "score": 3
     },
     {
-      "id": "OpenAI-https://openai.com/index/research-acceleration-jagged-frontier",
-      "title": "Research acceleration: The jagged frontier",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "date": "2026-11-18T08:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 5
-    },
-    {
       "id": "OpenAI-https://openai.com/business/customer-stories/sumitomo-life",
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
       "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
@@ -266,6 +320,19 @@
       "region": "global",
       "accent": "#101010",
       "score": 4
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/research-acceleration-jagged-frontier",
+      "title": "Research acceleration: The jagged frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "date": "2026-11-18T08:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 5
     },
     {
       "id": "OpenAI-https://openai.com/index/inside-the-codex-sandbox",
@@ -428,10 +495,10 @@
       "score": 4
     },
     {
-      "id": "OpenAI-https://openai.com/index/introducing-openai-for-chile",
-      "title": "Introducing OpenAI for Chile",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "id": "OpenAI-https://openai.com/index/astra-law-6-2",
+      "title": "Astra for Law leads in legal intelligence",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "url": "https://openai.com/index/astra-law-6-2",
       "date": "2026-11-17T00:00:00.000Z",
       "source": "OpenAI",
       "sourceHomepage": "https://openai.com/news/",
@@ -441,10 +508,10 @@
       "score": 5
     },
     {
-      "id": "OpenAI-https://openai.com/index/astra-law-6-2",
-      "title": "Astra for Law leads in legal intelligence",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-      "url": "https://openai.com/index/astra-law-6-2",
+      "id": "OpenAI-https://openai.com/index/introducing-openai-for-chile",
+      "title": "Introducing OpenAI for Chile",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
       "date": "2026-11-17T00:00:00.000Z",
       "source": "OpenAI",
       "sourceHomepage": "https://openai.com/news/",
@@ -479,32 +546,6 @@
       "region": "global",
       "accent": "#76b900",
       "score": 2
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "title": "Broadening access to AI for scientists",
-      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "date": "2026-11-16T17:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/strengthening-online-child-safety",
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-      "url": "https://openai.com/index/strengthening-online-child-safety",
-      "date": "2026-11-16T17:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3
     },
     {
       "id": "NVIDIA-https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
@@ -571,19 +612,6 @@
       "region": "global",
       "accent": "#4285f4",
       "score": 1
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/science-at-the-frontier",
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-      "url": "https://openai.com/index/science-at-the-frontier",
-      "date": "2026-11-16T12:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 5
     },
     {
       "id": "NVIDIA-https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
@@ -707,34 +735,6 @@
       "kind": "expert",
       "region": "global",
       "accent": "#1f7a6b",
-      "score": 3,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
-      "title": "datasette-cluster-map 0.19",
-      "summary": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants ow",
-      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
-      "date": "2026-11-13T23:02:45.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 4,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
-      "title": "datasette-leaflet 0.3",
-      "summary": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violat",
-      "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
-      "date": "2026-11-13T22:30:54.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
       "score": 3,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
