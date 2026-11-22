@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-21T07:43:01.434Z",
+  "updatedAt": "2026-11-22T07:28:27.611Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Nov/21/muru/",
+      "title": "Muru",
+      "summary": "Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
+      "date": "2026-11-21T23:56:28.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 4,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Nov/20/ravi-vakil/",
       "title": "Quoting Ravi Vakil",
@@ -41,6 +55,20 @@
       "region": "global",
       "accent": "#101010",
       "score": 3
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Nov/20/llm-gemini/",
+      "title": "llm-gemini 0.38.1",
+      "summary": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added those models to the llm-gemini plugin, which is now fixed in this dot release. The ",
+      "url": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
+      "date": "2026-11-20T03:01:57.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 3,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
@@ -688,34 +716,6 @@
       "summary": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and querie",
       "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
       "date": "2026-11-15T03:49:47.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 4,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Nov/14/datasette-llm/",
-      "title": "datasette-llm 0.1a11",
-      "summary": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that t",
-      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
-      "date": "2026-11-14T23:59:28.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 5,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Nov/14/datasette-vega/",
-      "title": "datasette-vega 0.7",
-      "summary": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus some",
-      "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
-      "date": "2026-11-14T17:09:09.000Z",
       "source": "Simon Willison",
       "sourceHomepage": "https://simonwillison.net/",
       "kind": "expert",
