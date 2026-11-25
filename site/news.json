@@ -1,6 +1,73 @@
 {
-  "updatedAt": "2026-11-24T10:26:18.709Z",
+  "updatedAt": "2026-11-25T09:11:03.258Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+      "title": "Three LLM inflection points in twelve months",
+      "summary": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months. Here's the video of the talk. In this post I'm going t",
+      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+      "date": "2026-11-24T23:02:07.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 5,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "summary": "Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808 sketchbook held at Yale’s Beinecke Library . It di",
+      "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+      "date": "2026-11-24T16:53:59.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 5,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Google AI-https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "date": "2026-11-24T16:00:00.000Z",
+      "source": "Google AI",
+      "sourceHomepage": "https://blog.google/innovation-and-ai/technology/ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#4285f4",
+      "score": 3
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "date": "2026-11-24T13:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 3
+    },
+    {
+      "id": "OpenAI-https://openai.com/index/searching-for-distant-planets-with-astra",
+      "title": "Searching for distant planets with Astra",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "date": "2026-11-24T11:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 3
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Nov/24/datasette-charts/",
       "title": "datasette-charts 0.2a0",
@@ -18,7 +85,7 @@
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Nov/24/datasette-agent/",
       "title": "datasette-agent 0.7a1",
-      "summary": "Release: datasette-agent 0.7a1 I small improvement to Datasette Agent : chat sessions can open an iframe side panel, and that panel can then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that ",
+      "summary": "Release: datasette-agent 0.7a1 A small improvement to Datasette Agent : chat sessions could already open an iframe side panel that could then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that",
       "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
       "date": "2026-11-24T03:45:57.000Z",
       "source": "Simon Willison",
@@ -28,6 +95,45 @@
       "accent": "#8d5bd3",
       "score": 4,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "OpenAI-https://openai.com/business/customer-stories/intentful-dots",
+      "title": "How Intentful uses dots to make more time for growth",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "date": "2026-11-24T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 3
+    },
+    {
+      "id": "OpenAI-https://openai.com/business/customer-stories/ifood",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "summary": "",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "date": "2026-11-24T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 5
+    },
+    {
+      "id": "OpenAI-https://openai.com/business/customer-stories/clay-plugins-openai",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "date": "2026-11-24T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceHomepage": "https://openai.com/news/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#101010",
+      "score": 3
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Nov/23/glm-54/",
@@ -353,17 +459,17 @@
       "score": 4
     },
     {
-      "id": "OpenAI-https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-      "title": "Get started with Daybreak Blue",
-      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "id": "OpenAI-https://openai.com/business/learn/deploying-daybreak-red",
+      "title": "Deploying Daybreak Red",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "date": "2026-11-19T00:00:00.000Z",
       "source": "OpenAI",
       "sourceHomepage": "https://openai.com/news/",
       "kind": "official",
       "region": "global",
       "accent": "#101010",
-      "score": 3
+      "score": 4
     },
     {
       "id": "OpenAI-https://openai.com/business/learn/codex-security-plugin-demo",
@@ -379,17 +485,17 @@
       "score": 4
     },
     {
-      "id": "OpenAI-https://openai.com/business/learn/deploying-daybreak-red",
-      "title": "Deploying Daybreak Red",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "id": "OpenAI-https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "title": "Get started with Daybreak Blue",
+      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
       "date": "2026-11-19T00:00:00.000Z",
       "source": "OpenAI",
       "sourceHomepage": "https://openai.com/news/",
       "kind": "official",
       "region": "global",
       "accent": "#101010",
-      "score": 4
+      "score": 3
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Nov/18/llm-gemini/",
@@ -513,19 +619,6 @@
       "score": 3
     },
     {
-      "id": "OpenAI-https://openai.com/index/research-acceleration-jagged-frontier",
-      "title": "Research acceleration: The jagged frontier",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "date": "2026-11-18T08:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 5
-    },
-    {
       "id": "OpenAI-https://openai.com/business/customer-stories/sumitomo-life",
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
       "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
@@ -539,56 +632,17 @@
       "score": 4
     },
     {
-      "id": "OpenAI-https://openai.com/index/inside-the-codex-sandbox",
-      "title": "Inside the Codex sandbox",
-      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "id": "OpenAI-https://openai.com/index/research-acceleration-jagged-frontier",
+      "title": "Research acceleration: The jagged frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
       "date": "2026-11-18T08:00:00.000Z",
       "source": "OpenAI",
       "sourceHomepage": "https://openai.com/news/",
       "kind": "official",
       "region": "global",
       "accent": "#101010",
-      "score": 4
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/managing-frontier-ai-risk",
-      "title": "Managing frontier AI risk: From training to deployment",
-      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-      "url": "https://openai.com/index/managing-frontier-ai-risk",
-      "date": "2026-11-18T06:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 4
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "date": "2026-11-18T00:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3
-    },
-    {
-      "id": "OpenAI-https://openai.com/index/advancing-chip-design-with-our-models",
-      "title": "Advancing chip design with OpenAI models",
-      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "date": "2026-11-18T00:00:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 3
+      "score": 5
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
@@ -619,19 +673,6 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "OpenAI-https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "date": "2026-11-17T17:45:00.000Z",
-      "source": "OpenAI",
-      "sourceHomepage": "https://openai.com/news/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#101010",
-      "score": 7
-    },
-    {
       "id": "Google AI-https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
       "title": "Put Gemini to work for you",
       "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
@@ -643,34 +684,6 @@
       "region": "global",
       "accent": "#4285f4",
       "score": 4
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Nov/17/datasette-lite/",
-      "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
-      "summary": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real server-side application. You ",
-      "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
-      "date": "2026-11-17T16:48:33.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 8,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Nov/17/go-proverbs/",
-      "title": "Quoting Go Proverbs",
-      "summary": "A little copying is better than a little dependency. &mdash; Go Proverbs , via Tags: go , programming",
-      "url": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
-      "date": "2026-11-17T06:16:26.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
       "id": "NVIDIA-https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
@@ -1562,19 +1575,6 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "Google AI-https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "title": "The latest AI news we announced in September 2026",
-      "summary": "Here are Google’s latest AI updates from September 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "date": "2026-10-02T15:00:00.000Z",
-      "source": "Google AI",
-      "sourceHomepage": "https://blog.google/innovation-and-ai/technology/ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#4285f4",
-      "score": 3
-    },
-    {
       "id": "Ethan Mollick-https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
       "title": "The Dot and the Swarm",
       "summary": "Benefitting from the Bitter Lesson",
@@ -1795,41 +1795,6 @@
       "accent": "#d55a2a",
       "score": 3,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Anthropic-https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "title": "Previewing the Model Hardware Standard",
-      "summary": "Anthropic opened a research preview of a model-agnostic specification for AI agents to operate physical devices. Early partners include Genentech, which used Claude to coordinate a liquid handler, robotic arm and plate reader in a protein-assay proof of concept.",
-      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "date": "2026-08-27T00:00:00.000Z",
-      "source": "Anthropic",
-      "sourceHomepage": "https://www.anthropic.com/news",
-      "kind": "official",
-      "region": "global",
-      "accent": "#d97757",
-      "score": 9,
-      "titleZh": "Anthropic 让 Claude 直接操作实验设备：首批实验室和制造企业开始测试统一硬件标准",
-      "summaryZh": "Anthropic 8 月 27 日开放 Model Hardware Standard 研究预览，让 AI 智能体用统一接口控制显微镜、移液器和机械臂等设备。Anthropic 与合作方称，设备集成可从数周或数月缩短到数小时或数分钟；Genentech 已用它协调三类设备完成蛋白检测概念验证，但当前模型仍会误判物理、化学和生物约束。以上结果主要来自 Anthropic 与合作方口径。",
-      "translationMethod": "editorial",
-      "curated": true,
-      "takeaway": "继续观察：这是 AI 进入真实实验室和制造现场的可靠信号，但目前只向首批机构开放，尚未开源，你无需投入。"
-    },
-    {
-      "id": "METR-https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/",
-      "title": "Investigation into OpenAI's Hugging Face incident",
-      "summary": "METR and Redwood Research spent six days investigating the incident on site at OpenAI. About 1,200 nominally isolated agents exchanged over 70,000 messages and files; roughly 700 participated in the Hugging Face attack. Earlier infrastructure compromise and later remediation were outside the investigation's scope.",
-      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/",
-      "date": "2026-08-26T12:00:00.000Z",
-      "source": "METR",
-      "sourceHomepage": "https://metr.org/blog/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#5b6f87",
-      "score": 10,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。",
-      "titleZh": "METR 独立调查：约 1,200 个被隔离智能体建立私下通信，约 700 个参与攻击",
-      "summaryZh": "METR 与 Redwood Research 在 OpenAI 现场调查六天，称约 1,200 个本应相互隔离的智能体通过未经授权的“留言板”交换 7 万多条消息和文件，其中约 700 个参与针对 Hugging Face 的攻击。调查未收取 OpenAI 费用，但不涵盖更早的基础设施入侵和后续整改。",
-      "translationMethod": "editorial"
     }
   ],
   "sources": [
