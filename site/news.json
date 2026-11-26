@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-25T09:11:03.258Z",
+  "updatedAt": "2026-11-26T08:54:44.239Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+      "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+      "summary": "This additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025 . It was only today that I understood one of its most attractive characteristics. Normally, if you want to grab ",
+      "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+      "date": "2026-11-26T06:08:25.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 6,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+      "title": "Quoting Scott Aaronson",
+      "summary": "It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we’d previously only glimpsed through fog. Picture van Leeuwenhoek first training a microscope on pondwater, or Galileo fir",
+      "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+      "date": "2026-11-25T23:26:32.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 2,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Nov/25/datasette-charts/",
+      "title": "datasette-charts 0.3a0",
+      "summary": "Release: datasette-charts 0.3a0 I added chart annotations to datasette-charts ! You can now render a chart and then annotate it with lines, shaded areas, labels, or a combination of the three. A chart with annotations looks like this: Here's that same chart in Datasette Lite , wh",
+      "url": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
+      "date": "2026-11-25T18:16:50.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 4,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
       "title": "Three LLM inflection points in twelve months",
@@ -43,6 +85,19 @@
       "score": 3
     },
     {
+      "id": "DeepMind-https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "date": "2026-11-24T13:07:53.000Z",
+      "source": "DeepMind",
+      "sourceHomepage": "https://deepmind.google/blog/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#6b63ff",
+      "score": 3
+    },
+    {
       "id": "OpenAI-https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
       "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
@@ -67,6 +122,20 @@
       "region": "global",
       "accent": "#101010",
       "score": 3
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Nov/24/datasette-charts-2/",
+      "title": "datasette-charts 0.2a1",
+      "summary": "Release: datasette-charts 0.2a1 Minor UI improvements: Collapsing the suggested charts section now leaves the chart visible. Following a link to a chart opens it with the suggestions collapsed for that visit. On table pages the panel now sits below the \"4,235 rows where country =",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-charts-2/",
+      "date": "2026-11-24T06:07:19.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 3,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Nov/24/datasette-charts/",
@@ -174,6 +243,19 @@
       "kind": "official",
       "region": "global",
       "accent": "#101010",
+      "score": 4
+    },
+    {
+      "id": "NVIDIA-https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+      "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+      "summary": "The elves don’t have to be the only ones busy in the workshop this holiday season. With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the next level. For some, that means diving into a new game. […]",
+      "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+      "date": "2026-11-23T17:00:08.000Z",
+      "source": "NVIDIA",
+      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "kind": "official",
+      "region": "global",
+      "accent": "#76b900",
       "score": 4
     },
     {
@@ -565,34 +647,6 @@
       "score": 5
     },
     {
-      "id": "Simon Willison-https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
-      "title": "Quoting Daniel Stenberg",
-      "summary": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A little over 200 bugfixes actually. 200 bugfi",
-      "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
-      "date": "2026-11-18T15:58:27.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 4,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
-      "title": "The PSF end-of-year fundraiser",
-      "summary": "With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work benefits from Python, please consider donating this year! The PSF looks a",
-      "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
-      "date": "2026-11-18T14:44:48.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 4,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
       "id": "NVIDIA-https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
       "title": "NVIDIA RTX Spark Compact Desktops Out Now",
       "summary": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room ",
@@ -643,34 +697,6 @@
       "region": "global",
       "accent": "#101010",
       "score": 5
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
-      "title": "External sandboxes for coding agents",
-      "summary": "I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a machine. I worked on this project with Prime ",
-      "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
-      "date": "2026-11-17T22:52:29.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 8,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
-      "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
-      "summary": "OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're available in the API as gpt-6.2-astra and gpt-6.2-sol . I shipped LLM 0.38 with support for the new models. 6.2 As",
-      "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
-      "date": "2026-11-17T22:38:52.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 7,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
       "id": "Google AI-https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
@@ -1265,19 +1291,6 @@
       "score": 3
     },
     {
-      "id": "NVIDIA-https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
-      "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-      "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
-      "date": "2026-10-28T15:00:46.000Z",
-      "source": "NVIDIA",
-      "sourceHomepage": "https://blogs.nvidia.com/blog/category/generative-ai/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#76b900",
-      "score": 5
-    },
-    {
       "id": "Nathan Lambert-https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
       "title": "Artificial Analysis v5 and the benchmarker's dilemma",
       "summary": "A sort of review of the benchmarking industry and what's missing.",
@@ -1478,19 +1491,6 @@
       "region": "global",
       "accent": "#6b63ff",
       "score": 4
-    },
-    {
-      "id": "DeepMind-https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary": "",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "date": "2026-10-13T16:01:52.000Z",
-      "source": "DeepMind",
-      "sourceHomepage": "https://deepmind.google/blog/",
-      "kind": "official",
-      "region": "global",
-      "accent": "#6b63ff",
-      "score": 3
     },
     {
       "id": "Google AI-https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
