@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-26T08:54:44.239Z",
+  "updatedAt": "2026-11-27T09:06:09.673Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+      "title": "Quoting Jack Despain Zhou",
+      "summary": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles from ostensibly serious people with ostens",
+      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+      "date": "2026-11-26T15:09:31.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 1,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
       "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
@@ -13,6 +27,20 @@
       "region": "global",
       "accent": "#8d5bd3",
       "score": 6,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Nov/26/hn-50651685/",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "summary": "My comment on The New York Times warns photographers not to update Photoshop over AI features &mdash; Hacker News. I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly enough). At one point I asked if they could fix things up if",
+      "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+      "date": "2026-11-26T05:08:46.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 2,
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
@@ -580,20 +608,6 @@
       "score": 3
     },
     {
-      "id": "Simon Willison-https://simonwillison.net/2026/Nov/18/llm-gemini/",
-      "title": "llm-gemini 0.38",
-      "summary": "Release: llm-gemini 0.38 Today Google introduced Gemini 4 Neon . I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse. Previously the Gemini 4 lineup was Hydrogen, Argon, and Carbon - where Argon and Carbon were the ",
-      "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
-      "date": "2026-11-18T23:59:20.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 5,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
       "id": "DeepMind-https://deepmind.google/blog/introducing-gemini-4-neon/",
       "title": "Introducing Gemini 4 Neon",
       "summary": "",
@@ -618,20 +632,6 @@
       "region": "global",
       "accent": "#6b63ff",
       "score": 4
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Nov/18/datasette-arrows/",
-      "title": "datasette-arrows 0.1a0",
-      "summary": "Release: datasette-arrows 0.1a0 Datasette 1.0a43 added the ability for plugins to implement streaming export formats. Datasette core supports streaming CSV and TSV - you can export millions of lines of data from a table without needing to load it all into memory, because those tw",
-      "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
-      "date": "2026-11-18T17:09:59.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 3,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
       "id": "Google AI-https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
