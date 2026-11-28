@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-11-27T09:06:09.673Z",
+  "updatedAt": "2026-11-28T08:28:27.595Z",
   "items": [
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Nov/27/datasette-charts/",
+      "title": "datasette-charts 0.4a0",
+      "summary": "Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up wi",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+      "date": "2026-11-27T23:57:17.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 3,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
+    {
+      "id": "Simon Willison-https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+      "title": "datasette-mcp 0.4",
+      "summary": "Release: datasette-mcp 0.4 Fixed for compatibility with Datasette 1.0a44 . Tags: model-context-protocol , datasette",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+      "date": "2026-11-27T00:26:17.000Z",
+      "source": "Simon Willison",
+      "sourceHomepage": "https://simonwillison.net/",
+      "kind": "expert",
+      "region": "global",
+      "accent": "#8d5bd3",
+      "score": 3,
+      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
+    },
     {
       "id": "Simon Willison-https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
       "title": "Quoting Jack Despain Zhou",
@@ -463,20 +491,6 @@
       "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
-      "id": "Simon Willison-https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
-      "title": "Token fraud is here and it’s BAD (YouTube)",
-      "summary": "Claire Vo runs ChatPRD , an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. In this YouTube video (see also the accompanying Twitter post ) Claire d",
-      "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
-      "date": "2026-11-20T02:49:57.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 2,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
-    },
-    {
       "id": "OpenAI-https://openai.com/business/customer-stories/hebbia",
       "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
       "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
@@ -501,20 +515,6 @@
       "region": "global",
       "accent": "#101010",
       "score": 3
-    },
-    {
-      "id": "Simon Willison-https://simonwillison.net/2026/Nov/19/postgresql-19/",
-      "title": "PostgreSQL 19 Released",
-      "summary": "Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely worth th",
-      "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
-      "date": "2026-11-19T20:43:57.000Z",
-      "source": "Simon Willison",
-      "sourceHomepage": "https://simonwillison.net/",
-      "kind": "expert",
-      "region": "global",
-      "accent": "#8d5bd3",
-      "score": 4,
-      "takeaway": "专家观点：帮助理解影响，不替代官方事实。"
     },
     {
       "id": "Google AI-https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
